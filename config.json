@@ -4,6 +4,7 @@
   "nowStartVideoTitle": "Tiny Shuj - Nowy cali G",
   "nowSize": 10,
   "allTimeSize": 100,
+  "latestSize": 10,
   "excludeKeyword": "PIXA",
   "excludeCaseSensitive": true,
   "applyExcludeToNow": true,

@@ -148,6 +148,7 @@ async function fetchViaApi(apiKey) {
       title: stats[v.id].title ?? v.title,
       views: stats[v.id].views,
       order,
+      publishedAt: v.publishedAt ?? null,
       publishedText: v.publishedAt ? new Date(v.publishedAt).toLocaleDateString('pl-PL', { day: 'numeric', month: 'short', year: 'numeric' }) : '',
       exact: true,
     }));
@@ -199,7 +200,7 @@ async function fetchViaInnertube() {
     if (!exact) views = parseViewsText(v.viewsText) ?? 0;
     done++;
     if (done % 25 === 0) log(`  ${done}/${listing.length}`);
-    return { id: v.id, title, views, order: v.order, publishedText: v.publishedText, exact };
+    return { id: v.id, title, views, order: v.order, publishedAt: null, publishedText: v.publishedText, exact };
   });
   return { channelTitle, raw };
 }
@@ -236,17 +237,34 @@ const allTime = [...allTimePool].sort(byViews).slice(0, cfg.allTimeSize);
 const nowPool = videos.filter(v => v.order <= anchor.order && (!cfg.applyExcludeToNow || !v.excluded));
 const now = [...nowPool].sort(byViews).slice(0, cfg.nowSize);
 
-// ---------- 4. historia (tygodniowe migawki) ----------
+// najnowsze wydania: od najnowszego (order rośnie = starsze), bez wykluczonych
+const latest = videos.filter(v => !v.excluded).sort((a, b) => a.order - b.order).slice(0, cfg.latestSize ?? 10);
+
+// ---------- 4. historia (codzienne migawki, porównanie tydzień do tygodnia) ----------
 
 const today = new Date();
-const chartDate = [today.getFullYear(), today.getMonth() + 1, today.getDate()].map(n => String(n).padStart(2, '0')).join('-'); // data lokalna
+const isoDate = (d) => [d.getFullYear(), d.getMonth() + 1, d.getDate()].map(n => String(n).padStart(2, '0')).join('-'); // data lokalna
+const chartDate = isoDate(today);
+const daysAgo = (n) => { const d = new Date(today); d.setDate(d.getDate() - n); return isoDate(d); };
+const isoWeek = (dateStr) => { // "RRRR-Www" – do liczenia tygodni w notowaniu
+  const d = new Date(dateStr + 'T00:00:00Z'); const day = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - day);
+  const y = d.getUTCFullYear(); const w = Math.ceil(((d - Date.UTC(y, 0, 1)) / 864e5 + 1) / 7);
+  return `${y}-W${String(w).padStart(2, '0')}`;
+};
+
 let history = { snapshots: [] };
 if (fs.existsSync(p('history.json'))) {
   try { history = JSON.parse(fs.readFileSync(p('history.json'), 'utf8')); } catch { /* zaczynamy od nowa */ }
 }
 // ponowne uruchomienie tego samego dnia nadpisuje migawkę z tego dnia
-history.snapshots = history.snapshots.filter(s => s.date !== chartDate);
-const prev = history.snapshots.length ? history.snapshots[history.snapshots.length - 1] : null;
+history.snapshots = history.snapshots.filter(s => s.date !== chartDate).sort((a, b) => a.date.localeCompare(b.date));
+
+// punkt odniesienia dla strzałek ▲▼: ostatnia migawka sprzed co najmniej 7 dni;
+// jeśli historia jest krótsza – najstarsza dostępna (czyli „od startu”)
+const weekAgo = daysAgo(7);
+const older = history.snapshots.filter(s => s.date <= weekAgo);
+const prev = older.length ? older[older.length - 1] : (history.snapshots[0] ?? null);
 
 const viewsMap = Object.fromEntries(videos.map(v => [v.id, v.views]));
 const snapshot = {
@@ -256,17 +274,28 @@ const snapshot = {
   views: viewsMap,
 };
 history.snapshots.push(snapshot);
+
+// przycinanie: ostatnie 60 dni co dzień, starsze – jedna migawka na tydzień
+const keepFrom = daysAgo(60);
+const seenWeeks = new Set();
+history.snapshots = history.snapshots.filter(s => {
+  if (s.date >= keepFrom) return true;
+  const w = isoWeek(s.date);
+  if (seenWeeks.has(w)) return false;
+  seenWeeks.add(w); return true;
+});
 fs.writeFileSync(p('history.json'), JSON.stringify(history));
 
 function enrich(list, key) {
   return list.map((v, i) => {
     const pos = i + 1;
     const prevPos = prev ? (prev[key].indexOf(v.id) + 1 || null) : null;
-    let peak = pos, weeks = 0;
+    let peak = pos; const weekSet = new Set();
     for (const s of history.snapshots) {
       const idx = s[key].indexOf(v.id);
-      if (idx >= 0) { weeks++; peak = Math.min(peak, idx + 1); }
+      if (idx >= 0) { weekSet.add(isoWeek(s.date)); peak = Math.min(peak, idx + 1); }
     }
+    const weeks = weekSet.size;
     const prevViews = prev?.views?.[v.id];
     return {
       pos,
@@ -308,6 +337,13 @@ const data = {
   },
   now: enrich(now, 'now'),
   allTime: enrich(allTime, 'allTime'),
+  latest: latest.map(v => ({
+    id: v.id, artist: v.artist, song: v.song, title: v.title, views: v.views, url: v.url, thumb: v.thumb,
+    thumbLarge: `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`,
+    publishedAt: v.publishedAt, publishedText: v.publishedText,
+    isNew: v.publishedAt ? (today - new Date(v.publishedAt)) < 7 * 864e5 : false, // z ostatnich 7 dni
+    viewsDelta: typeof prev?.views?.[v.id] === 'number' ? v.views - prev.views[v.id] : null,
+  })),
 };
 fs.writeFileSync(p('data.json'), JSON.stringify(data, null, 2));
 
@@ -317,7 +353,7 @@ const template = fs.readFileSync(p('template.html'), 'utf8');
 const json = JSON.stringify(data).replace(/</g, '\\u003c');
 fs.writeFileSync(p('index.html'), template.replace('/*__DATA__*/null', json));
 
-log(`Gotowe. Notowanie z ${chartDate}: Top ${now.length} Now, Top ${allTime.length} All Time.`);
+log(`Gotowe. Notowanie z ${chartDate}: Top ${now.length} Now, Top ${allTime.length} All Time, ${latest.length} najnowszych wydań (odniesienie: ${prev?.date ?? '—'}).`);
 log(`Wykluczone (${data.stats.excluded.length}): ${data.stats.excluded.map(e => e.title).join(' | ') || '—'}`);
 log('#1 Now: ' + (now[0] ? `${now[0].title} (${now[0].views} wyśw.)` : '—'));
 log('#1 All Time: ' + (allTime[0] ? `${allTime[0].title} (${allTime[0].views} wyśw.)` : '—'));

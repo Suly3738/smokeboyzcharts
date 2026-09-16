@@ -2,7 +2,7 @@ name: Aktualizacja notowania
 
 on:
   schedule:
-    - cron: "0 7 * * 1" # poniedziałek 07:00 UTC (09:00 czasu polskiego latem, 08:00 zimą)
+    - cron: "0 5 * * *" # codziennie 05:00 UTC (07:00 czasu polskiego latem, 06:00 zimą)
   workflow_dispatch:
   push:
     branches: [main]

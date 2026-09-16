@@ -7,7 +7,7 @@ Cotygodniowe notowanie utworów z kanału YouTube **Pixa Roleplay** (w stylu Bil
 - **Otwórz notowanie:** `index.html` (dwuklik) – zakładki *Top 10 Now* i *Top 100 All Time*.
 - **Odśwież ręcznie:** `update.cmd` (ok. 40 s). Log z ostatniego uruchomienia: `logs\last-run.log`.
 - **Automatycznie:** zadanie „PixaCharts Weekly” w Harmonogramie zadań Windows uruchamia `update.cmd`
-  co poniedziałek o 9:00 (jeśli komputer był wyłączony – przy najbliższym włączeniu).
+  codziennie o 9:00 (jeśli komputer był wyłączony – przy najbliższym włączeniu).
 
 ## Zasady notowań
 
@@ -32,7 +32,7 @@ Cotygodniowe notowanie utworów z kanału YouTube **Pixa Roleplay** (w stylu Bil
 
 Repozytorium: https://github.com/Suly3738/smokeboyzcharts · Strona: https://suly3738.github.io/smokeboyzcharts/
 
-GitHub Actions (`.github/workflows/update.yml`) uruchamia `update.mjs` co poniedziałek w chmurze, zapisuje
+GitHub Actions (`.github/workflows/update.yml`) uruchamia `update.mjs` codziennie (ok. 7:00) w chmurze, zapisuje
 `history.json` do repozytorium i publikuje stronę — komputer nie musi być włączony.
 Ręczne odświeżenie: zakładka *Actions* → *Aktualizacja notowania* → *Run workflow* (albo `gh workflow run update.yml`).
 
