@@ -38,13 +38,17 @@ function parseTitle(title) {
   return { artist, song };
 }
 
-function isExcluded(title) {
+function isExcluded(title, artist = '') {
   const norm = title.normalize('NFKC');
   const kw = cfg.excludeKeyword || '';
-  if (!kw) return false;
-  return cfg.excludeCaseSensitive
-    ? norm.includes(kw)
-    : norm.toLowerCase().includes(kw.toLowerCase());
+  if (kw && (cfg.excludeCaseSensitive ? norm.includes(kw) : norm.toLowerCase().includes(kw.toLowerCase()))) return true;
+  // wykonawcy spoza wytwórni (config.excludeArtists) – dopasowanie bez rozróżniania wielkości liter,
+  // w polu wykonawcy albo w całym tytule (np. featuringi)
+  for (const a of cfg.excludeArtists ?? []) {
+    const needle = a.normalize('NFKC').toLowerCase();
+    if (artist.normalize('NFKC').toLowerCase().includes(needle) || norm.toLowerCase().includes(needle)) return true;
+  }
+  return false;
 }
 
 async function mapLimit(items, limit, fn) {
@@ -223,7 +227,7 @@ const videos = raw.map(v => {
     song,
     url: `https://www.youtube.com/watch?v=${v.id}`,
     thumb: `https://i.ytimg.com/vi/${v.id}/mqdefault.jpg`,
-    excluded: isExcluded(v.title),
+    excluded: isExcluded(v.title, artist),
   };
 });
 
@@ -351,7 +355,9 @@ fs.writeFileSync(p('data.json'), JSON.stringify(data, null, 2));
 
 const template = fs.readFileSync(p('template.html'), 'utf8');
 const json = JSON.stringify(data).replace(/</g, '\\u003c');
-fs.writeFileSync(p('index.html'), template.replace('/*__DATA__*/null', json));
+const build = data.generatedAt; // identyfikator wersji – strona porównuje go z version.json i przeładowuje się, gdy przeglądarka trzyma starą kopię
+fs.writeFileSync(p('index.html'), template.replace('/*__DATA__*/null', json).replaceAll('__BUILD__', build));
+fs.writeFileSync(p('version.json'), JSON.stringify({ build }));
 
 log(`Gotowe. Notowanie z ${chartDate}: Top ${now.length} Now, Top ${allTime.length} All Time, ${latest.length} najnowszych wydań (odniesienie: ${prev?.date ?? '—'}).`);
 log(`Wykluczone (${data.stats.excluded.length}): ${data.stats.excluded.map(e => e.title).join(' | ') || '—'}`);

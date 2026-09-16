@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:13:50.195Z",
+  "generatedAt": "2026-09-16T23:18:26.387Z",
   "chartDate": "2026-09-17",
   "prevDate": null,
   "channel": {
@@ -21,6 +21,22 @@
     "totalVideos": 190,
     "excluded": [
       {
+        "id": "JJ0LXk7V220",
+        "title": "IroKeZ - Don't Hit Me (IKZ ON THE GROOV EP.04)"
+      },
+      {
+        "id": "J8chLAnDD_8",
+        "title": "IroKeZ - SLIDE (IKZ ON THE GROOV EP.03)"
+      },
+      {
+        "id": "sUfdBiPu8WM",
+        "title": "IroKeZ - EBK (IKZ ON THE GROOV EP.02)"
+      },
+      {
+        "id": "U7qfUAaAAYo",
+        "title": "IroKeZ - Tiny Raskal (IKZ ON THE GROOV EP.01)"
+      },
+      {
         "id": "wlP5dn_DnzY",
         "title": "PIXA RELAUNCH"
       },
@@ -33,8 +49,8 @@
         "title": "𝗣𝗜𝗫𝗔 𝟯.𝟬 | 𝗣𝗥𝗘𝘁𝗲𝗮𝘀𝗲𝗿"
       }
     ],
-    "nowPoolSize": 26,
-    "allTimePoolSize": 187
+    "nowPoolSize": 22,
+    "allTimePoolSize": 183
   },
   "now": [
     {
@@ -43,7 +59,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1942,
+      "views": 1941,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -75,7 +91,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 919,
+      "views": 917,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -91,7 +107,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 818,
+      "views": 817,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -139,7 +155,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 420,
+      "views": 417,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -253,7 +269,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10811,
+      "views": 10810,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -557,7 +573,7 @@
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
-      "views": 3650,
+      "views": 3649,
       "url": "https://www.youtube.com/watch?v=UpFIrX-aWEw",
       "thumb": "https://i.ytimg.com/vi/UpFIrX-aWEw/mqdefault.jpg",
       "publishedText": "4 maj 2024",
@@ -621,7 +637,7 @@
       "artist": "88Dushane",
       "song": "Wow, Wow",
       "title": "88Dushane - Wow, Wow",
-      "views": 2849,
+      "views": 2848,
       "url": "https://www.youtube.com/watch?v=bdrC6hEXTfs",
       "thumb": "https://i.ytimg.com/vi/bdrC6hEXTfs/mqdefault.jpg",
       "publishedText": "18 lis 2023",
@@ -637,7 +653,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2734,
+      "views": 2733,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -829,7 +845,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1942,
+      "views": 1941,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1485,7 +1501,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 919,
+      "views": 917,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1501,7 +1517,7 @@
       "artist": "BibbyOG",
       "song": "STARE INTERESY",
       "title": "BibbyOG - STARE INTERESY",
-      "views": 917,
+      "views": 916,
       "url": "https://www.youtube.com/watch?v=RFjTmPXkFeE",
       "thumb": "https://i.ytimg.com/vi/RFjTmPXkFeE/mqdefault.jpg",
       "publishedText": "15 maj 2024",
@@ -1709,7 +1725,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 818,
+      "views": 817,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -1802,20 +1818,6 @@
   ],
   "latest": [
     {
-      "id": "JJ0LXk7V220",
-      "artist": "IroKeZ",
-      "song": "Don't Hit Me (IKZ ON THE GROOV EP.04)",
-      "title": "IroKeZ - Don't Hit Me (IKZ ON THE GROOV EP.04)",
-      "views": 223,
-      "url": "https://www.youtube.com/watch?v=JJ0LXk7V220",
-      "thumb": "https://i.ytimg.com/vi/JJ0LXk7V220/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/JJ0LXk7V220/hqdefault.jpg",
-      "publishedAt": "2026-09-14T20:00:06Z",
-      "publishedText": "14 wrz 2026",
-      "isNew": true,
-      "viewsDelta": null
-    },
-    {
       "id": "FRgKuewHE98",
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
@@ -1830,53 +1832,11 @@
       "viewsDelta": null
     },
     {
-      "id": "J8chLAnDD_8",
-      "artist": "IroKeZ",
-      "song": "SLIDE (IKZ ON THE GROOV EP.03)",
-      "title": "IroKeZ - SLIDE (IKZ ON THE GROOV EP.03)",
-      "views": 59,
-      "url": "https://www.youtube.com/watch?v=J8chLAnDD_8",
-      "thumb": "https://i.ytimg.com/vi/J8chLAnDD_8/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/J8chLAnDD_8/hqdefault.jpg",
-      "publishedAt": "2026-09-14T18:00:06Z",
-      "publishedText": "14 wrz 2026",
-      "isNew": true,
-      "viewsDelta": null
-    },
-    {
-      "id": "sUfdBiPu8WM",
-      "artist": "IroKeZ",
-      "song": "EBK (IKZ ON THE GROOV EP.02)",
-      "title": "IroKeZ - EBK (IKZ ON THE GROOV EP.02)",
-      "views": 147,
-      "url": "https://www.youtube.com/watch?v=sUfdBiPu8WM",
-      "thumb": "https://i.ytimg.com/vi/sUfdBiPu8WM/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/sUfdBiPu8WM/hqdefault.jpg",
-      "publishedAt": "2026-09-14T16:00:06Z",
-      "publishedText": "14 wrz 2026",
-      "isNew": true,
-      "viewsDelta": null
-    },
-    {
-      "id": "U7qfUAaAAYo",
-      "artist": "IroKeZ",
-      "song": "Tiny Raskal (IKZ ON THE GROOV EP.01)",
-      "title": "IroKeZ - Tiny Raskal (IKZ ON THE GROOV EP.01)",
-      "views": 216,
-      "url": "https://www.youtube.com/watch?v=U7qfUAaAAYo",
-      "thumb": "https://i.ytimg.com/vi/U7qfUAaAAYo/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/U7qfUAaAAYo/hqdefault.jpg",
-      "publishedAt": "2026-09-14T14:00:06Z",
-      "publishedText": "14 wrz 2026",
-      "isNew": true,
-      "viewsDelta": null
-    },
-    {
       "id": "ouxZnv13bN8",
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1942,
+      "views": 1941,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/ouxZnv13bN8/hqdefault.jpg",
@@ -1897,48 +1857,6 @@
       "publishedAt": "2026-09-12T12:21:02Z",
       "publishedText": "12 wrz 2026",
       "isNew": true,
-      "viewsDelta": null
-    },
-    {
-      "id": "Vu98RAuH5xk",
-      "artist": "T-Roc",
-      "song": "Plan",
-      "title": "T-Roc - Plan",
-      "views": 443,
-      "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
-      "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/Vu98RAuH5xk/hqdefault.jpg",
-      "publishedAt": "2026-09-09T18:45:20Z",
-      "publishedText": "9 wrz 2026",
-      "isNew": false,
-      "viewsDelta": null
-    },
-    {
-      "id": "R_V90iZx1zE",
-      "artist": "FREDO",
-      "song": "BOMBERMAN [DISS TORR]",
-      "title": "FREDO - BOMBERMAN [DISS TORR]",
-      "views": 125,
-      "url": "https://www.youtube.com/watch?v=R_V90iZx1zE",
-      "thumb": "https://i.ytimg.com/vi/R_V90iZx1zE/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/R_V90iZx1zE/hqdefault.jpg",
-      "publishedAt": "2026-09-09T18:30:22Z",
-      "publishedText": "9 wrz 2026",
-      "isNew": false,
-      "viewsDelta": null
-    },
-    {
-      "id": "ZNtfZaHkyYQ",
-      "artist": "Torr",
-      "song": "Rzeka [DISS FREDO]",
-      "title": "Torr - Rzeka [DISS FREDO]",
-      "views": 135,
-      "url": "https://www.youtube.com/watch?v=ZNtfZaHkyYQ",
-      "thumb": "https://i.ytimg.com/vi/ZNtfZaHkyYQ/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/ZNtfZaHkyYQ/hqdefault.jpg",
-      "publishedAt": "2026-09-09T17:45:57Z",
-      "publishedText": "9 wrz 2026",
-      "isNew": false,
       "viewsDelta": null
     }
   ]

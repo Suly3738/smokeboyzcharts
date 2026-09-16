@@ -4,8 +4,9 @@
   "nowStartVideoTitle": "Tiny Shuj - Nowy cali G",
   "nowSize": 10,
   "allTimeSize": 100,
-  "latestSize": 10,
+  "latestSize": 3,
   "excludeKeyword": "PIXA",
+  "excludeArtists": ["IroKeZ"],
   "excludeCaseSensitive": true,
   "applyExcludeToNow": true,
   "concurrency": 4

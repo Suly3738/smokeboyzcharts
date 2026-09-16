@@ -7,6 +7,21 @@
 <meta name="theme-color" content="#0b0a1c">
 <meta http-equiv="Cache-Control" content="no-cache">
 <link rel="icon" href="logo.png?v=2">
+<script>
+// Wykrywanie nieaktualnej kopii w cache przeglądarki: porównuje wersję tej strony z version.json (pobranym z pominięciem cache)
+// i przeładowuje stronę raz, jeśli serwer ma nowszą. Działa tylko przez http(s), nie z pliku lokalnego.
+(function () {
+  const BUILD = '__BUILD__';
+  if (!/^https?:/.test(location.protocol)) return;
+  fetch('version.json?t=' + Date.now(), { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(v => {
+    if (!v || !v.build || v.build === BUILD) return;
+    let done = null; try { done = sessionStorage.getItem('sbc.reloaded'); } catch {}
+    if (done === v.build) return;
+    try { sessionStorage.setItem('sbc.reloaded', v.build); } catch {}
+    location.reload();
+  }).catch(() => {});
+})();
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -39,6 +54,21 @@
   header { text-align: center; margin-bottom: 26px; }
   .logo { display: block; width: min(460px, 86vw); margin: 0 auto; filter: drop-shadow(0 0 28px rgba(167,139,250,.35)) drop-shadow(0 0 70px rgba(244,114,182,.15)); }
   .logo img { width: 100%; height: auto; display: block; }
+  .logo { animation: float 7s ease-in-out infinite; }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); filter: drop-shadow(0 0 28px rgba(167,139,250,.35)) drop-shadow(0 0 70px rgba(244,114,182,.15)); }
+    50% { transform: translateY(-7px); filter: drop-shadow(0 0 36px rgba(167,139,250,.55)) drop-shadow(0 0 90px rgba(244,114,182,.25)); }
+  }
+  .rule, .panel-head h2::before, .panel-head h2::after { animation: twinkle 3.2s ease-in-out infinite; }
+  .panel-head h2::after { animation-delay: 1.6s; }
+  @keyframes twinkle { 0%, 100% { opacity: .55; } 50% { opacity: 1; text-shadow: 0 0 12px currentColor; } }
+  .tabs .pill::after { content: ""; position: absolute; inset: 0; border-radius: inherit;
+    background: linear-gradient(110deg, transparent 30%, rgba(255,255,255,.35) 50%, transparent 70%); background-size: 250% 100%;
+    animation: shimmer 4s ease-in-out infinite; }
+  @keyframes shimmer { 0% { background-position: 120% 0; } 40%, 100% { background-position: -120% 0; } }
+  li.row.top { animation: glow 4s ease-in-out infinite; }
+  @keyframes glow { 0%, 100% { box-shadow: 0 0 0 rgba(251,191,36,0); } 50% { box-shadow: 0 0 28px rgba(251,191,36,.12); } }
+  @media (prefers-reduced-motion: reduce) { .logo, .rule, .panel-head h2::before, .panel-head h2::after, .tabs .pill::after, li.row.top { animation: none; } }
   .kicker { font-family: var(--serif); font-size: 12px; letter-spacing: .42em; text-transform: uppercase; color: var(--muted); margin: 6px 0 0; }
   .kicker b { font-weight: 700; background: linear-gradient(90deg, var(--violet), var(--pink), var(--gold)); -webkit-background-clip: text; background-clip: text; color: transparent; }
   .rule { display: flex; align-items: center; gap: 14px; margin: 20px auto 0; max-width: 520px; color: var(--pink); font-size: 12px; }
@@ -353,10 +383,84 @@ function init() {
 }
 init();
 
-/* ---------- animowany dym w tle ---------- */
-(function smoke() {
+/* ---------- animowany dym w tle: shader WebGL (GPU, 60 fps), z zapasowym dymem 2D ---------- */
+(function smokeGL() {
   const canvas = document.getElementById('smoke');
-  const ctx = canvas.getContext('2d');
+  const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const gl = canvas.getContext('webgl', { antialias: false, depth: false, stencil: false, alpha: false, powerPreference: 'low-power' });
+  if (!gl) { window.__smokeFallback = true; return; }
+
+  const VS = 'attribute vec2 a;void main(){gl_Position=vec4(a,0.,1.);}';
+  const FS = `
+    precision mediump float;
+    uniform vec2 u_res; uniform float u_time; uniform vec2 u_mouse; uniform float u_scroll;
+    float hash(vec2 p){ return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453); }
+    float noise(vec2 p){
+      vec2 i = floor(p), f = fract(p); f = f * f * (3. - 2. * f);
+      return mix(mix(hash(i), hash(i + vec2(1., 0.)), f.x), mix(hash(i + vec2(0., 1.)), hash(i + vec2(1., 1.)), f.x), f.y);
+    }
+    float fbm(vec2 p){
+      float v = 0., a = .5; mat2 m = mat2(1.6, 1.2, -1.2, 1.6);
+      for (int i = 0; i < 5; i++) { v += a * noise(p); p = m * p; a *= .5; }
+      return v;
+    }
+    void main(){
+      vec2 uv = gl_FragCoord.xy / u_res;
+      vec2 p = (uv - .5) * vec2(u_res.x / u_res.y, 1.) * 2.4;
+      p += (u_mouse - .5) * .25;            // delikatna paralaksa za kursorem
+      p.y += u_scroll * .0006;              // tło lekko płynie przy przewijaniu
+      float t = u_time * .045;
+      // domain warping – warstwy dymu przenikają się i wirują
+      vec2 q = vec2(fbm(p + t * vec2(.9, .4)), fbm(p + vec2(5.2, 1.3) - t * .6));
+      vec2 r = vec2(fbm(p + 4. * q + vec2(1.7, 9.2) + t * .5), fbm(p + 4. * q + vec2(8.3, 2.8) - t * .35));
+      float f = fbm(p + 3.5 * r);
+      vec3 violet = vec3(.545, .361, .965), pink = vec3(.957, .447, .714), teal = vec3(.176, .831, .749), gold = vec3(.984, .749, .141);
+      vec3 col = mix(violet, pink, smoothstep(.2, .8, f));
+      col = mix(col, teal, smoothstep(.55, .95, length(q)) * .55);
+      col = mix(col, gold, smoothstep(.75, 1.0, r.x) * .25);
+      float lum = smoothstep(.18, .92, f) * (.55 + .45 * smoothstep(.2, .9, r.y));
+      col *= lum * .62;
+      col *= 1. - .55 * smoothstep(.2, 1.1, length(uv - vec2(.5, .42))); // winieta
+      vec3 bg = vec3(.043, .039, .11);
+      gl_FragColor = vec4(bg + col, 1.);
+    }`;
+  function compile(type, src) { const s = gl.createShader(type); gl.shaderSource(s, src); gl.compileShader(s); return s; }
+  const prog = gl.createProgram();
+  gl.attachShader(prog, compile(gl.VERTEX_SHADER, VS)); gl.attachShader(prog, compile(gl.FRAGMENT_SHADER, FS)); gl.linkProgram(prog);
+  if (!gl.getProgramParameter(prog, gl.LINK_STATUS)) { window.__smokeFallback = true; return; }
+  gl.useProgram(prog);
+  const buf = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, buf);
+  gl.bufferData(gl.ARRAY_BUFFER, new Float32Array([-1, -1, 3, -1, -1, 3]), gl.STATIC_DRAW);
+  const loc = gl.getAttribLocation(prog, 'a'); gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, 2, gl.FLOAT, false, 0, 0);
+  const U = { res: gl.getUniformLocation(prog, 'u_res'), time: gl.getUniformLocation(prog, 'u_time'), mouse: gl.getUniformLocation(prog, 'u_mouse'), scroll: gl.getUniformLocation(prog, 'u_scroll') };
+
+  const SCALE = 0.5; // renderujemy w połowie rozdzielczości – dym jest miękki, a GPU odpoczywa
+  let raf = null, t0 = performance.now(), mouse = [.5, .5], target = [.5, .5], scroll = 0, scrollT = 0;
+  function resize() {
+    canvas.width = Math.max(1, Math.round(innerWidth * SCALE)); canvas.height = Math.max(1, Math.round(innerHeight * SCALE));
+    gl.viewport(0, 0, canvas.width, canvas.height); gl.uniform2f(U.res, canvas.width, canvas.height);
+  }
+  function frame(now) {
+    mouse[0] += (target[0] - mouse[0]) * .04; mouse[1] += (target[1] - mouse[1]) * .04;
+    scroll += (scrollT - scroll) * .08;
+    gl.uniform1f(U.time, (now - t0) / 1000); gl.uniform2f(U.mouse, mouse[0], mouse[1]); gl.uniform1f(U.scroll, scroll);
+    gl.drawArrays(gl.TRIANGLES, 0, 3);
+    if (!reduced) raf = requestAnimationFrame(frame);
+  }
+  function start() { if (!raf) raf = requestAnimationFrame(frame); }
+  function stop() { if (raf) { cancelAnimationFrame(raf); raf = null; } }
+  addEventListener('resize', () => { resize(); if (reduced) frame(performance.now()); });
+  addEventListener('pointermove', (e) => { target = [e.clientX / innerWidth, 1 - e.clientY / innerHeight]; }, { passive: true });
+  addEventListener('scroll', () => { scrollT = scrollY; }, { passive: true });
+  document.addEventListener('visibilitychange', () => document.hidden ? stop() : start());
+  resize(); start();
+})();
+
+(function smoke() {
+  if (!window.__smokeFallback) return; // zapasowy dym 2D tylko bez WebGL
+  let canvas = document.getElementById('smoke');
+  let ctx = canvas.getContext('2d');
+  if (!ctx) { const c = canvas.cloneNode(); canvas.replaceWith(c); canvas = c; ctx = canvas.getContext('2d'); }
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const COLORS = [[139, 92, 246], [244, 114, 182], [45, 212, 191], [251, 191, 36], [99, 102, 241]];
   let W, H, parts = [], raf = null, last = 0;
