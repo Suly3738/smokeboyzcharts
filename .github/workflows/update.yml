@@ -48,7 +48,7 @@ jobs:
       - name: Przygotuj pliki strony
         run: |
           mkdir -p _site
-          cp index.html data.json _site/
+          cp index.html data.json logo.png _site/
 
       - uses: actions/upload-pages-artifact@v3
         with:
