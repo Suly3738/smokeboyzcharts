@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:22:57.139Z",
+  "generatedAt": "2026-09-16T23:26:10.318Z",
   "chartDate": "2026-09-17",
   "prevDate": null,
   "channel": {
@@ -56,10 +56,11 @@
     {
       "pos": 1,
       "id": "ouxZnv13bN8",
+      "isLatest": true,
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1942,
+      "views": 1941,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -72,6 +73,7 @@
     {
       "pos": 2,
       "id": "6tY7P4J8UZo",
+      "isLatest": false,
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
@@ -88,10 +90,11 @@
     {
       "pos": 3,
       "id": "_yAfcKGcz7Y",
+      "isLatest": false,
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 919,
+      "views": 917,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -104,10 +107,11 @@
     {
       "pos": 4,
       "id": "ZiwMRxTF6vw",
+      "isLatest": false,
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 818,
+      "views": 817,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -120,6 +124,7 @@
     {
       "pos": 5,
       "id": "K_PxyMNSgo4",
+      "isLatest": false,
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
@@ -136,6 +141,7 @@
     {
       "pos": 6,
       "id": "Vu98RAuH5xk",
+      "isLatest": false,
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
@@ -152,10 +158,11 @@
     {
       "pos": 7,
       "id": "eniF9nmftFQ",
+      "isLatest": false,
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 420,
+      "views": 417,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -168,6 +175,7 @@
     {
       "pos": 8,
       "id": "lR_vlC8uh8g",
+      "isLatest": false,
       "artist": "Tyr0ne",
       "song": "Be Smokin crxBS",
       "title": "Tyr0ne - Be Smokin crxBS",
@@ -184,6 +192,7 @@
     {
       "pos": 9,
       "id": "vLnqEidRvCY",
+      "isLatest": false,
       "artist": "Dex",
       "song": "Zoo Keeper",
       "title": "Dex - Zoo Keeper",
@@ -200,6 +209,7 @@
     {
       "pos": 10,
       "id": "8jQda9sFvV8",
+      "isLatest": false,
       "artist": "TripleB",
       "song": "GIVE A CHANCE",
       "title": "TripleB - GIVE A CHANCE",
@@ -218,6 +228,7 @@
     {
       "pos": 1,
       "id": "N6ZIMdfZZmI",
+      "isLatest": false,
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
@@ -234,10 +245,11 @@
     {
       "pos": 2,
       "id": "dXNQgu1agkg",
+      "isLatest": false,
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13160,
+      "views": 13161,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -250,6 +262,7 @@
     {
       "pos": 3,
       "id": "hI--EHIVO8w",
+      "isLatest": false,
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
@@ -266,10 +279,11 @@
     {
       "pos": 4,
       "id": "GcFByoqlJgY",
+      "isLatest": false,
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10811,
+      "views": 10810,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -282,6 +296,7 @@
     {
       "pos": 5,
       "id": "IJXt-qAG-2Q",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
@@ -298,6 +313,7 @@
     {
       "pos": 6,
       "id": "x2LVQUvEeW4",
+      "isLatest": false,
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
@@ -314,6 +330,7 @@
     {
       "pos": 7,
       "id": "A7fYhekJU-I",
+      "isLatest": false,
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
@@ -330,6 +347,7 @@
     {
       "pos": 8,
       "id": "xRKgD_-BJQs",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
@@ -346,6 +364,7 @@
     {
       "pos": 9,
       "id": "MBXLnCzPBX0",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
@@ -362,6 +381,7 @@
     {
       "pos": 10,
       "id": "lFAtuKc7Tz8",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
@@ -378,6 +398,7 @@
     {
       "pos": 11,
       "id": "Pun1oxeNjE8",
+      "isLatest": false,
       "artist": "TONY LUGO",
       "song": "88 (Snapmatic Video)",
       "title": "TONY LUGO - 88 (Snapmatic Video)",
@@ -394,6 +415,7 @@
     {
       "pos": 12,
       "id": "6g0B1iUJbLY",
+      "isLatest": false,
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
@@ -410,6 +432,7 @@
     {
       "pos": 13,
       "id": "dcbSyridlM8",
+      "isLatest": false,
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
@@ -426,6 +449,7 @@
     {
       "pos": 14,
       "id": "gC0bmMqaRp0",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
@@ -442,6 +466,7 @@
     {
       "pos": 15,
       "id": "CdvicCIhX0o",
+      "isLatest": false,
       "artist": "BibbyOG",
       "song": "BULLET TIME",
       "title": "BibbyOG - BULLET TIME",
@@ -458,6 +483,7 @@
     {
       "pos": 16,
       "id": "w20yZzvA87s",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "Hanging With Wolves DURK REMIX",
       "title": "88Dushane - Hanging With Wolves DURK REMIX (Official Music Video)",
@@ -474,6 +500,7 @@
     {
       "pos": 17,
       "id": "4k7sgidRPDI",
+      "isLatest": false,
       "artist": "WUJA",
       "song": "ALL ALONE",
       "title": "WUJA - ALL ALONE",
@@ -490,6 +517,7 @@
     {
       "pos": 18,
       "id": "DvbbinQ6z44",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "NIE WIEM GDZIE WIDZE GRANICE",
       "title": "88Dushane - NIE WIEM GDZIE WIDZE GRANICE",
@@ -506,6 +534,7 @@
     {
       "pos": 19,
       "id": "ERhCZ8EvFq0",
+      "isLatest": false,
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
@@ -522,6 +551,7 @@
     {
       "pos": 20,
       "id": "5qM3_rAl8-8",
+      "isLatest": false,
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
@@ -538,6 +568,7 @@
     {
       "pos": 21,
       "id": "OoLXI8k5kYc",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "PIONKI (PAPA DISS) (DAM CI RÓŻNICĘ)",
       "title": "88Dushane - PIONKI (PAPA DISS) (DAM CI RÓŻNICĘ)",
@@ -554,6 +585,7 @@
     {
       "pos": 22,
       "id": "CCAtfc3uu18",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "GRR POW",
       "title": "88Dushane - GRR POW (Official Music Video)",
@@ -570,6 +602,7 @@
     {
       "pos": 23,
       "id": "UpFIrX-aWEw",
+      "isLatest": false,
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
@@ -586,6 +619,7 @@
     {
       "pos": 24,
       "id": "Lap3gXlJk1Q",
+      "isLatest": false,
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
@@ -602,6 +636,7 @@
     {
       "pos": 25,
       "id": "QUL343nC7o4",
+      "isLatest": false,
       "artist": "88TRAY",
       "song": "4 A.M.",
       "title": "88TRAY - 4 A.M. (Official music video)",
@@ -618,6 +653,7 @@
     {
       "pos": 26,
       "id": "IM1RJ_GZbww",
+      "isLatest": false,
       "artist": "BibbyOG",
       "song": "DZIECIORÓB [DISS TONY LUGO]",
       "title": "BibbyOG - DZIECIORÓB [DISS TONY LUGO]",
@@ -634,6 +670,7 @@
     {
       "pos": 27,
       "id": "bdrC6hEXTfs",
+      "isLatest": false,
       "artist": "88Dushane",
       "song": "Wow, Wow",
       "title": "88Dushane - Wow, Wow",
@@ -650,10 +687,11 @@
     {
       "pos": 28,
       "id": "j_MO8oMt-Xo",
+      "isLatest": false,
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2734,
+      "views": 2733,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -666,6 +704,7 @@
     {
       "pos": 29,
       "id": "bZuoIVpLLDE",
+      "isLatest": false,
       "artist": "BABY FLAMESTA x DG SULLY",
       "song": "PORN$TAR",
       "title": "BABY FLAMESTA x DG SULLY - PORN$TAR (OFFICIAL VIDEO)",
@@ -682,6 +721,7 @@
     {
       "pos": 30,
       "id": "PNc5MgBdzfE",
+      "isLatest": false,
       "artist": "BibbyOG",
       "song": "Który to w tonego strzał? (DISS TONY LUGO)",
       "title": "BibbyOG - Który to w tonego strzał? (DISS TONY LUGO)",
@@ -698,6 +738,7 @@
     {
       "pos": 31,
       "id": "RoimmOxAv2s",
+      "isLatest": false,
       "artist": "88Dushane x msloo",
       "song": "$tars Avenue",
       "title": "88Dushane x msloo - $tars Avenue",
@@ -714,6 +755,7 @@
     {
       "pos": 32,
       "id": "Pz6uIhTaHwc",
+      "isLatest": false,
       "artist": "TONY LUGO",
       "song": "WIĘCEJ NIŻ MAM",
       "title": "TONY LUGO - WIĘCEJ NIŻ MAM (official video)",
@@ -730,6 +772,7 @@
     {
       "pos": 33,
       "id": "FB7JWDz-S30",
+      "isLatest": false,
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
@@ -746,6 +789,7 @@
     {
       "pos": 34,
       "id": "oQqJNGM6k7g",
+      "isLatest": false,
       "artist": "WUJA",
       "song": "TOXIC [DISS CG x LUCKY]",
       "title": "WUJA - TOXIC [DISS CG x LUCKY]",
@@ -762,6 +806,7 @@
     {
       "pos": 35,
       "id": "vLGi6q4X9OM",
+      "isLatest": false,
       "artist": "TONY LUGO",
       "song": "MOLOTOV",
       "title": "TONY LUGO - MOLOTOV",
@@ -778,6 +823,7 @@
     {
       "pos": 36,
       "id": "MlgzXmZMxVo",
+      "isLatest": false,
       "artist": "Lia's",
       "song": "始まり(Początek)",
       "title": "Lia's - 始まり(Początek)",
@@ -794,6 +840,7 @@
     {
       "pos": 37,
       "id": "FNXj91Sz0oY",
+      "isLatest": false,
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
@@ -810,6 +857,7 @@
     {
       "pos": 38,
       "id": "Txsb4t6nBE4",
+      "isLatest": false,
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
@@ -826,6 +874,7 @@
     {
       "pos": 39,
       "id": "02aWME4UjQo",
+      "isLatest": false,
       "artist": "ST",
       "song": "Actin Crazy",
       "title": "ST - Actin Crazy",
@@ -842,10 +891,11 @@
     {
       "pos": 40,
       "id": "ouxZnv13bN8",
+      "isLatest": true,
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1942,
+      "views": 1941,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -858,6 +908,7 @@
     {
       "pos": 41,
       "id": "qAzNpFEe6-k",
+      "isLatest": false,
       "artist": "BIBBY OG",
       "song": "KAPITAN ULICY (Feat - Ana)",
       "title": "BIBBY OG - KAPITAN ULICY (Feat - Ana) (Official Music Video)",
@@ -874,6 +925,7 @@
     {
       "pos": 42,
       "id": "LsshqES46Iw",
+      "isLatest": false,
       "artist": "LILS4MURA1 OZAPPA Z4BUZA K3NZI",
       "song": "LOW",
       "title": "LILS4MURA1 OZAPPA Z4BUZA K3NZI - LOW",
@@ -890,6 +942,7 @@
     {
       "pos": 43,
       "id": "DFSVSxbg6Bs",
+      "isLatest": false,
       "artist": "Drippy",
       "song": "DRACO",
       "title": "Drippy - DRACO [Oficial Music Video]",
@@ -906,6 +959,7 @@
     {
       "pos": 44,
       "id": "RutJdpFfBs8",
+      "isLatest": false,
       "artist": "88TRAY",
       "song": "JESTEM CORAZ WYŻEJ",
       "title": "88TRAY - JESTEM CORAZ WYŻEJ",
@@ -922,6 +976,7 @@
     {
       "pos": 45,
       "id": "_me1SfLaZCo",
+      "isLatest": false,
       "artist": "SCRIBBLE",
       "song": "K0K41N4",
       "title": "SCRIBBLE - K0K41N4 (Official Music Video)",
@@ -938,6 +993,7 @@
     {
       "pos": 46,
       "id": "7oWVQe1W2RE",
+      "isLatest": false,
       "artist": "PEDRO",
       "song": "DRIFT",
       "title": "PEDRO - DRIFT",
@@ -954,6 +1010,7 @@
     {
       "pos": 47,
       "id": "6F01QNtqlO0",
+      "isLatest": false,
       "artist": "88Tray",
       "song": "GI JOE (feat. 88Dushane)",
       "title": "88Tray - GI JOE (feat. 88Dushane)",
@@ -970,6 +1027,7 @@
     {
       "pos": 48,
       "id": "CWTlZqr-3Is",
+      "isLatest": false,
       "artist": "SELENA",
       "song": "MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
       "title": "SELENA - MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
@@ -986,6 +1044,7 @@
     {
       "pos": 49,
       "id": "F3wUp8JkMTU",
+      "isLatest": false,
       "artist": "88TRAY",
       "song": "WYJAŚNIENIE",
       "title": "88TRAY - WYJAŚNIENIE",
@@ -1002,6 +1061,7 @@
     {
       "pos": 50,
       "id": "qk-xdGeJmMU",
+      "isLatest": false,
       "artist": "KAYDY BABY",
       "song": "SMOKE",
       "title": "KAYDY BABY - SMOKE",
@@ -1018,6 +1078,7 @@
     {
       "pos": 51,
       "id": "iU15GbccCME",
+      "isLatest": false,
       "artist": "CXSHOUT!",
       "song": "Freddy Krueger Shot By Nighty Visionz",
       "title": "CXSHOUT! - Freddy Krueger (Official Music Video) Shot By Nighty Visionz",
@@ -1034,6 +1095,7 @@
     {
       "pos": 52,
       "id": "vIijY4mwt4M",
+      "isLatest": false,
       "artist": "WUJA",
       "song": "OneTake Challenge",
       "title": "WUJA - OneTake Challenge",
@@ -1050,6 +1112,7 @@
     {
       "pos": 53,
       "id": "cxFkImgX4A8",
+      "isLatest": false,
       "artist": "4ozzy",
       "song": "unknwn",
       "title": "4ozzy - unknwn",
@@ -1066,6 +1129,7 @@
     {
       "pos": 54,
       "id": "CSDhwimu3S0",
+      "isLatest": false,
       "artist": "ST & Flat",
       "song": "Uzi",
       "title": "ST & Flat - Uzi",
@@ -1082,6 +1146,7 @@
     {
       "pos": 55,
       "id": "xbxnj5eOVHw",
+      "isLatest": false,
       "artist": "",
       "song": "Los Santos Drift | S01E01 | PILOT",
       "title": "Los Santos Drift | S01E01 | PILOT",
@@ -1098,6 +1163,7 @@
     {
       "pos": 56,
       "id": "pyKzI4qUXzs",
+      "isLatest": false,
       "artist": "BRAZY",
       "song": "HOOD CHCE NAS ZJEŚĆ",
       "title": "BRAZY - HOOD CHCE NAS ZJEŚĆ",
@@ -1114,6 +1180,7 @@
     {
       "pos": 57,
       "id": "E2MLT1rrAws",
+      "isLatest": false,
       "artist": "C-G x Lucky",
       "song": "ostatni raz (DISS Wuja)",
       "title": "C-G x Lucky - ostatni raz (DISS Wuja)",
@@ -1130,6 +1197,7 @@
     {
       "pos": 58,
       "id": "6tY7P4J8UZo",
+      "isLatest": false,
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
@@ -1146,6 +1214,7 @@
     {
       "pos": 59,
       "id": "-O-cniRTiLA",
+      "isLatest": false,
       "artist": "MARVIN & DAZZ13",
       "song": "JEDEN RAZ (AZTECAS DISS)",
       "title": "MARVIN & DAZZ13 - JEDEN RAZ (AZTECAS DISS)",
@@ -1162,6 +1231,7 @@
     {
       "pos": 60,
       "id": "-fgPezaiPS8",
+      "isLatest": false,
       "artist": "Pablo Disco",
       "song": "Dałem Ci Wszystko",
       "title": "Pablo Disco - Dałem Ci Wszystko",
@@ -1178,6 +1248,7 @@
     {
       "pos": 61,
       "id": "mNXTo9rw4k8",
+      "isLatest": false,
       "artist": "CHINGYUNG",
       "song": "DECKER SIDE 23",
       "title": "CHINGYUNG - DECKER SIDE 23",
@@ -1194,6 +1265,7 @@
     {
       "pos": 62,
       "id": "6L3CtCEbfAM",
+      "isLatest": false,
       "artist": "LSRadio",
       "song": "CG x Lucky (Live performance)",
       "title": "LSRadio - CG x Lucky (Live performance)",
@@ -1210,6 +1282,7 @@
     {
       "pos": 63,
       "id": "1AJhfHxKgeY",
+      "isLatest": false,
       "artist": "PAPA",
       "song": "Pionki",
       "title": "PAPA -  Pionki [Oficial Music Video]",
@@ -1226,6 +1299,7 @@
     {
       "pos": 64,
       "id": "Vk77CE67yfA",
+      "isLatest": false,
       "artist": "PEDRO",
       "song": "MAMY PLAN",
       "title": "PEDRO - MAMY PLAN",
@@ -1242,6 +1316,7 @@
     {
       "pos": 65,
       "id": "RJmY2ZDkNOg",
+      "isLatest": false,
       "artist": "CXSHOUT",
       "song": "LUSTRO",
       "title": "CXSHOUT - LUSTRO",
@@ -1258,6 +1333,7 @@
     {
       "pos": 66,
       "id": "dWBOt00bI5M",
+      "isLatest": false,
       "artist": "88TYRON",
       "song": "SNITCH TRAY BALLA",
       "title": "88TYRON - SNITCH TRAY BALLA",
@@ -1274,6 +1350,7 @@
     {
       "pos": 67,
       "id": "Y4Lv8nVc4DE",
+      "isLatest": false,
       "artist": "WUJA",
       "song": "RESSURECTION",
       "title": "WUJA - RESSURECTION",
@@ -1290,6 +1367,7 @@
     {
       "pos": 68,
       "id": "5YN6wa94mV4",
+      "isLatest": false,
       "artist": "BIBBY OG",
       "song": "FREESTYLE FASHIONCRIB",
       "title": "BIBBY OG - FREESTYLE FASHIONCRIB",
@@ -1306,6 +1384,7 @@
     {
       "pos": 69,
       "id": "oO94E6lysko",
+      "isLatest": false,
       "artist": "Rowdy",
       "song": "Not Enough",
       "title": "Rowdy - Not Enough",
@@ -1322,6 +1401,7 @@
     {
       "pos": 70,
       "id": "Ugb1857cO_w",
+      "isLatest": false,
       "artist": "ZIZI",
       "song": "PLAYA TALK (92/BABYDASH DISS)",
       "title": "ZIZI - PLAYA TALK (92/BABYDASH DISS)",
@@ -1338,6 +1418,7 @@
     {
       "pos": 71,
       "id": "hMyLUL-jFc8",
+      "isLatest": false,
       "artist": "PEDRO X RUBEN",
       "song": "DIAMENT",
       "title": "PEDRO X RUBEN - DIAMENT",
@@ -1354,6 +1435,7 @@
     {
       "pos": 72,
       "id": "dfmWb2TDzHU",
+      "isLatest": false,
       "artist": "PABLO",
       "song": "MANIURA",
       "title": "PABLO - MANIURA (Official Music Video)",
@@ -1370,6 +1452,7 @@
     {
       "pos": 73,
       "id": "j_bAZeDrMTQ",
+      "isLatest": false,
       "artist": "ST",
       "song": "Wstyd (CD unLucky Diss)",
       "title": "ST - Wstyd (CD unLucky Diss)",
@@ -1386,6 +1469,7 @@
     {
       "pos": 74,
       "id": "v3YcIARBDXQ",
+      "isLatest": false,
       "artist": "BibbyOG",
       "song": "REHAB FREESTYLE",
       "title": "BibbyOG - REHAB FREESTYLE",
@@ -1402,6 +1486,7 @@
     {
       "pos": 75,
       "id": "KsDdRQOpmX8",
+      "isLatest": false,
       "artist": "Tiny G x Gibby",
       "song": "Zycie",
       "title": "Tiny G x Gibby - Zycie (OFFICIAL VIDEO)",
@@ -1418,6 +1503,7 @@
     {
       "pos": 76,
       "id": "CZvmavvgsZE",
+      "isLatest": false,
       "artist": "",
       "song": "SPACE TRIP | Official Movie",
       "title": "SPACE TRIP | Official Movie",
@@ -1434,6 +1520,7 @@
     {
       "pos": 77,
       "id": "rH2zyfCIwSQ",
+      "isLatest": false,
       "artist": "87brandon",
       "song": "FEMBOY FRAUDING",
       "title": "87brandon - FEMBOY FRAUDING",
@@ -1450,6 +1537,7 @@
     {
       "pos": 78,
       "id": "j9pcjenMJo0",
+      "isLatest": false,
       "artist": "BibbyOG",
       "song": "Dr Kush",
       "title": "BibbyOG - Dr Kush",
@@ -1466,6 +1554,7 @@
     {
       "pos": 79,
       "id": "PXroflb_pkE",
+      "isLatest": false,
       "artist": "CG x Lucky",
       "song": "Ramen (Wuja diss)",
       "title": "CG x Lucky - Ramen (Wuja diss)",
@@ -1482,6 +1571,7 @@
     {
       "pos": 80,
       "id": "9CgU4zLEPRA",
+      "isLatest": false,
       "artist": "PEDRO & RUBEN",
       "song": "SPIRYTUS",
       "title": "PEDRO & RUBEN - SPIRYTUS",
@@ -1498,10 +1588,11 @@
     {
       "pos": 81,
       "id": "_yAfcKGcz7Y",
+      "isLatest": false,
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 919,
+      "views": 917,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1514,10 +1605,11 @@
     {
       "pos": 82,
       "id": "RFjTmPXkFeE",
+      "isLatest": false,
       "artist": "BibbyOG",
       "song": "STARE INTERESY",
       "title": "BibbyOG - STARE INTERESY",
-      "views": 917,
+      "views": 916,
       "url": "https://www.youtube.com/watch?v=RFjTmPXkFeE",
       "thumb": "https://i.ytimg.com/vi/RFjTmPXkFeE/mqdefault.jpg",
       "publishedText": "15 maj 2024",
@@ -1530,6 +1622,7 @@
     {
       "pos": 83,
       "id": "tYn928LXWPQ",
+      "isLatest": false,
       "artist": "Andy",
       "song": "Kartoteka",
       "title": "Andy - Kartoteka",
@@ -1546,6 +1639,7 @@
     {
       "pos": 84,
       "id": "V9mTMONB5VA",
+      "isLatest": false,
       "artist": "BRAZY",
       "song": "$PACE TRIP (from the movie Space Trip)",
       "title": "BRAZY - $PACE TRIP (from the movie Space Trip)",
@@ -1562,6 +1656,7 @@
     {
       "pos": 85,
       "id": "NjWkY7FBuHk",
+      "isLatest": false,
       "artist": "LILS4MURA1",
       "song": "CHCE BYĆ LEGENDĄ",
       "title": "LILS4MURA1 - CHCE BYĆ LEGENDĄ",
@@ -1578,6 +1673,7 @@
     {
       "pos": 86,
       "id": "4HHHYvGbJaA",
+      "isLatest": false,
       "artist": "DISCO ANDY",
       "song": "Weź mnie!",
       "title": "DISCO ANDY - Weź mnie!",
@@ -1594,6 +1690,7 @@
     {
       "pos": 87,
       "id": "0wjd9Y3K8Ik",
+      "isLatest": false,
       "artist": "4ozzy",
       "song": "pill popper",
       "title": "4ozzy - pill popper",
@@ -1610,6 +1707,7 @@
     {
       "pos": 88,
       "id": "uOJYL_ZA3Lg",
+      "isLatest": false,
       "artist": "LUGO",
       "song": "OneTake Challenge",
       "title": "LUGO - OneTake Challenge",
@@ -1626,6 +1724,7 @@
     {
       "pos": 89,
       "id": "NTlNbehUKs4",
+      "isLatest": false,
       "artist": "C-G x Lucky",
       "song": "Wack MC (Scribble diss)",
       "title": "C-G x Lucky - Wack MC (Scribble diss)",
@@ -1642,6 +1741,7 @@
     {
       "pos": 90,
       "id": "nrrPDAFHcxo",
+      "isLatest": false,
       "artist": "PEDRO",
       "song": "TARTA",
       "title": "PEDRO - TARTA",
@@ -1658,6 +1758,7 @@
     {
       "pos": 91,
       "id": "J08ryQLXifs",
+      "isLatest": false,
       "artist": "Cxshout!",
       "song": "Money Depression (ft. CTB GunzzUp)",
       "title": "Cxshout! - Money Depression (ft. CTB GunzzUp)",
@@ -1674,6 +1775,7 @@
     {
       "pos": 92,
       "id": "ng1mBQlzPwU",
+      "isLatest": false,
       "artist": "Pixa",
       "song": "Thriller.",
       "title": "Pixa - Thriller.",
@@ -1690,6 +1792,7 @@
     {
       "pos": 93,
       "id": "U9RjzgZ0U0c",
+      "isLatest": false,
       "artist": "C-G x Lucky x 88TRAY",
       "song": "BBQ",
       "title": "C-G x Lucky x 88TRAY - BBQ (Official Music Video)",
@@ -1706,6 +1809,7 @@
     {
       "pos": 94,
       "id": "0yy0emeKIqM",
+      "isLatest": false,
       "artist": "Saint Antonio",
       "song": "Nie trzeba mi ściem",
       "title": "Saint Antonio - Nie trzeba mi ściem",
@@ -1722,10 +1826,11 @@
     {
       "pos": 95,
       "id": "ZiwMRxTF6vw",
+      "isLatest": false,
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 818,
+      "views": 817,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -1738,6 +1843,7 @@
     {
       "pos": 96,
       "id": "taM9Ym9Lvks",
+      "isLatest": false,
       "artist": "ST",
       "song": "Ulica",
       "title": "ST - Ulica",
@@ -1754,6 +1860,7 @@
     {
       "pos": 97,
       "id": "YxZwj4CZ16Q",
+      "isLatest": false,
       "artist": "Belly Franco feat. Rowdy",
       "song": "187",
       "title": "Belly Franco feat. Rowdy - 187 (Official Deadline Movie Soundtrack)",
@@ -1770,6 +1877,7 @@
     {
       "pos": 98,
       "id": "sCF9bdd2L0c",
+      "isLatest": false,
       "artist": "LILS4MURA1 X Z4BUZA",
       "song": "BIG",
       "title": "LILS4MURA1 X Z4BUZA - BIG",
@@ -1786,6 +1894,7 @@
     {
       "pos": 99,
       "id": "V27O7LoE6Gk",
+      "isLatest": false,
       "artist": "ItzJamie",
       "song": "Bragga",
       "title": "ItzJamie - Bragga",
@@ -1802,6 +1911,7 @@
     {
       "pos": 100,
       "id": "kkZvZftspJk",
+      "isLatest": false,
       "artist": "5iveStar",
       "song": "Fake MC (Vipers MC diss)",
       "title": "5iveStar - Fake MC (Vipers MC diss)",
@@ -1836,7 +1946,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1942,
+      "views": 1941,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/ouxZnv13bN8/hqdefault.jpg",

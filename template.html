@@ -115,16 +115,17 @@
   /* lista */
   ol.chart { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
   li.row { position: relative; isolation: isolate; overflow: hidden; display: grid; grid-template-columns: 52px 50px 128px 1fr auto auto; align-items: center; gap: 16px;
-    background: rgba(18,15,40,.72); border: 1px solid var(--line); border-radius: 16px; padding: 12px 16px 12px 12px;
+    background: linear-gradient(180deg, rgba(38,30,80,.62), rgba(20,16,48,.72)); border: 1px solid rgba(167,139,250,.30); border-radius: 16px; padding: 12px 16px 12px 12px;
+    box-shadow: 0 1px 0 rgba(255,255,255,.08) inset, 0 10px 30px rgba(0,0,0,.28);
     transition: border-color .2s, transform .2s, box-shadow .2s; content-visibility: auto; contain-intrinsic-size: 96px; }
-  /* rozmyta okładka jako tło karty – każdy utwór ma własny odcień */
+  /* rozmyta okładka jako delikatny odcień karty (w tonacji tła, ale karta zostaje wyraźnie odcięta obwódką i cieniem) */
   li.row::before { content: ""; position: absolute; inset: -30%; z-index: -2; background: var(--art) center / cover no-repeat;
-    filter: blur(28px) saturate(1.6); opacity: .28; transform: scale(1.2); transition: opacity .3s; }
+    filter: blur(32px) saturate(1.3); opacity: .16; transform: scale(1.2); transition: opacity .3s; }
   li.row::after { content: ""; position: absolute; inset: 0; z-index: -1;
-    background: linear-gradient(90deg, rgba(11,10,28,.85) 0%, rgba(11,10,28,.55) 40%, rgba(11,10,28,.75) 100%); }
-  li.row:hover { border-color: rgba(255,255,255,.35); transform: translateY(-2px) scale(1.005); box-shadow: 0 14px 40px rgba(0,0,0,.45), 0 0 0 1px rgba(139,92,246,.35); }
-  li.row:hover::before { opacity: .45; }
-  li.row.top { border-color: rgba(251,191,36,.45); }
+    background: linear-gradient(90deg, rgba(14,11,34,.55) 0%, rgba(14,11,34,.25) 45%, rgba(14,11,34,.5) 100%); }
+  li.row:hover { border-color: rgba(196,181,253,.7); transform: translateY(-2px) scale(1.005); box-shadow: 0 1px 0 rgba(255,255,255,.12) inset, 0 16px 44px rgba(0,0,0,.45), 0 0 26px rgba(139,92,246,.25); }
+  li.row:hover::before { opacity: .3; }
+  li.row.top { border-color: rgba(251,191,36,.5); }
   /* numer pozycji – medal dla 1–3, obrys dla reszty */
   .pos { width: 46px; height: 46px; display: grid; place-items: center; border-radius: 12px; font-family: var(--serif); font-size: 20px; font-weight: 700;
     color: var(--text); background: rgba(255,255,255,.06); border: 1px solid var(--line-strong); font-variant-numeric: tabular-nums; }
@@ -137,7 +138,7 @@
   .move.up { color: #bbf7d0; background: rgba(74,222,128,.16); border: 1px solid rgba(74,222,128,.4); }
   .move.down { color: #fecdd3; background: rgba(251,113,133,.16); border: 1px solid rgba(251,113,133,.4); }
   .move.same { color: var(--muted); background: rgba(255,255,255,.05); border: 1px solid var(--line); }
-  .move.new { color: #06202a; background: linear-gradient(135deg, #67e8f9, #22d3ee); border: 1px solid #a5f3fc; font-size: 10px; letter-spacing: .12em; }
+  .move.new { color: #2a1600; background: linear-gradient(135deg, #fde68a, #f59e0b); border: 1px solid #fcd34d; font-size: 9px; letter-spacing: .04em; }
   .thumb { position: relative; width: 128px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; background: rgba(0,0,0,.4); border: 1px solid rgba(255,255,255,.18); box-shadow: 0 8px 20px rgba(0,0,0,.4); }
   .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .3s; }
   .thumb::after { content: ""; position: absolute; inset: 0; display: grid; place-items: center; opacity: 0; transition: opacity .2s;
@@ -149,9 +150,11 @@
   .artist { display: inline-block; font-family: var(--serif); font-size: 12px; letter-spacing: .18em; text-transform: uppercase; font-weight: 700; color: #7ff6e8;
     max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-top: 4px; text-shadow: 0 0 12px rgba(45,212,191,.45); }
   .meta { color: #b9b3d9; font-size: 12px; margin-top: 5px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
-  /* pasek: udział wyświetleń względem #1 */
-  .bar { height: 3px; border-radius: 3px; background: rgba(255,255,255,.08); margin-top: 8px; overflow: hidden; }
-  .bar i { display: block; height: 100%; width: var(--w, 0%); border-radius: 3px; background: linear-gradient(90deg, var(--violet), var(--pink), var(--gold)); transition: width .8s cubic-bezier(.2,.7,.2,1); }
+  /* znacznik NEW – jeden z 3 najnowszych numerów na kanale */
+  .tag-new { display: inline-block; vertical-align: 2px; margin-left: 8px; font-family: var(--serif); font-size: 10px; font-weight: 800; letter-spacing: .2em;
+    color: #06202a; background: linear-gradient(135deg, #67e8f9, #2dd4bf); border-radius: 6px; padding: 3px 7px 2px; box-shadow: 0 0 14px rgba(45,212,191,.5); animation: tag-pulse 2.4s ease-in-out infinite; }
+  @keyframes tag-pulse { 0%, 100% { box-shadow: 0 0 10px rgba(45,212,191,.35); } 50% { box-shadow: 0 0 18px rgba(45,212,191,.75); } }
+  @media (prefers-reduced-motion: reduce) { .tag-new { animation: none; } }
   .views { text-align: right; font-variant-numeric: tabular-nums; }
   .views b { display: block; font-size: 19px; color: var(--bright); font-weight: 700; letter-spacing: -0.01em; }
   .views small { display: block; color: #b9b3d9; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
@@ -251,28 +254,27 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'
 
 function moveBadge(e) {
   if (e.move === null) return '<span class="move same" title="Pierwsze notowanie">—</span>';
-  if (e.move === 'new') return '<span class="move new" title="Nowość w notowaniu">NEW</span>';
+  if (e.move === 'new') return '<span class="move new" title="Debiut w notowaniu">DEBIUT</span>';
   if (e.move > 0) return `<span class="move up" title="Poprzednio #${e.prevPos}">▲ ${e.move}</span>`;
   if (e.move < 0) return `<span class="move down" title="Poprzednio #${e.prevPos}">▼ ${-e.move}</span>`;
   return '<span class="move same" title="Bez zmian">=</span>';
 }
 
-function row(e, max) {
+function row(e) {
   const delta = e.viewsDelta !== null && e.viewsDelta > 0 ? `<small class="plus">+${nf.format(e.viewsDelta)} w tym tygodniu</small>` : '';
   const meta = [];
   if (e.weeks > 1) meta.push(`${e.weeks} tyg. w notowaniu`);
   if (e.peak < e.pos) meta.push(`szczyt #${e.peak}`);
   if (e.publishedText) meta.push(esc(e.publishedText));
-  const share = max ? Math.max(2, Math.round(e.views / max * 100)) : 0;
+  const tagNew = e.isLatest ? '<span class="tag-new" title="Jeden z 3 najnowszych numerów na kanale">NEW</span>' : '';
   return `<li class="row${e.pos <= 3 ? ' top' : ''}" style="--art:url('${esc(e.thumb)}')">
     <div class="pos">${e.pos}</div>
     ${moveBadge(e)}
     <a class="thumb" href="${esc(e.url)}" target="_blank" rel="noopener" tabindex="-1"><img loading="lazy" src="${esc(e.thumb)}" alt=""></a>
     <div class="info">
-      <div class="song" title="${esc(e.title)}">${esc(e.song)}</div>
+      <div class="song" title="${esc(e.title)}">${esc(e.song)}${tagNew}</div>
       <div class="artist">${esc(e.artist || '—')}</div>
       <div class="meta">${meta.map(m => `<span>${m}</span>`).join('')}</div>
-      <div class="bar" title="${share}% wyświetleń lidera"><i style="--w:${share}%"></i></div>
     </div>
     <div class="views"><b>${nf.format(e.views)}</b><small>wyświetleń</small>${delta}</div>
     <a class="link" href="${esc(e.url)}" target="_blank" rel="noopener">
@@ -284,8 +286,7 @@ function row(e, max) {
 
 function render(listId, entries) {
   const el = document.getElementById(listId);
-  const max = entries.length ? entries[0].views : 0;
-  el.innerHTML = entries.length ? entries.map(e => row(e, max)).join('') : '<li class="empty">Brak utworów w tym notowaniu.</li>';
+  el.innerHTML = entries.length ? entries.map(row).join('') : '<li class="empty">Brak utworów w tym notowaniu.</li>';
 }
 
 function latestRow(e, i) {
@@ -338,7 +339,7 @@ function init() {
 
   document.getElementById('foot').innerHTML = `
     <div class="tag">Music ✦ People ✦ Higher Vision</div>
-    Aktualizacja codziennie · dane z ${new Date(DATA.generatedAt).toLocaleString('pl-PL')} · ▲▼ zmiana pozycji względem poprzedniego tygodnia · NEW = debiut
+    Aktualizacja codziennie · dane z ${new Date(DATA.generatedAt).toLocaleString('pl-PL')} · ▲▼ zmiana pozycji względem poprzedniego tygodnia · DEBIUT = pierwszy raz w notowaniu · NEW = jeden z 3 najnowszych numerów
     ${DATA.stats.inexact ? `<br><strong>Uwaga:</strong> dla ${DATA.stats.inexact} filmów YouTube udostępnił tylko zaokrąglone liczby wyświetleń.` : ''}
     <div style="margin-top:14px;letter-spacing:.3em;font-size:10px">EST. 2024</div>`;
 

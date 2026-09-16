@@ -243,6 +243,7 @@ const now = [...nowPool].sort(byViews).slice(0, cfg.nowSize);
 
 // najnowsze wydania: od najnowszego (order rośnie = starsze), bez wykluczonych
 const latest = videos.filter(v => !v.excluded).sort((a, b) => a.order - b.order).slice(0, cfg.latestSize ?? 10);
+const latestIds = new Set(latest.map(v => v.id));
 
 // ---------- 4. historia (codzienne migawki, porównanie tydzień do tygodnia) ----------
 
@@ -304,6 +305,7 @@ function enrich(list, key) {
     return {
       pos,
       id: v.id,
+      isLatest: latestIds.has(v.id), // jeden z N najnowszych numerów na kanale (znacznik NEW)
       artist: v.artist,
       song: v.song,
       title: v.title,
