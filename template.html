@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Pixa Charts</title>
+<title>SmokeBoyz Charts</title>
 <style>
   :root {
     --bg: #0f1014; --panel: #17181e; --panel-2: #1e2028; --line: #2a2d38;
@@ -89,7 +89,7 @@
 <div class="wrap">
   <header>
     <div class="brand">
-      <h1>Pixa <span>Charts</span></h1>
+      <h1>SmokeBoyz <span>Charts</span></h1>
       <p>Notowanie utworów z kanału <a id="channel-link" href="#" target="_blank" rel="noopener"></a></p>
     </div>
     <div class="date"><strong id="chart-date"></strong><span id="prev-date"></span></div>
@@ -101,12 +101,12 @@
   </div>
 
   <section class="panel active" id="panel-now" role="tabpanel" aria-labelledby="tab-now">
-    <div class="panel-head"><h2>Top 10 Now</h2><span id="now-desc"></span></div>
+    <div class="panel-head"><h2>Top 10 Now</h2></div>
     <ol class="chart" id="list-now"></ol>
   </section>
 
   <section class="panel" id="panel-all" role="tabpanel" aria-labelledby="tab-all">
-    <div class="panel-head"><h2>Top 100 All Time</h2><span id="all-desc"></span></div>
+    <div class="panel-head"><h2>Top 100 All Time</h2></div>
     <ol class="chart" id="list-all"></ol>
   </section>
 
@@ -160,11 +160,9 @@ function init() {
   if (!DATA) { document.getElementById('foot').textContent = 'Brak danych – uruchom update.cmd.'; return; }
   const ch = document.getElementById('channel-link');
   ch.textContent = DATA.channel.title; ch.href = DATA.channel.url;
-  document.title = `Pixa Charts – notowanie ${fmtDate(DATA.chartDate)}`;
+  document.title = `SmokeBoyz Charts – notowanie ${fmtDate(DATA.chartDate)}`;
   document.getElementById('chart-date').textContent = `Notowanie z ${fmtDate(DATA.chartDate)}`;
   document.getElementById('prev-date').textContent = DATA.prevDate ? `poprzednie: ${fmtDate(DATA.prevDate)}` : 'pierwsze notowanie';
-  document.getElementById('now-desc').textContent = `utwory wydane od „${DATA.config.nowStart.title}” (${DATA.stats.nowPoolSize} w puli)`;
-  document.getElementById('all-desc').textContent = `cały kanał bez filmów z „${DATA.config.excludeKeyword}” w tytule (${DATA.stats.allTimePoolSize} w puli)`;
   render('list-now', DATA.now);
   render('list-all', DATA.allTime);
 
@@ -182,10 +180,10 @@ function init() {
       t.setAttribute('aria-selected', on);
       document.getElementById(t.getAttribute('aria-controls')).classList.toggle('active', on);
     });
-    try { localStorage.setItem('pixacharts.tab', tab.id); } catch {}
+    try { localStorage.setItem('smokeboyzcharts.tab', tab.id); } catch {}
   }
   tabs.forEach(t => t.addEventListener('click', () => select(t)));
-  let saved = null; try { saved = localStorage.getItem('pixacharts.tab'); } catch {}
+  let saved = null; try { saved = localStorage.getItem('smokeboyzcharts.tab'); } catch {}
   const initial = tabs.find(t => t.id === saved) || tabs[0];
   select(initial);
 }

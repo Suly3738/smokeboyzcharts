@@ -1,4 +1,4 @@
-﻿# Pixa Charts
+# SmokeBoyz Charts
 
 Cotygodniowe notowanie utworów z kanału YouTube **Pixa Roleplay** (w stylu Billboard Hot 100).
 
@@ -30,7 +30,7 @@ Cotygodniowe notowanie utworów z kanału YouTube **Pixa Roleplay** (w stylu Bil
 
 ## Strona internetowa (GitHub Pages)
 
-Repozytorium: https://github.com/Suly3738/pixa-charts · Strona: https://suly3738.github.io/pixa-charts/
+Repozytorium: https://github.com/Suly3738/smokeboyzcharts · Strona: https://suly3738.github.io/smokeboyzcharts/
 
 GitHub Actions (`.github/workflows/update.yml`) uruchamia `update.mjs` co poniedziałek w chmurze, zapisuje
 `history.json` do repozytorium i publikuje stronę — komputer nie musi być włączony.
