@@ -116,8 +116,33 @@ async function fetchViaApi(apiKey) {
     for (const v of r.items ?? []) stats[v.id] = { views: Number(v.statistics?.viewCount ?? 0), title: v.snippet?.title };
   }
 
+  // Playlista „uploads” zawiera też Shorts, których zakładka „Filmy” nie pokazuje – odfiltrowujemy je.
+  // Test: /shorts/ID odpowiada 200 dla Shortsa, a zwykły film przekierowuje (303) na /watch.
+  // Wynik zapisujemy w shorts-cache.json, więc co tydzień sprawdzane są tylko nowe filmy.
+  const cachePath = p('shorts-cache.json');
+  let shortsCache = {};
+  if (fs.existsSync(cachePath)) { try { shortsCache = JSON.parse(fs.readFileSync(cachePath, 'utf8')); } catch { /* od nowa */ } }
+  const unknown = items.filter(v => stats[v.id] && !(v.id in shortsCache));
+  if (unknown.length) log(`  Sprawdzanie, które z ${unknown.length} nowych filmów to Shorts…`);
+  await mapLimit(unknown, cfg.concurrency ?? 4, async (v) => {
+    try {
+      const r = await withRetry(() => fetch(`https://www.youtube.com/shorts/${v.id}`, {
+        method: 'HEAD', redirect: 'manual',
+        headers: { 'user-agent': 'Mozilla/5.0', cookie: 'SOCS=CAI; CONSENT=YES+cb' },
+      }));
+      if (r.status === 200) shortsCache[v.id] = true;
+      else if (r.status >= 300 && r.status < 400 && /\/watch/.test(r.headers.get('location') ?? '')) shortsCache[v.id] = false;
+      else log(`  ! ${v.id} – nietypowa odpowiedź ${r.status} przy sprawdzaniu Shorts; traktuję jako zwykły film`);
+    } catch (e) {
+      log(`  ! ${v.id} – nie udało się sprawdzić Shorts (${e.message}); traktuję jako zwykły film`);
+    }
+  });
+  fs.writeFileSync(cachePath, JSON.stringify(shortsCache));
+  const shorts = items.filter(v => shortsCache[v.id] === true);
+  log(`  Pominięto ${shorts.length} Shorts.`);
+
   const raw = items
-    .filter(v => stats[v.id]) // pomija filmy niedostępne publicznie
+    .filter(v => stats[v.id] && shortsCache[v.id] !== true) // pomija filmy niedostępne publicznie i Shorts
     .map((v, order) => ({
       id: v.id,
       title: stats[v.id].title ?? v.title,
