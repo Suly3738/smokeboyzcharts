@@ -96,7 +96,7 @@
   .panel.leaving { display: block; animation: panel-out .18s ease-in both; pointer-events: none; }
   @keyframes panel-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
   @keyframes panel-out { from { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-8px); } }
-  .panel.active li.row, .panel.active .featured { animation: row-in .5s cubic-bezier(.2,.7,.2,1) both; }
+  .panel.active li.row, .panel.active .featured { animation: row-in .5s cubic-bezier(.2,.7,.2,1) backwards; } /* backwards: po animacji hover znów działa */
   .panel.active .featured { animation-delay: .05s; }
   .panel.active li.row:nth-child(1) { animation-delay: .06s; }  .panel.active li.row:nth-child(2) { animation-delay: .10s; }
   .panel.active li.row:nth-child(3) { animation-delay: .14s; }  .panel.active li.row:nth-child(4) { animation-delay: .18s; }
@@ -113,28 +113,49 @@
   .panel-head h2::before, .panel-head h2::after { content: "✦"; font-size: 12px; color: var(--gold); margin: 0 14px; vertical-align: middle; }
 
   /* lista */
-  ol.chart { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
-  li.row { display: grid; grid-template-columns: 58px 46px 100px 1fr auto auto; align-items: center; gap: 14px;
-    background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 10px 14px 10px 8px;
-    backdrop-filter: blur(8px); transition: border-color .15s, background .15s, transform .15s; }
-  li.row:hover { border-color: var(--line-strong); background: var(--panel-hover); transform: translateY(-1px); }
-  li.row.top { border-color: rgba(251,191,36,.35); background: linear-gradient(90deg, rgba(251,191,36,.10), var(--panel) 45%); }
-  .pos { font-family: var(--serif); font-size: 26px; font-weight: 700; text-align: center; color: var(--muted); font-variant-numeric: tabular-nums; }
-  li.row.top .pos { color: var(--gold); text-shadow: 0 0 18px rgba(251,191,36,.55); }
-  .move { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-align: center; font-variant-numeric: tabular-nums; }
-  .move.up { color: var(--up); } .move.down { color: var(--down); } .move.same { color: var(--dim); }
-  .move.new { color: var(--new); border: 1px solid rgba(34,211,238,.45); border-radius: 6px; padding: 3px 0; font-size: 10px; }
-  .thumb { width: 100px; aspect-ratio: 16/9; overflow: hidden; border-radius: 8px; background: rgba(0,0,0,.4); border: 1px solid var(--line); }
-  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .25s; }
-  li.row:hover .thumb img { transform: scale(1.06); }
+  ol.chart { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  li.row { position: relative; isolation: isolate; overflow: hidden; display: grid; grid-template-columns: 52px 50px 128px 1fr auto auto; align-items: center; gap: 16px;
+    background: rgba(18,15,40,.72); border: 1px solid var(--line); border-radius: 16px; padding: 12px 16px 12px 12px;
+    transition: border-color .2s, transform .2s, box-shadow .2s; content-visibility: auto; contain-intrinsic-size: 96px; }
+  /* rozmyta okładka jako tło karty – każdy utwór ma własny odcień */
+  li.row::before { content: ""; position: absolute; inset: -30%; z-index: -2; background: var(--art) center / cover no-repeat;
+    filter: blur(28px) saturate(1.6); opacity: .28; transform: scale(1.2); transition: opacity .3s; }
+  li.row::after { content: ""; position: absolute; inset: 0; z-index: -1;
+    background: linear-gradient(90deg, rgba(11,10,28,.85) 0%, rgba(11,10,28,.55) 40%, rgba(11,10,28,.75) 100%); }
+  li.row:hover { border-color: rgba(255,255,255,.35); transform: translateY(-2px) scale(1.005); box-shadow: 0 14px 40px rgba(0,0,0,.45), 0 0 0 1px rgba(139,92,246,.35); }
+  li.row:hover::before { opacity: .45; }
+  li.row.top { border-color: rgba(251,191,36,.45); }
+  /* numer pozycji – medal dla 1–3, obrys dla reszty */
+  .pos { width: 46px; height: 46px; display: grid; place-items: center; border-radius: 12px; font-family: var(--serif); font-size: 20px; font-weight: 700;
+    color: var(--text); background: rgba(255,255,255,.06); border: 1px solid var(--line-strong); font-variant-numeric: tabular-nums; }
+  li.row:nth-child(1) .pos { background: linear-gradient(145deg, #fde68a, #f59e0b 60%, #b45309); color: #2a1600; border-color: #fcd34d; box-shadow: 0 0 22px rgba(251,191,36,.55); }
+  li.row:nth-child(2) .pos { background: linear-gradient(145deg, #f8fafc, #cbd5e1 60%, #64748b); color: #0f172a; border-color: #e2e8f0; box-shadow: 0 0 18px rgba(203,213,225,.45); }
+  li.row:nth-child(3) .pos { background: linear-gradient(145deg, #fdba74, #c2410c 60%, #7c2d12); color: #fff7ed; border-color: #fb923c; box-shadow: 0 0 18px rgba(249,115,22,.45); }
+  li.row.plain .pos { background: rgba(255,255,255,.06); color: var(--text); border-color: var(--line-strong); box-shadow: none; }
+  /* zmiana pozycji – kolorowe plakietki */
+  .move { font-size: 11px; font-weight: 800; letter-spacing: .04em; text-align: center; font-variant-numeric: tabular-nums; border-radius: 8px; padding: 5px 0; }
+  .move.up { color: #bbf7d0; background: rgba(74,222,128,.16); border: 1px solid rgba(74,222,128,.4); }
+  .move.down { color: #fecdd3; background: rgba(251,113,133,.16); border: 1px solid rgba(251,113,133,.4); }
+  .move.same { color: var(--muted); background: rgba(255,255,255,.05); border: 1px solid var(--line); }
+  .move.new { color: #06202a; background: linear-gradient(135deg, #67e8f9, #22d3ee); border: 1px solid #a5f3fc; font-size: 10px; letter-spacing: .12em; }
+  .thumb { position: relative; width: 128px; aspect-ratio: 16/9; overflow: hidden; border-radius: 10px; background: rgba(0,0,0,.4); border: 1px solid rgba(255,255,255,.18); box-shadow: 0 8px 20px rgba(0,0,0,.4); }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .3s; }
+  .thumb::after { content: ""; position: absolute; inset: 0; display: grid; place-items: center; opacity: 0; transition: opacity .2s;
+    background: rgba(0,0,0,.35) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ccircle cx='12' cy='12' r='11' fill='rgba(255,255,255,.92)'/%3E%3Cpath d='M9.5 7.5v9l7-4.5z' fill='%23111'/%3E%3C/svg%3E") center / 34px no-repeat; }
+  li.row:hover .thumb img { transform: scale(1.08); }
+  li.row:hover .thumb::after { opacity: 1; }
   .info { min-width: 0; }
-  .song { font-weight: 600; font-size: 16px; color: var(--bright); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .artist { font-family: var(--serif); font-size: 12px; letter-spacing: .16em; text-transform: uppercase; color: var(--pink); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-top: 2px; }
-  .meta { color: var(--dim); font-size: 12px; margin-top: 4px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+  .song { font-weight: 700; font-size: 17px; color: var(--bright); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-shadow: 0 1px 8px rgba(0,0,0,.6); }
+  .artist { display: inline-block; font-family: var(--serif); font-size: 12px; letter-spacing: .18em; text-transform: uppercase; font-weight: 700; color: #7ff6e8;
+    max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; margin-top: 4px; text-shadow: 0 0 12px rgba(45,212,191,.45); }
+  .meta { color: #b9b3d9; font-size: 12px; margin-top: 5px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+  /* pasek: udział wyświetleń względem #1 */
+  .bar { height: 3px; border-radius: 3px; background: rgba(255,255,255,.08); margin-top: 8px; overflow: hidden; }
+  .bar i { display: block; height: 100%; width: var(--w, 0%); border-radius: 3px; background: linear-gradient(90deg, var(--violet), var(--pink), var(--gold)); transition: width .8s cubic-bezier(.2,.7,.2,1); }
   .views { text-align: right; font-variant-numeric: tabular-nums; }
-  .views b { display: block; font-size: 17px; color: var(--bright); font-weight: 600; }
-  .views small { display: block; color: var(--dim); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
-  .views small.plus { color: var(--up); text-transform: none; letter-spacing: 0; }
+  .views b { display: block; font-size: 19px; color: var(--bright); font-weight: 700; letter-spacing: -0.01em; }
+  .views small { display: block; color: #b9b3d9; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
+  .views small.plus { color: #86efac; text-transform: none; letter-spacing: 0; font-weight: 600; }
   .link { display: inline-flex; align-items: center; gap: 7px; text-decoration: none; font-family: var(--serif); font-weight: 700; font-size: 11px; letter-spacing: .16em; text-transform: uppercase;
     border: 1px solid var(--line-strong); border-radius: 10px; padding: 9px 13px; white-space: nowrap; color: var(--text); transition: background .15s, color .15s, border-color .15s; }
   .link:hover { background: #ff0033; border-color: #ff0033; color: #fff; }
@@ -152,7 +173,7 @@
     color: #fff; background: linear-gradient(90deg, var(--violet), var(--pink)); padding: 6px 12px; border-radius: 999px; margin-bottom: 12px; }
   .featured .badge.fresh { background: linear-gradient(90deg, var(--teal), #22d3ee); color: #06202a; }
   .featured .f-song { font-size: 26px; font-weight: 700; color: var(--bright); line-height: 1.2; letter-spacing: -0.01em; }
-  .featured .f-artist { font-family: var(--serif); font-size: 13px; letter-spacing: .2em; text-transform: uppercase; color: var(--pink); margin-top: 6px; }
+  .featured .f-artist { font-family: var(--serif); font-size: 13px; letter-spacing: .2em; text-transform: uppercase; font-weight: 700; color: #7ff6e8; text-shadow: 0 0 12px rgba(45,212,191,.45); margin-top: 6px; }
   .featured .f-meta { color: var(--muted); font-size: 13px; margin-top: 12px; display: flex; flex-wrap: wrap; gap: 6px 16px; }
   .featured .f-meta b { color: var(--bright); font-weight: 600; }
   .featured .link { margin-top: 16px; }
@@ -172,8 +193,8 @@
     .tabs button { padding: 11px 15px; font-size: 11px; letter-spacing: .14em; }
     .panel-head h2 { font-size: 16px; letter-spacing: .2em; }
     .panel-head h2::before, .panel-head h2::after { margin: 0 8px; }
-    li.row { grid-template-columns: 40px 40px 1fr auto; grid-template-areas: "pos move info views" "pos move info link"; padding: 10px; row-gap: 6px; }
-    .pos { font-size: 22px; grid-area: pos; } .move { grid-area: move; }
+    li.row { grid-template-columns: 42px 46px 1fr auto; grid-template-areas: "pos move info views" "pos move info link"; padding: 10px; gap: 10px; row-gap: 6px; }
+    .pos { width: 40px; height: 40px; font-size: 17px; grid-area: pos; } .move { grid-area: move; }
     .thumb { display: none; }
     .info { grid-area: info; } .views { grid-area: views; } .link { grid-area: link; justify-self: end; }
     .song { white-space: normal; font-size: 15px; }
@@ -236,13 +257,14 @@ function moveBadge(e) {
   return '<span class="move same" title="Bez zmian">=</span>';
 }
 
-function row(e) {
+function row(e, max) {
   const delta = e.viewsDelta !== null && e.viewsDelta > 0 ? `<small class="plus">+${nf.format(e.viewsDelta)} w tym tygodniu</small>` : '';
   const meta = [];
   if (e.weeks > 1) meta.push(`${e.weeks} tyg. w notowaniu`);
   if (e.peak < e.pos) meta.push(`szczyt #${e.peak}`);
   if (e.publishedText) meta.push(esc(e.publishedText));
-  return `<li class="row${e.pos <= 3 ? ' top' : ''}">
+  const share = max ? Math.max(2, Math.round(e.views / max * 100)) : 0;
+  return `<li class="row${e.pos <= 3 ? ' top' : ''}" style="--art:url('${esc(e.thumb)}')">
     <div class="pos">${e.pos}</div>
     ${moveBadge(e)}
     <a class="thumb" href="${esc(e.url)}" target="_blank" rel="noopener" tabindex="-1"><img loading="lazy" src="${esc(e.thumb)}" alt=""></a>
@@ -250,6 +272,7 @@ function row(e) {
       <div class="song" title="${esc(e.title)}">${esc(e.song)}</div>
       <div class="artist">${esc(e.artist || '—')}</div>
       <div class="meta">${meta.map(m => `<span>${m}</span>`).join('')}</div>
+      <div class="bar" title="${share}% wyświetleń lidera"><i style="--w:${share}%"></i></div>
     </div>
     <div class="views"><b>${nf.format(e.views)}</b><small>wyświetleń</small>${delta}</div>
     <a class="link" href="${esc(e.url)}" target="_blank" rel="noopener">
@@ -261,12 +284,13 @@ function row(e) {
 
 function render(listId, entries) {
   const el = document.getElementById(listId);
-  el.innerHTML = entries.length ? entries.map(row).join('') : '<li class="empty">Brak utworów w tym notowaniu.</li>';
+  const max = entries.length ? entries[0].views : 0;
+  el.innerHTML = entries.length ? entries.map(e => row(e, max)).join('') : '<li class="empty">Brak utworów w tym notowaniu.</li>';
 }
 
 function latestRow(e, i) {
   const delta = e.viewsDelta !== null && e.viewsDelta > 0 ? `<small class="plus">+${nf.format(e.viewsDelta)} w tym tygodniu</small>` : '';
-  return `<li class="row">
+  return `<li class="row plain" style="--art:url('${esc(e.thumb)}')">
     <div class="pos">${i + 2}</div>
     <span class="rel${e.isNew ? '' : ' older'}">${e.isNew ? 'Nowe' : '·'}</span>
     <a class="thumb" href="${esc(e.url)}" target="_blank" rel="noopener" tabindex="-1"><img loading="lazy" src="${esc(e.thumb)}" alt=""></a>
