@@ -33,6 +33,7 @@ jobs:
         run: node update.mjs
         env:
           TZ: Europe/Warsaw
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
 
       - name: Zapisz historię notowań w repozytorium
         run: |

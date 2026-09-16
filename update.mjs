@@ -69,73 +69,137 @@ async function withRetry(fn, tries = 3) {
   throw err;
 }
 
-// ---------- 1. lista filmów z kanału (od najnowszego) ----------
+// ---------- 1. pobranie filmów z kanału ----------
+// Dwa tryby:
+//  a) YT_API_KEY ustawiony  -> oficjalne YouTube Data API v3 (dokładne liczby, działa z serwerów, np. GitHub Actions)
+//  b) brak klucza           -> youtubei.js (bez klucza; z serwerów YouTube często blokuje szczegóły filmów
+//                              i wtedy zostają zaokrąglone liczby z listy kanału)
+// Oba tryby zwracają { channelTitle, raw: [{ id, title, views, order (0 = najnowszy), publishedText, exact }] }
 
-log('Łączenie z YouTube…');
-const yt = await Innertube.create({ lang: 'pl', location: 'PL' });
-const resolved = await yt.resolveURL(cfg.channelUrl);
-const channelId = resolved?.payload?.browseId;
-if (!channelId) throw new Error('Nie udało się ustalić ID kanału dla ' + cfg.channelUrl);
-const channel = await yt.getChannel(channelId);
-const channelTitle = channel.metadata?.title || 'Kanał';
-
-let feed = await channel.getVideos();
-const listing = [];
-while (true) {
-  for (const v of feed.videos) {
-    const id = v.content_id ?? v.video_id ?? v.id;
-    if (!id) continue;
-    const title = v.metadata?.title?.text ?? v.title?.text ?? v.title ?? '';
-    const parts = v.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.map(x => x.text?.text).filter(Boolean) ?? [];
-    listing.push({
-      id,
-      title,
-      order: listing.length, // 0 = najnowszy
-      viewsText: parts.find(t => /wyświetl/i.test(t)) ?? '',
-      publishedText: parts.find(t => !/wyświetl/i.test(t)) ?? '',
+async function fetchViaApi(apiKey) {
+  const API = 'https://www.googleapis.com/youtube/v3/';
+  const get = async (endpoint, params) => {
+    const url = API + endpoint + '?' + new URLSearchParams({ ...params, key: apiKey });
+    const res = await withRetry(async () => {
+      const r = await fetch(url);
+      if (!r.ok) throw new Error(`${endpoint}: HTTP ${r.status} ${(await r.text()).slice(0, 300)}`);
+      return r.json();
     });
-  }
-  if (!feed.has_continuation) break;
-  feed = await feed.getContinuation();
-}
-log(`Kanał „${channelTitle}”: ${listing.length} filmów na liście.`);
+    return res;
+  };
 
-const anchor = listing.find(v => v.id === cfg.nowStartVideoId);
+  const handle = cfg.channelUrl.match(/@([^/?#]+)/)?.[1];
+  const chRes = await get('channels', handle
+    ? { part: 'snippet,contentDetails', forHandle: handle }
+    : { part: 'snippet,contentDetails', id: cfg.channelId });
+  const ch = chRes.items?.[0];
+  if (!ch) throw new Error('Data API: nie znaleziono kanału ' + cfg.channelUrl);
+  const uploads = ch.contentDetails.relatedPlaylists.uploads;
+
+  const items = [];
+  let pageToken;
+  do {
+    const r = await get('playlistItems', { part: 'snippet,contentDetails', playlistId: uploads, maxResults: 50, ...(pageToken ? { pageToken } : {}) });
+    for (const it of r.items ?? []) {
+      if (it.snippet?.title === 'Private video' || it.snippet?.title === 'Deleted video') continue;
+      items.push({ id: it.contentDetails.videoId, title: it.snippet.title, publishedAt: it.contentDetails.videoPublishedAt ?? it.snippet.publishedAt });
+    }
+    pageToken = r.nextPageToken;
+  } while (pageToken);
+
+  // playlista „uploads” jest od najnowszego; dla pewności sortujemy po dacie publikacji
+  items.sort((a, b) => (b.publishedAt ?? '').localeCompare(a.publishedAt ?? ''));
+
+  const stats = {};
+  for (let i = 0; i < items.length; i += 50) {
+    const r = await get('videos', { part: 'statistics,snippet', id: items.slice(i, i + 50).map(v => v.id).join(',') });
+    for (const v of r.items ?? []) stats[v.id] = { views: Number(v.statistics?.viewCount ?? 0), title: v.snippet?.title };
+  }
+
+  const raw = items
+    .filter(v => stats[v.id]) // pomija filmy niedostępne publicznie
+    .map((v, order) => ({
+      id: v.id,
+      title: stats[v.id].title ?? v.title,
+      views: stats[v.id].views,
+      order,
+      publishedText: v.publishedAt ? new Date(v.publishedAt).toLocaleDateString('pl-PL', { day: 'numeric', month: 'short', year: 'numeric' }) : '',
+      exact: true,
+    }));
+  return { channelTitle: ch.snippet.title, raw };
+}
+
+async function fetchViaInnertube() {
+  const yt = await Innertube.create({ lang: 'pl', location: 'PL' });
+  const resolved = await yt.resolveURL(cfg.channelUrl);
+  const channelId = resolved?.payload?.browseId;
+  if (!channelId) throw new Error('Nie udało się ustalić ID kanału dla ' + cfg.channelUrl);
+  const channel = await yt.getChannel(channelId);
+  const channelTitle = channel.metadata?.title || 'Kanał';
+
+  let feed = await channel.getVideos();
+  const listing = [];
+  while (true) {
+    for (const v of feed.videos) {
+      const id = v.content_id ?? v.video_id ?? v.id;
+      if (!id) continue;
+      const title = v.metadata?.title?.text ?? v.title?.text ?? v.title ?? '';
+      const parts = v.metadata?.metadata?.metadata_rows?.[0]?.metadata_parts?.map(x => x.text?.text).filter(Boolean) ?? [];
+      listing.push({
+        id,
+        title,
+        order: listing.length, // 0 = najnowszy
+        viewsText: parts.find(t => /wyświetl/i.test(t)) ?? '',
+        publishedText: parts.find(t => !/wyświetl/i.test(t)) ?? '',
+      });
+    }
+    if (!feed.has_continuation) break;
+    feed = await feed.getContinuation();
+  }
+  log(`Kanał „${channelTitle}”: ${listing.length} filmów na liście. Pobieranie dokładnych liczb wyświetleń…`);
+
+  let done = 0;
+  const raw = await mapLimit(listing, cfg.concurrency ?? 4, async (v) => {
+    let views = null;
+    let title = v.title;
+    try {
+      const info = await withRetry(() => yt.getBasicInfo(v.id));
+      const b = info.basic_info;
+      if (typeof b.view_count === 'number') views = b.view_count;
+      if (b.title) title = b.title;
+    } catch (e) {
+      log(`  ! ${v.id} – nie udało się pobrać szczegółów (${e.message})`);
+    }
+    const exact = views !== null;
+    if (!exact) views = parseViewsText(v.viewsText) ?? 0;
+    done++;
+    if (done % 25 === 0) log(`  ${done}/${listing.length}`);
+    return { id: v.id, title, views, order: v.order, publishedText: v.publishedText, exact };
+  });
+  return { channelTitle, raw };
+}
+
+const apiKey = process.env.YT_API_KEY;
+log(apiKey ? 'Łączenie z YouTube Data API…' : 'Łączenie z YouTube (bez klucza API)…');
+const { channelTitle, raw } = apiKey ? await fetchViaApi(apiKey) : await fetchViaInnertube();
+const inexact = raw.filter(v => !v.exact).length;
+if (inexact) log(`  UWAGA: ${inexact}/${raw.length} filmów ma zaokrąglone wyświetlenia (YouTube zablokował szczegóły). Ustaw YT_API_KEY, aby mieć dokładne liczby.`);
+log(`Pobrano ${raw.length} filmów z kanału „${channelTitle}”.`);
+
+const anchor = raw.find(v => v.id === cfg.nowStartVideoId);
 if (!anchor) throw new Error(`Nie znaleziono filmu startowego „Top 10 Now” (id ${cfg.nowStartVideoId}, „${cfg.nowStartVideoTitle}”) na liście kanału.`);
 
-// ---------- 2. dokładne wyświetlenia per film ----------
-
-log('Pobieranie dokładnych liczb wyświetleń…');
-let done = 0;
-const videos = await mapLimit(listing, cfg.concurrency ?? 4, async (v) => {
-  let views = null;
-  let title = v.title;
-  try {
-    const info = await withRetry(() => yt.getBasicInfo(v.id));
-    const b = info.basic_info;
-    if (typeof b.view_count === 'number') views = b.view_count;
-    if (b.title) title = b.title;
-  } catch (e) {
-    log(`  ! ${v.id} – nie udało się pobrać szczegółów (${e.message}); używam wartości z listy`);
-  }
-  if (views === null) views = parseViewsText(v.viewsText) ?? 0;
-  done++;
-  if (done % 25 === 0) log(`  ${done}/${listing.length}`);
-  const { artist, song } = parseTitle(title);
+const videos = raw.map(v => {
+  const { artist, song } = parseTitle(v.title);
   return {
-    id: v.id,
-    title,
+    ...v,
     artist,
     song,
-    views,
-    order: v.order,
-    publishedText: v.publishedText,
     url: `https://www.youtube.com/watch?v=${v.id}`,
     thumb: `https://i.ytimg.com/vi/${v.id}/mqdefault.jpg`,
-    excluded: isExcluded(title),
+    excluded: isExcluded(v.title),
   };
 });
-log(`Pobrano ${videos.length} filmów.`);
 
 // ---------- 3. notowania ----------
 
@@ -210,6 +274,8 @@ const data = {
     allTimeSize: cfg.allTimeSize,
   },
   stats: {
+    source: apiKey ? 'YouTube Data API' : 'youtubei.js',
+    inexact,
     totalVideos: videos.length,
     excluded: videos.filter(v => v.excluded).map(v => ({ id: v.id, title: v.title })),
     nowPoolSize: nowPool.length,

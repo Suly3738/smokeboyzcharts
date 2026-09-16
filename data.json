@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T22:25:22.215Z",
+  "generatedAt": "2026-09-16T22:27:09.389Z",
   "chartDate": "2026-09-17",
   "prevDate": null,
   "channel": {
@@ -16,6 +16,8 @@
     "allTimeSize": 100
   },
   "stats": {
+    "source": "youtubei.js",
+    "inexact": 0,
     "totalVideos": 190,
     "excluded": [
       {

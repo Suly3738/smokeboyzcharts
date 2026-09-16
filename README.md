@@ -28,6 +28,19 @@ Cotygodniowe notowanie utworów z kanału YouTube **Pixa Roleplay** (w stylu Bil
 | `excludeCaseSensitive` | `true` = tylko wielkie „PIXA”; `false` = także „Pixa”, „pixa” |
 | `applyExcludeToNow` | czy wykluczenie dotyczy też „Top 10 Now” (domyślnie `true`) |
 
+## Strona internetowa (GitHub Pages)
+
+Repozytorium: https://github.com/Suly3738/pixa-charts · Strona: https://suly3738.github.io/pixa-charts/
+
+GitHub Actions (`.github/workflows/update.yml`) uruchamia `update.mjs` co poniedziałek w chmurze, zapisuje
+`history.json` do repozytorium i publikuje stronę — komputer nie musi być włączony.
+Ręczne odświeżenie: zakładka *Actions* → *Aktualizacja notowania* → *Run workflow* (albo `gh workflow run update.yml`).
+
+Z serwerów YouTube blokuje pobieranie szczegółów filmów, dlatego workflow korzysta z **YouTube Data API v3**
+przez sekret `YT_API_KEY` (bez niego liczby będą zaokrąglone). Klucz: console.cloud.google.com → projekt →
+„APIs & Services” → włącz *YouTube Data API v3* → „Credentials” → *API key*. Zapis: `gh secret set YT_API_KEY`.
+Lokalnie można też ustawić `$env:YT_API_KEY` przed `node update.mjs`.
+
 ## Pliki
 
 - `update.mjs` – skrypt pobierający dane (Node.js + `youtubei.js`, bez klucza API)

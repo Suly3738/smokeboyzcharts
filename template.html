@@ -172,6 +172,7 @@ function init() {
   document.getElementById('foot').innerHTML = `
     Dane pobrane ${new Date(DATA.generatedAt).toLocaleString('pl-PL')} · ${DATA.stats.totalVideos} filmów na kanale ·
     ▲▼ = zmiana pozycji względem poprzedniego notowania, NEW = debiut.
+    ${DATA.stats.inexact ? `<br><strong>Uwaga:</strong> dla ${DATA.stats.inexact} filmów YouTube udostępnił tylko zaokrąglone liczby wyświetleń.` : ''}
     <details><summary>Wykluczone filmy (${ex.length})</summary><ul>${ex.map(e => `<li>${esc(e.title)}</li>`).join('') || '<li>—</li>'}</ul></details>`;
 
   const tabs = [...document.querySelectorAll('[role="tab"]')];
