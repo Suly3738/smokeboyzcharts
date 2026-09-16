@@ -48,16 +48,36 @@
   .date strong { display: block; font-size: 15px; letter-spacing: .22em; color: var(--bright); font-weight: 600; margin-bottom: 4px; }
 
   /* zakładki */
-  .tabs { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: 26px auto 22px; padding: 5px; border: 1px solid var(--line); border-radius: 999px;
+  .tabs { position: relative; display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: 26px auto 22px; padding: 5px; border: 1px solid var(--line); border-radius: 999px;
     background: var(--panel); backdrop-filter: blur(10px); width: max-content; max-width: 100%; }
-  .tabs button { border: 0; background: transparent; color: var(--muted); font-family: var(--serif); font-weight: 700; font-size: 13px; border-radius: 999px;
-    letter-spacing: .2em; text-transform: uppercase; padding: 12px 24px; cursor: pointer; white-space: nowrap; transition: color .15s, background .15s, box-shadow .15s; }
+  .tabs .pill { position: absolute; top: 0; left: 0; height: 0; width: 0; border-radius: 999px; pointer-events: none; opacity: 0;
+    background: linear-gradient(135deg, var(--violet), var(--pink)); box-shadow: 0 6px 24px rgba(139,92,246,.45);
+    transition: transform .38s cubic-bezier(.65,0,.35,1), width .38s cubic-bezier(.65,0,.35,1), height .38s cubic-bezier(.65,0,.35,1), opacity .2s; }
+  .tabs .pill.ready { opacity: 1; }
+  .tabs button { position: relative; z-index: 1; border: 0; background: transparent; color: var(--muted); font-family: var(--serif); font-weight: 700; font-size: 13px; border-radius: 999px;
+    letter-spacing: .2em; text-transform: uppercase; padding: 12px 24px; cursor: pointer; white-space: nowrap; transition: color .25s; }
   .tabs button:hover { color: var(--text); }
-  .tabs button[aria-selected="true"] { background: linear-gradient(135deg, var(--violet), var(--pink)); color: #fff; box-shadow: 0 6px 24px rgba(139,92,246,.45); }
+  .tabs button[aria-selected="true"] { color: #fff; }
   .tabs button:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
 
+  /* przejścia między zakładkami */
   .panel { display: none; }
-  .panel.active { display: block; }
+  .panel.active { display: block; animation: panel-in .42s cubic-bezier(.2,.7,.2,1) both; }
+  .panel.leaving { display: block; animation: panel-out .18s ease-in both; pointer-events: none; }
+  @keyframes panel-in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  @keyframes panel-out { from { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-8px); } }
+  .panel.active li.row, .panel.active .featured { animation: row-in .5s cubic-bezier(.2,.7,.2,1) both; }
+  .panel.active .featured { animation-delay: .05s; }
+  .panel.active li.row:nth-child(1) { animation-delay: .06s; }  .panel.active li.row:nth-child(2) { animation-delay: .10s; }
+  .panel.active li.row:nth-child(3) { animation-delay: .14s; }  .panel.active li.row:nth-child(4) { animation-delay: .18s; }
+  .panel.active li.row:nth-child(5) { animation-delay: .22s; }  .panel.active li.row:nth-child(6) { animation-delay: .26s; }
+  .panel.active li.row:nth-child(7) { animation-delay: .30s; }  .panel.active li.row:nth-child(8) { animation-delay: .34s; }
+  .panel.active li.row:nth-child(9) { animation-delay: .38s; }  .panel.active li.row:nth-child(n+10) { animation-delay: .42s; }
+  @keyframes row-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: reduce) {
+    .panel.active, .panel.leaving, .panel.active li.row, .panel.active .featured { animation: none; }
+    .tabs .pill { transition: none; }
+  }
   .panel-head { text-align: center; margin: 0 0 18px; }
   .panel-head h2 { margin: 0; font-family: var(--serif); font-weight: 700; font-size: 22px; letter-spacing: .3em; text-transform: uppercase; color: var(--bright); }
   .panel-head h2::before, .panel-head h2::after { content: "✦"; font-size: 12px; color: var(--gold); margin: 0 14px; vertical-align: middle; }
@@ -146,6 +166,7 @@
   </header>
 
   <div class="tabs" role="tablist">
+    <span class="pill" aria-hidden="true"></span>
     <button role="tab" id="tab-now" aria-selected="true" aria-controls="panel-now">Top 10 Now</button>
     <button role="tab" id="tab-all" aria-selected="false" aria-controls="panel-all">Top 100 All Time</button>
     <button role="tab" id="tab-latest" aria-selected="false" aria-controls="panel-latest">Nasze najnowsze wydanie</button>
@@ -268,18 +289,67 @@ function init() {
     <div style="margin-top:14px;letter-spacing:.3em;font-size:10px">EST. 2024</div>`;
 
   const tabs = [...document.querySelectorAll('[role="tab"]')];
-  function select(tab) {
-    tabs.forEach(t => {
-      const on = t === tab;
-      t.setAttribute('aria-selected', on);
-      document.getElementById(t.getAttribute('aria-controls')).classList.toggle('active', on);
-    });
-    try { localStorage.setItem('smokeboyzcharts.tab', tab.id); } catch {}
+  const pill = document.querySelector('.tabs .pill');
+  const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let current = null, switching = false;
+
+  function movePill(tab) {
+    const box = tab.parentElement.getBoundingClientRect();
+    const r = tab.getBoundingClientRect();
+    pill.style.width = r.width + 'px';
+    pill.style.height = r.height + 'px';
+    pill.style.transform = `translate(${r.left - box.left}px, ${r.top - box.top}px)`;
   }
+
+  function show(panel) {
+    panel.classList.remove('leaving');
+    panel.classList.add('active');
+    // przewiń do góry listy, gdy użytkownik jest daleko w dół (np. w Top 100)
+    const tabsTop = document.querySelector('.tabs').getBoundingClientRect().top;
+    if (tabsTop < 0) window.scrollTo({ top: window.scrollY + tabsTop - 16, behavior: reduced ? 'auto' : 'smooth' });
+  }
+
+  function select(tab, instant = false) {
+    if (tab === current || switching) return;
+    tabs.forEach(t => t.setAttribute('aria-selected', t === tab));
+    movePill(tab);
+    const next = document.getElementById(tab.getAttribute('aria-controls'));
+    const prevPanel = current ? document.getElementById(current.getAttribute('aria-controls')) : null;
+    current = tab;
+    try { localStorage.setItem('smokeboyzcharts.tab', tab.id); } catch {}
+
+    if (!prevPanel || instant || reduced) {
+      if (prevPanel) prevPanel.classList.remove('active', 'leaving');
+      show(next);
+      return;
+    }
+    // wyjście starego panelu, potem wejście nowego
+    switching = true;
+    prevPanel.classList.remove('active');
+    prevPanel.classList.add('leaving');
+    const done = () => {
+      prevPanel.removeEventListener('animationend', done);
+      prevPanel.classList.remove('leaving');
+      show(next);
+      switching = false;
+    };
+    prevPanel.addEventListener('animationend', done);
+    setTimeout(() => { if (switching) done(); }, 260); // zabezpieczenie, gdyby animationend nie doszło
+  }
+
   tabs.forEach(t => t.addEventListener('click', () => select(t)));
+  tabs.forEach((t, i) => t.addEventListener('keydown', (e) => { // strzałki ←/→ między zakładkami
+    if (e.key !== 'ArrowRight' && e.key !== 'ArrowLeft') return;
+    const n = tabs[(i + (e.key === 'ArrowRight' ? 1 : tabs.length - 1)) % tabs.length];
+    n.focus(); select(n);
+  }));
+  addEventListener('resize', () => current && movePill(current));
+  document.fonts?.ready.then(() => current && movePill(current)); // po załadowaniu Cinzel szerokości się zmieniają
+
   let saved = null; try { saved = localStorage.getItem('smokeboyzcharts.tab'); } catch {}
   const initial = tabs.find(t => t.id === saved) || tabs[0];
-  select(initial);
+  select(initial, true);
+  requestAnimationFrame(() => pill.classList.add('ready'));
 }
 init();
 
