@@ -1,0 +1,62 @@
+name: Aktualizacja notowania
+
+on:
+  schedule:
+    - cron: "0 7 * * 1" # poniedziałek 07:00 UTC (09:00 czasu polskiego latem, 08:00 zimą)
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pixacharts
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Pobierz dane i wygeneruj stronę
+        run: node update.mjs
+        env:
+          TZ: Europe/Warsaw
+
+      - name: Zapisz historię notowań w repozytorium
+        run: |
+          git config user.name "pixacharts-bot"
+          git config user.email "pixacharts-bot@users.noreply.github.com"
+          git add data.json history.json index.html
+          git diff --cached --quiet || git commit -m "Notowanie $(date +%Y-%m-%d)"
+          git push
+
+      - name: Przygotuj pliki strony
+        run: |
+          mkdir -p _site
+          cp index.html data.json _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

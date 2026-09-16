@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pixa Charts</title>
+<style>
+  :root {
+    --bg: #0f1014; --panel: #17181e; --panel-2: #1e2028; --line: #2a2d38;
+    --text: #f2f3f7; --muted: #9a9fb0; --accent: #ffcf3f; --accent-ink: #1a1400;
+    --up: #3ddc84; --down: #ff5c6c; --new: #62a8ff; --same: #6c7185;
+    --radius: 14px;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #f4f4f7; --panel: #ffffff; --panel-2: #f0f0f4; --line: #e2e3ea;
+      --text: #15161c; --muted: #676c7e; --accent: #e5b400; --accent-ink: #1a1400;
+      --up: #159d55; --down: #d63c4c; --new: #2c6fd6; --same: #9095a8;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--bg); color: var(--text);
+    font: 15px/1.45 -apple-system, "Segoe UI", system-ui, Roboto, sans-serif; }
+  a { color: inherit; }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 24px 16px 64px; }
+
+  header { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 12px 24px; margin-bottom: 20px; }
+  .brand h1 { margin: 0; font-size: 30px; letter-spacing: -0.02em; line-height: 1.1; }
+  .brand h1 span { color: var(--accent); }
+  .brand p { margin: 6px 0 0; color: var(--muted); }
+  .brand p a { text-decoration: none; border-bottom: 1px dotted var(--muted); }
+  .date { margin-left: auto; text-align: right; color: var(--muted); font-size: 13px; }
+  .date strong { display: block; color: var(--text); font-size: 15px; }
+
+  .tabs { display: flex; gap: 6px; background: var(--panel); border: 1px solid var(--line);
+    border-radius: 999px; padding: 4px; width: max-content; max-width: 100%; margin-bottom: 18px; }
+  .tabs button { border: 0; background: transparent; color: var(--muted); font: inherit; font-weight: 600;
+    padding: 9px 18px; border-radius: 999px; cursor: pointer; white-space: nowrap; }
+  .tabs button[aria-selected="true"] { background: var(--accent); color: var(--accent-ink); }
+  .tabs button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .panel { display: none; }
+  .panel.active { display: block; }
+  .panel-head { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline; margin: 0 0 12px; color: var(--muted); font-size: 13px; }
+  .panel-head h2 { margin: 0; font-size: 18px; color: var(--text); }
+
+  ol.chart { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  li.row { display: grid; grid-template-columns: 56px 44px 96px 1fr auto auto; align-items: center; gap: 12px;
+    background: var(--panel); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 14px 10px 10px; }
+  li.row.top { border-color: color-mix(in srgb, var(--accent) 45%, var(--line)); }
+  .pos { font-size: 26px; font-weight: 800; text-align: center; letter-spacing: -0.03em; font-variant-numeric: tabular-nums; }
+  li.row.top .pos { color: var(--accent); }
+  .move { font-size: 12px; font-weight: 700; text-align: center; font-variant-numeric: tabular-nums; }
+  .move.up { color: var(--up); } .move.down { color: var(--down); }
+  .move.new { color: var(--new); } .move.same { color: var(--same); }
+  .thumb { width: 96px; aspect-ratio: 16/9; border-radius: 8px; overflow: hidden; background: var(--panel-2); }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .info { min-width: 0; }
+  .song { font-weight: 700; font-size: 16px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .artist { color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .meta { color: var(--muted); font-size: 12px; margin-top: 3px; display: flex; flex-wrap: wrap; gap: 4px 10px; }
+  .views { text-align: right; font-variant-numeric: tabular-nums; }
+  .views b { display: block; font-size: 16px; }
+  .views small { color: var(--muted); font-size: 12px; }
+  .views small.plus { color: var(--up); }
+  .link { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; font-weight: 600; font-size: 13px;
+    background: var(--panel-2); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; white-space: nowrap; }
+  .link:hover { border-color: var(--accent); }
+  .link svg { width: 16px; height: 16px; fill: #ff0033; }
+
+  footer { margin-top: 32px; color: var(--muted); font-size: 13px; line-height: 1.6; }
+  footer details { margin-top: 6px; }
+  footer summary { cursor: pointer; }
+  .empty { padding: 32px; text-align: center; color: var(--muted); background: var(--panel); border-radius: var(--radius); }
+
+  @media (max-width: 640px) {
+    .brand h1 { font-size: 24px; }
+    .date { margin-left: 0; text-align: left; }
+    li.row { grid-template-columns: 40px 36px 1fr auto; grid-template-areas: "pos move info views" "pos move info link"; padding: 10px; row-gap: 6px; }
+    .pos { font-size: 22px; grid-area: pos; } .move { grid-area: move; }
+    .thumb { display: none; }
+    .info { grid-area: info; } .views { grid-area: views; } .link { grid-area: link; justify-self: end; }
+    .song { white-space: normal; font-size: 15px; }
+    .artist { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <h1>Pixa <span>Charts</span></h1>
+      <p>Notowanie utworów z kanału <a id="channel-link" href="#" target="_blank" rel="noopener"></a></p>
+    </div>
+    <div class="date"><strong id="chart-date"></strong><span id="prev-date"></span></div>
+  </header>
+
+  <div class="tabs" role="tablist">
+    <button role="tab" id="tab-now" aria-selected="true" aria-controls="panel-now">Top 10 Now</button>
+    <button role="tab" id="tab-all" aria-selected="false" aria-controls="panel-all">Top 100 All Time</button>
+  </div>
+
+  <section class="panel active" id="panel-now" role="tabpanel" aria-labelledby="tab-now">
+    <div class="panel-head"><h2>Top 10 Now</h2><span id="now-desc"></span></div>
+    <ol class="chart" id="list-now"></ol>
+  </section>
+
+  <section class="panel" id="panel-all" role="tabpanel" aria-labelledby="tab-all">
+    <div class="panel-head"><h2>Top 100 All Time</h2><span id="all-desc"></span></div>
+    <ol class="chart" id="list-all"></ol>
+  </section>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+
+const nf = new Intl.NumberFormat('pl-PL');
+const fmtDate = (iso) => iso ? new Date(iso + 'T00:00:00').toLocaleDateString('pl-PL', { day: 'numeric', month: 'long', year: 'numeric' }) : '';
+const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+
+function moveBadge(e) {
+  if (e.move === null) return '<span class="move same" title="Pierwsze notowanie">—</span>';
+  if (e.move === 'new') return '<span class="move new" title="Nowość w notowaniu">NEW</span>';
+  if (e.move > 0) return `<span class="move up" title="Poprzednio #${e.prevPos}">▲ ${e.move}</span>`;
+  if (e.move < 0) return `<span class="move down" title="Poprzednio #${e.prevPos}">▼ ${-e.move}</span>`;
+  return '<span class="move same" title="Bez zmian">=</span>';
+}
+
+function row(e) {
+  const delta = e.viewsDelta !== null && e.viewsDelta > 0 ? `<small class="plus">+${nf.format(e.viewsDelta)} od ost. notowania</small>` : '';
+  const meta = [];
+  if (e.weeks > 1) meta.push(`${e.weeks} tyg. w notowaniu`);
+  if (e.peak < e.pos) meta.push(`szczyt: #${e.peak}`);
+  if (e.publishedText) meta.push(esc(e.publishedText));
+  return `<li class="row${e.pos <= 3 ? ' top' : ''}">
+    <div class="pos">${e.pos}</div>
+    ${moveBadge(e)}
+    <a class="thumb" href="${esc(e.url)}" target="_blank" rel="noopener" tabindex="-1"><img loading="lazy" src="${esc(e.thumb)}" alt=""></a>
+    <div class="info">
+      <div class="song" title="${esc(e.title)}">${esc(e.song)}</div>
+      <div class="artist">${esc(e.artist || '—')}</div>
+      <div class="meta">${meta.map(m => `<span>${m}</span>`).join('')}</div>
+    </div>
+    <div class="views"><b>${nf.format(e.views)}</b><small>wyświetleń</small>${delta}</div>
+    <a class="link" href="${esc(e.url)}" target="_blank" rel="noopener">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8zM9.6 15.6V8.4l6.2 3.6-6.2 3.6z"/></svg>
+      Otwórz
+    </a>
+  </li>`;
+}
+
+function render(listId, entries) {
+  const el = document.getElementById(listId);
+  el.innerHTML = entries.length ? entries.map(row).join('') : '<li class="empty">Brak utworów w tym notowaniu.</li>';
+}
+
+function init() {
+  if (!DATA) { document.getElementById('foot').textContent = 'Brak danych – uruchom update.cmd.'; return; }
+  const ch = document.getElementById('channel-link');
+  ch.textContent = DATA.channel.title; ch.href = DATA.channel.url;
+  document.title = `Pixa Charts – notowanie ${fmtDate(DATA.chartDate)}`;
+  document.getElementById('chart-date').textContent = `Notowanie z ${fmtDate(DATA.chartDate)}`;
+  document.getElementById('prev-date').textContent = DATA.prevDate ? `poprzednie: ${fmtDate(DATA.prevDate)}` : 'pierwsze notowanie';
+  document.getElementById('now-desc').textContent = `utwory wydane od „${DATA.config.nowStart.title}” (${DATA.stats.nowPoolSize} w puli)`;
+  document.getElementById('all-desc').textContent = `cały kanał bez filmów z „${DATA.config.excludeKeyword}” w tytule (${DATA.stats.allTimePoolSize} w puli)`;
+  render('list-now', DATA.now);
+  render('list-all', DATA.allTime);
+
+  const ex = DATA.stats.excluded;
+  document.getElementById('foot').innerHTML = `
+    Dane pobrane ${new Date(DATA.generatedAt).toLocaleString('pl-PL')} · ${DATA.stats.totalVideos} filmów na kanale ·
+    ▲▼ = zmiana pozycji względem poprzedniego notowania, NEW = debiut.
+    <details><summary>Wykluczone filmy (${ex.length})</summary><ul>${ex.map(e => `<li>${esc(e.title)}</li>`).join('') || '<li>—</li>'}</ul></details>`;
+
+  const tabs = [...document.querySelectorAll('[role="tab"]')];
+  function select(tab) {
+    tabs.forEach(t => {
+      const on = t === tab;
+      t.setAttribute('aria-selected', on);
+      document.getElementById(t.getAttribute('aria-controls')).classList.toggle('active', on);
+    });
+    try { localStorage.setItem('pixacharts.tab', tab.id); } catch {}
+  }
+  tabs.forEach(t => t.addEventListener('click', () => select(t)));
+  let saved = null; try { saved = localStorage.getItem('pixacharts.tab'); } catch {}
+  const initial = tabs.find(t => t.id === saved) || tabs[0];
+  select(initial);
+}
+init();
+</script>
+</body>
+</html>
