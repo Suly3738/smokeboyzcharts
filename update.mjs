@@ -209,7 +209,8 @@ async function fetchViaInnertube() {
   return { channelTitle, raw };
 }
 
-const apiKey = process.env.YT_API_KEY;
+// klucz: zmienna środowiskowa YT_API_KEY (GitHub Actions – sekret) albo lokalny plik .ytkey (poza gitem)
+const apiKey = process.env.YT_API_KEY || (fs.existsSync(p('.ytkey')) ? fs.readFileSync(p('.ytkey'), 'utf8').trim() : '');
 log(apiKey ? 'Łączenie z YouTube Data API…' : 'Łączenie z YouTube (bez klucza API)…');
 const { channelTitle, raw } = apiKey ? await fetchViaApi(apiKey) : await fetchViaInnertube();
 const inexact = raw.filter(v => !v.exact).length;
