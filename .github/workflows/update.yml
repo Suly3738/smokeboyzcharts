@@ -2,7 +2,7 @@ name: Aktualizacja notowania
 
 on:
   schedule:
-    - cron: "0 5 * * *" # codziennie 05:00 UTC (07:00 czasu polskiego latem, 06:00 zimą)
+    - cron: "7 * * * *" # co godzinę (kanał wrzuca ok. 20:00–21:00 PL; ~10 jednostek API na przebieg, limit 10 000/dzień)
   workflow_dispatch:
   push:
     branches: [main]
