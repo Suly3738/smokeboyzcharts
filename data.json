@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-17T05:01:47.662Z",
-  "chartDate": "2026-09-17",
-  "prevDate": null,
+  "generatedAt": "2026-09-17T23:29:34.498Z",
+  "chartDate": "2026-09-18",
+  "prevDate": "2026-09-17",
   "channel": {
     "title": "Pixa Roleplay",
     "url": "https://www.youtube.com/@PixaRoleplay"
@@ -18,7 +18,7 @@
   "stats": {
     "source": "YouTube Data API",
     "inexact": 0,
-    "totalVideos": 190,
+    "totalVideos": 192,
     "excluded": [
       {
         "id": "JJ0LXk7V220",
@@ -49,26 +49,26 @@
         "title": "𝗣𝗜𝗫𝗔 𝟯.𝟬 | 𝗣𝗥𝗘𝘁𝗲𝗮𝘀𝗲𝗿"
       }
     ],
-    "nowPoolSize": 22,
-    "allTimePoolSize": 183
+    "nowPoolSize": 24,
+    "allTimePoolSize": 185
   },
   "now": [
     {
       "pos": 1,
       "id": "ouxZnv13bN8",
-      "isLatest": true,
+      "isLatest": false,
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1984,
+      "views": 2054,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 1,
+      "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 70
     },
     {
       "pos": 2,
@@ -77,15 +77,15 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1228,
+      "views": 1240,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 2,
+      "move": 0,
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 12
     },
     {
       "pos": 3,
@@ -94,15 +94,15 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 921,
+      "views": 929,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 3,
+      "move": 0,
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 8
     },
     {
       "pos": 4,
@@ -111,15 +111,15 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 820,
+      "views": 828,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 4,
+      "move": 0,
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 8
     },
     {
       "pos": 5,
@@ -128,15 +128,15 @@
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
-      "views": 630,
+      "views": 634,
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 5,
+      "move": 0,
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 4
     },
     {
       "pos": 6,
@@ -149,11 +149,11 @@
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 6,
+      "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 7,
@@ -162,15 +162,15 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 421,
+      "views": 424,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 7,
+      "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 3
     },
     {
       "pos": 8,
@@ -179,15 +179,15 @@
       "artist": "Tyr0ne",
       "song": "Be Smokin crxBS",
       "title": "Tyr0ne - Be Smokin crxBS",
-      "views": 386,
+      "views": 392,
       "url": "https://www.youtube.com/watch?v=lR_vlC8uh8g",
       "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 8,
+      "move": 0,
       "peak": 8,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 6
     },
     {
       "pos": 9,
@@ -200,11 +200,11 @@
       "url": "https://www.youtube.com/watch?v=vLnqEidRvCY",
       "thumb": "https://i.ytimg.com/vi/vLnqEidRvCY/mqdefault.jpg",
       "publishedText": "5 wrz 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 9,
+      "move": 0,
       "peak": 9,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 10,
@@ -217,11 +217,11 @@
       "url": "https://www.youtube.com/watch?v=8jQda9sFvV8",
       "thumb": "https://i.ytimg.com/vi/8jQda9sFvV8/mqdefault.jpg",
       "publishedText": "28 sie 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 10,
+      "move": 0,
       "peak": 10,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     }
   ],
   "allTime": [
@@ -232,15 +232,15 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14214,
+      "views": 14220,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 1,
+      "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 6
     },
     {
       "pos": 2,
@@ -249,15 +249,15 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13169,
+      "views": 13177,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 2,
+      "move": 0,
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 8
     },
     {
       "pos": 3,
@@ -266,15 +266,15 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12373,
+      "views": 12377,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 3,
+      "move": 0,
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 4
     },
     {
       "pos": 4,
@@ -283,15 +283,15 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10811,
+      "views": 10820,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 4,
+      "move": 0,
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 9
     },
     {
       "pos": 5,
@@ -300,15 +300,15 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9895,
+      "views": 9900,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 5,
+      "move": 0,
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 5
     },
     {
       "pos": 6,
@@ -317,15 +317,15 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9262,
+      "views": 9267,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 6,
+      "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 5
     },
     {
       "pos": 7,
@@ -334,15 +334,15 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8190,
+      "views": 8193,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 7,
+      "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 3
     },
     {
       "pos": 8,
@@ -351,15 +351,15 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7866,
+      "views": 7870,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 8,
+      "move": 0,
       "peak": 8,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 4
     },
     {
       "pos": 9,
@@ -368,15 +368,15 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7372,
+      "views": 7375,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 9,
+      "move": 0,
       "peak": 9,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 3
     },
     {
       "pos": 10,
@@ -385,15 +385,15 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6751,
+      "views": 6753,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 10,
+      "move": 0,
       "peak": 10,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     },
     {
       "pos": 11,
@@ -402,15 +402,15 @@
       "artist": "TONY LUGO",
       "song": "88 (Snapmatic Video)",
       "title": "TONY LUGO - 88 (Snapmatic Video)",
-      "views": 6708,
+      "views": 6710,
       "url": "https://www.youtube.com/watch?v=Pun1oxeNjE8",
       "thumb": "https://i.ytimg.com/vi/Pun1oxeNjE8/mqdefault.jpg",
       "publishedText": "7 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 11,
+      "move": 0,
       "peak": 11,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     },
     {
       "pos": 12,
@@ -419,15 +419,15 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6636,
+      "views": 6642,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 12,
+      "move": 0,
       "peak": 12,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 6
     },
     {
       "pos": 13,
@@ -440,11 +440,11 @@
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 13,
+      "move": 0,
       "peak": 13,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 14,
@@ -453,15 +453,15 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6114,
+      "views": 6116,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 14,
+      "move": 0,
       "peak": 14,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     },
     {
       "pos": 15,
@@ -474,11 +474,11 @@
       "url": "https://www.youtube.com/watch?v=CdvicCIhX0o",
       "thumb": "https://i.ytimg.com/vi/CdvicCIhX0o/mqdefault.jpg",
       "publishedText": "17 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 15,
+      "move": 0,
       "peak": 15,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 16,
@@ -487,15 +487,15 @@
       "artist": "88Dushane",
       "song": "Hanging With Wolves DURK REMIX",
       "title": "88Dushane - Hanging With Wolves DURK REMIX (Official Music Video)",
-      "views": 5081,
+      "views": 5082,
       "url": "https://www.youtube.com/watch?v=w20yZzvA87s",
       "thumb": "https://i.ytimg.com/vi/w20yZzvA87s/mqdefault.jpg",
       "publishedText": "17 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 16,
+      "move": 0,
       "peak": 16,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 1
     },
     {
       "pos": 17,
@@ -504,15 +504,15 @@
       "artist": "WUJA",
       "song": "ALL ALONE",
       "title": "WUJA - ALL ALONE",
-      "views": 4586,
+      "views": 4589,
       "url": "https://www.youtube.com/watch?v=4k7sgidRPDI",
       "thumb": "https://i.ytimg.com/vi/4k7sgidRPDI/mqdefault.jpg",
       "publishedText": "9 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 17,
+      "move": 0,
       "peak": 17,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 3
     },
     {
       "pos": 18,
@@ -525,11 +525,11 @@
       "url": "https://www.youtube.com/watch?v=DvbbinQ6z44",
       "thumb": "https://i.ytimg.com/vi/DvbbinQ6z44/mqdefault.jpg",
       "publishedText": "10 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 18,
+      "move": 0,
       "peak": 18,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 19,
@@ -538,15 +538,15 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4172,
+      "views": 4173,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 19,
+      "move": 0,
       "peak": 19,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 1
     },
     {
       "pos": 20,
@@ -555,15 +555,15 @@
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
-      "views": 3832,
+      "views": 3834,
       "url": "https://www.youtube.com/watch?v=5qM3_rAl8-8",
       "thumb": "https://i.ytimg.com/vi/5qM3_rAl8-8/mqdefault.jpg",
       "publishedText": "11 lip 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 20,
+      "move": 0,
       "peak": 20,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     },
     {
       "pos": 21,
@@ -572,15 +572,15 @@
       "artist": "88Dushane",
       "song": "PIONKI (PAPA DISS) (DAM CI RÓŻNICĘ)",
       "title": "88Dushane - PIONKI (PAPA DISS) (DAM CI RÓŻNICĘ)",
-      "views": 3829,
+      "views": 3831,
       "url": "https://www.youtube.com/watch?v=OoLXI8k5kYc",
       "thumb": "https://i.ytimg.com/vi/OoLXI8k5kYc/mqdefault.jpg",
       "publishedText": "11 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 21,
+      "move": 0,
       "peak": 21,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     },
     {
       "pos": 22,
@@ -589,15 +589,15 @@
       "artist": "88Dushane",
       "song": "GRR POW",
       "title": "88Dushane - GRR POW (Official Music Video)",
-      "views": 3825,
+      "views": 3826,
       "url": "https://www.youtube.com/watch?v=CCAtfc3uu18",
       "thumb": "https://i.ytimg.com/vi/CCAtfc3uu18/mqdefault.jpg",
       "publishedText": "1 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 22,
+      "move": 0,
       "peak": 22,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 1
     },
     {
       "pos": 23,
@@ -606,15 +606,15 @@
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
-      "views": 3651,
+      "views": 3655,
       "url": "https://www.youtube.com/watch?v=UpFIrX-aWEw",
       "thumb": "https://i.ytimg.com/vi/UpFIrX-aWEw/mqdefault.jpg",
       "publishedText": "4 maj 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 23,
+      "move": 0,
       "peak": 23,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 4
     },
     {
       "pos": 24,
@@ -623,15 +623,15 @@
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
-      "views": 3578,
+      "views": 3583,
       "url": "https://www.youtube.com/watch?v=Lap3gXlJk1Q",
       "thumb": "https://i.ytimg.com/vi/Lap3gXlJk1Q/mqdefault.jpg",
       "publishedText": "4 kwi 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 24,
+      "move": 0,
       "peak": 24,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 5
     },
     {
       "pos": 25,
@@ -640,15 +640,15 @@
       "artist": "88TRAY",
       "song": "4 A.M.",
       "title": "88TRAY - 4 A.M. (Official music video)",
-      "views": 3175,
+      "views": 3176,
       "url": "https://www.youtube.com/watch?v=QUL343nC7o4",
       "thumb": "https://i.ytimg.com/vi/QUL343nC7o4/mqdefault.jpg",
       "publishedText": "20 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 25,
+      "move": 0,
       "peak": 25,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 1
     },
     {
       "pos": 26,
@@ -661,11 +661,11 @@
       "url": "https://www.youtube.com/watch?v=IM1RJ_GZbww",
       "thumb": "https://i.ytimg.com/vi/IM1RJ_GZbww/mqdefault.jpg",
       "publishedText": "19 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 26,
+      "move": 0,
       "peak": 26,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 27,
@@ -678,11 +678,11 @@
       "url": "https://www.youtube.com/watch?v=bdrC6hEXTfs",
       "thumb": "https://i.ytimg.com/vi/bdrC6hEXTfs/mqdefault.jpg",
       "publishedText": "18 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 27,
+      "move": 0,
       "peak": 27,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 28,
@@ -691,15 +691,15 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2735,
+      "views": 2742,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 28,
+      "move": 0,
       "peak": 28,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 7
     },
     {
       "pos": 29,
@@ -708,15 +708,15 @@
       "artist": "BABY FLAMESTA x DG SULLY",
       "song": "PORN$TAR",
       "title": "BABY FLAMESTA x DG SULLY - PORN$TAR (OFFICIAL VIDEO)",
-      "views": 2713,
+      "views": 2715,
       "url": "https://www.youtube.com/watch?v=bZuoIVpLLDE",
       "thumb": "https://i.ytimg.com/vi/bZuoIVpLLDE/mqdefault.jpg",
       "publishedText": "10 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 29,
+      "move": 0,
       "peak": 29,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     },
     {
       "pos": 30,
@@ -729,11 +729,11 @@
       "url": "https://www.youtube.com/watch?v=PNc5MgBdzfE",
       "thumb": "https://i.ytimg.com/vi/PNc5MgBdzfE/mqdefault.jpg",
       "publishedText": "10 sie 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 30,
+      "move": 0,
       "peak": 30,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 31,
@@ -742,15 +742,15 @@
       "artist": "88Dushane x msloo",
       "song": "$tars Avenue",
       "title": "88Dushane x msloo - $tars Avenue",
-      "views": 2634,
+      "views": 2636,
       "url": "https://www.youtube.com/watch?v=RoimmOxAv2s",
       "thumb": "https://i.ytimg.com/vi/RoimmOxAv2s/mqdefault.jpg",
       "publishedText": "8 gru 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 31,
+      "move": 0,
       "peak": 31,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     },
     {
       "pos": 32,
@@ -763,11 +763,11 @@
       "url": "https://www.youtube.com/watch?v=Pz6uIhTaHwc",
       "thumb": "https://i.ytimg.com/vi/Pz6uIhTaHwc/mqdefault.jpg",
       "publishedText": "7 mar 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 32,
+      "move": 0,
       "peak": 32,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 33,
@@ -780,11 +780,11 @@
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 33,
+      "move": 0,
       "peak": 33,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 34,
@@ -797,11 +797,11 @@
       "url": "https://www.youtube.com/watch?v=oQqJNGM6k7g",
       "thumb": "https://i.ytimg.com/vi/oQqJNGM6k7g/mqdefault.jpg",
       "publishedText": "18 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 34,
+      "move": 0,
       "peak": 34,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 35,
@@ -810,18 +810,35 @@
       "artist": "TONY LUGO",
       "song": "MOLOTOV",
       "title": "TONY LUGO - MOLOTOV",
-      "views": 2178,
+      "views": 2179,
       "url": "https://www.youtube.com/watch?v=vLGi6q4X9OM",
       "thumb": "https://i.ytimg.com/vi/vLGi6q4X9OM/mqdefault.jpg",
       "publishedText": "19 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 35,
+      "move": 0,
       "peak": 35,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 1
     },
     {
       "pos": 36,
+      "id": "ouxZnv13bN8",
+      "isLatest": false,
+      "artist": "Tiny Shuj",
+      "song": "naucz mnie jak kochać",
+      "title": "Tiny Shuj - naucz mnie jak kochać",
+      "views": 2054,
+      "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
+      "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
+      "publishedText": "12 wrz 2026",
+      "prevPos": 40,
+      "move": 4,
+      "peak": 36,
+      "weeks": 1,
+      "viewsDelta": 70
+    },
+    {
+      "pos": 37,
       "id": "MlgzXmZMxVo",
       "isLatest": false,
       "artist": "Lia's",
@@ -831,48 +848,48 @@
       "url": "https://www.youtube.com/watch?v=MlgzXmZMxVo",
       "thumb": "https://i.ytimg.com/vi/MlgzXmZMxVo/mqdefault.jpg",
       "publishedText": "12 sie 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 36,
+      "move": -1,
       "peak": 36,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
-      "pos": 37,
+      "pos": 38,
       "id": "FNXj91Sz0oY",
       "isLatest": false,
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2036,
+      "views": 2040,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 37,
+      "move": -1,
       "peak": 37,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 4
     },
     {
-      "pos": 38,
+      "pos": 39,
       "id": "Txsb4t6nBE4",
       "isLatest": false,
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2011,
+      "views": 2014,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 38,
+      "move": -1,
       "peak": 38,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 3
     },
     {
-      "pos": 39,
+      "pos": 40,
       "id": "02aWME4UjQo",
       "isLatest": false,
       "artist": "ST",
@@ -882,28 +899,11 @@
       "url": "https://www.youtube.com/watch?v=02aWME4UjQo",
       "thumb": "https://i.ytimg.com/vi/02aWME4UjQo/mqdefault.jpg",
       "publishedText": "7 sie 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 39,
+      "move": -1,
       "peak": 39,
       "weeks": 1,
-      "viewsDelta": null
-    },
-    {
-      "pos": 40,
-      "id": "ouxZnv13bN8",
-      "isLatest": true,
-      "artist": "Tiny Shuj",
-      "song": "naucz mnie jak kochać",
-      "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1984,
-      "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
-      "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
-      "publishedText": "12 wrz 2026",
-      "prevPos": null,
-      "move": null,
-      "peak": 40,
-      "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 41,
@@ -916,11 +916,11 @@
       "url": "https://www.youtube.com/watch?v=qAzNpFEe6-k",
       "thumb": "https://i.ytimg.com/vi/qAzNpFEe6-k/mqdefault.jpg",
       "publishedText": "15 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 41,
+      "move": 0,
       "peak": 41,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 42,
@@ -933,11 +933,11 @@
       "url": "https://www.youtube.com/watch?v=LsshqES46Iw",
       "thumb": "https://i.ytimg.com/vi/LsshqES46Iw/mqdefault.jpg",
       "publishedText": "11 maj 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 42,
+      "move": 0,
       "peak": 42,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 43,
@@ -950,11 +950,11 @@
       "url": "https://www.youtube.com/watch?v=DFSVSxbg6Bs",
       "thumb": "https://i.ytimg.com/vi/DFSVSxbg6Bs/mqdefault.jpg",
       "publishedText": "4 wrz 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 43,
+      "move": 0,
       "peak": 43,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 44,
@@ -967,11 +967,11 @@
       "url": "https://www.youtube.com/watch?v=RutJdpFfBs8",
       "thumb": "https://i.ytimg.com/vi/RutJdpFfBs8/mqdefault.jpg",
       "publishedText": "4 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 44,
+      "move": 0,
       "peak": 44,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 45,
@@ -984,11 +984,11 @@
       "url": "https://www.youtube.com/watch?v=_me1SfLaZCo",
       "thumb": "https://i.ytimg.com/vi/_me1SfLaZCo/mqdefault.jpg",
       "publishedText": "1 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 45,
+      "move": 0,
       "peak": 45,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 46,
@@ -1001,11 +1001,11 @@
       "url": "https://www.youtube.com/watch?v=7oWVQe1W2RE",
       "thumb": "https://i.ytimg.com/vi/7oWVQe1W2RE/mqdefault.jpg",
       "publishedText": "7 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 46,
+      "move": 0,
       "peak": 46,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 47,
@@ -1018,11 +1018,11 @@
       "url": "https://www.youtube.com/watch?v=6F01QNtqlO0",
       "thumb": "https://i.ytimg.com/vi/6F01QNtqlO0/mqdefault.jpg",
       "publishedText": "1 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 47,
+      "move": 0,
       "peak": 47,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 48,
@@ -1035,11 +1035,11 @@
       "url": "https://www.youtube.com/watch?v=CWTlZqr-3Is",
       "thumb": "https://i.ytimg.com/vi/CWTlZqr-3Is/mqdefault.jpg",
       "publishedText": "5 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 48,
+      "move": 0,
       "peak": 48,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 49,
@@ -1052,11 +1052,11 @@
       "url": "https://www.youtube.com/watch?v=F3wUp8JkMTU",
       "thumb": "https://i.ytimg.com/vi/F3wUp8JkMTU/mqdefault.jpg",
       "publishedText": "19 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 49,
+      "move": 0,
       "peak": 49,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 50,
@@ -1069,11 +1069,11 @@
       "url": "https://www.youtube.com/watch?v=qk-xdGeJmMU",
       "thumb": "https://i.ytimg.com/vi/qk-xdGeJmMU/mqdefault.jpg",
       "publishedText": "2 sie 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 50,
+      "move": 0,
       "peak": 50,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 51,
@@ -1086,11 +1086,11 @@
       "url": "https://www.youtube.com/watch?v=iU15GbccCME",
       "thumb": "https://i.ytimg.com/vi/iU15GbccCME/mqdefault.jpg",
       "publishedText": "21 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 51,
+      "move": 0,
       "peak": 51,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 52,
@@ -1103,11 +1103,11 @@
       "url": "https://www.youtube.com/watch?v=vIijY4mwt4M",
       "thumb": "https://i.ytimg.com/vi/vIijY4mwt4M/mqdefault.jpg",
       "publishedText": "21 gru 2025",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 52,
+      "move": 0,
       "peak": 52,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 53,
@@ -1120,11 +1120,11 @@
       "url": "https://www.youtube.com/watch?v=cxFkImgX4A8",
       "thumb": "https://i.ytimg.com/vi/cxFkImgX4A8/mqdefault.jpg",
       "publishedText": "29 gru 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 53,
+      "move": 0,
       "peak": 53,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 54,
@@ -1137,11 +1137,11 @@
       "url": "https://www.youtube.com/watch?v=CSDhwimu3S0",
       "thumb": "https://i.ytimg.com/vi/CSDhwimu3S0/mqdefault.jpg",
       "publishedText": "13 gru 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 54,
+      "move": 0,
       "peak": 54,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 55,
@@ -1154,11 +1154,11 @@
       "url": "https://www.youtube.com/watch?v=xbxnj5eOVHw",
       "thumb": "https://i.ytimg.com/vi/xbxnj5eOVHw/mqdefault.jpg",
       "publishedText": "28 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 55,
+      "move": 0,
       "peak": 55,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 56,
@@ -1171,14 +1171,31 @@
       "url": "https://www.youtube.com/watch?v=pyKzI4qUXzs",
       "thumb": "https://i.ytimg.com/vi/pyKzI4qUXzs/mqdefault.jpg",
       "publishedText": "27 gru 2025",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 56,
+      "move": 0,
       "peak": 56,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 57,
+      "id": "6tY7P4J8UZo",
+      "isLatest": false,
+      "artist": "Tyr0ne",
+      "song": "We Tap Heads",
+      "title": "Tyr0ne - We Tap Heads",
+      "views": 1240,
+      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
+      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
+      "publishedText": "20 sie 2026",
+      "prevPos": 58,
+      "move": 1,
+      "peak": 57,
+      "weeks": 1,
+      "viewsDelta": 12
+    },
+    {
+      "pos": 58,
       "id": "E2MLT1rrAws",
       "isLatest": false,
       "artist": "C-G x Lucky",
@@ -1188,28 +1205,11 @@
       "url": "https://www.youtube.com/watch?v=E2MLT1rrAws",
       "thumb": "https://i.ytimg.com/vi/E2MLT1rrAws/mqdefault.jpg",
       "publishedText": "31 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 57,
+      "move": -1,
       "peak": 57,
       "weeks": 1,
-      "viewsDelta": null
-    },
-    {
-      "pos": 58,
-      "id": "6tY7P4J8UZo",
-      "isLatest": false,
-      "artist": "Tyr0ne",
-      "song": "We Tap Heads",
-      "title": "Tyr0ne - We Tap Heads",
-      "views": 1228,
-      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
-      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
-      "publishedText": "20 sie 2026",
-      "prevPos": null,
-      "move": null,
-      "peak": 58,
-      "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 59,
@@ -1222,11 +1222,11 @@
       "url": "https://www.youtube.com/watch?v=-O-cniRTiLA",
       "thumb": "https://i.ytimg.com/vi/-O-cniRTiLA/mqdefault.jpg",
       "publishedText": "2 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 59,
+      "move": 0,
       "peak": 59,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 60,
@@ -1239,11 +1239,11 @@
       "url": "https://www.youtube.com/watch?v=-fgPezaiPS8",
       "thumb": "https://i.ytimg.com/vi/-fgPezaiPS8/mqdefault.jpg",
       "publishedText": "5 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 60,
+      "move": 0,
       "peak": 60,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 61,
@@ -1256,11 +1256,11 @@
       "url": "https://www.youtube.com/watch?v=mNXTo9rw4k8",
       "thumb": "https://i.ytimg.com/vi/mNXTo9rw4k8/mqdefault.jpg",
       "publishedText": "18 maj 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 61,
+      "move": 0,
       "peak": 61,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 62,
@@ -1273,11 +1273,11 @@
       "url": "https://www.youtube.com/watch?v=6L3CtCEbfAM",
       "thumb": "https://i.ytimg.com/vi/6L3CtCEbfAM/mqdefault.jpg",
       "publishedText": "3 gru 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 62,
+      "move": 0,
       "peak": 62,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 63,
@@ -1290,11 +1290,11 @@
       "url": "https://www.youtube.com/watch?v=1AJhfHxKgeY",
       "thumb": "https://i.ytimg.com/vi/1AJhfHxKgeY/mqdefault.jpg",
       "publishedText": "11 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 63,
+      "move": 0,
       "peak": 63,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 64,
@@ -1307,11 +1307,11 @@
       "url": "https://www.youtube.com/watch?v=Vk77CE67yfA",
       "thumb": "https://i.ytimg.com/vi/Vk77CE67yfA/mqdefault.jpg",
       "publishedText": "24 kwi 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 64,
+      "move": 0,
       "peak": 64,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 65,
@@ -1324,11 +1324,11 @@
       "url": "https://www.youtube.com/watch?v=RJmY2ZDkNOg",
       "thumb": "https://i.ytimg.com/vi/RJmY2ZDkNOg/mqdefault.jpg",
       "publishedText": "29 lip 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 65,
+      "move": 0,
       "peak": 65,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 66,
@@ -1341,11 +1341,11 @@
       "url": "https://www.youtube.com/watch?v=dWBOt00bI5M",
       "thumb": "https://i.ytimg.com/vi/dWBOt00bI5M/mqdefault.jpg",
       "publishedText": "18 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 66,
+      "move": 0,
       "peak": 66,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 67,
@@ -1358,11 +1358,11 @@
       "url": "https://www.youtube.com/watch?v=Y4Lv8nVc4DE",
       "thumb": "https://i.ytimg.com/vi/Y4Lv8nVc4DE/mqdefault.jpg",
       "publishedText": "28 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 67,
+      "move": 0,
       "peak": 67,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 68,
@@ -1375,11 +1375,11 @@
       "url": "https://www.youtube.com/watch?v=5YN6wa94mV4",
       "thumb": "https://i.ytimg.com/vi/5YN6wa94mV4/mqdefault.jpg",
       "publishedText": "10 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 68,
+      "move": 0,
       "peak": 68,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 69,
@@ -1392,11 +1392,11 @@
       "url": "https://www.youtube.com/watch?v=oO94E6lysko",
       "thumb": "https://i.ytimg.com/vi/oO94E6lysko/mqdefault.jpg",
       "publishedText": "15 mar 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 69,
+      "move": 0,
       "peak": 69,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 70,
@@ -1409,11 +1409,11 @@
       "url": "https://www.youtube.com/watch?v=Ugb1857cO_w",
       "thumb": "https://i.ytimg.com/vi/Ugb1857cO_w/mqdefault.jpg",
       "publishedText": "10 gru 2025",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 70,
+      "move": 0,
       "peak": 70,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 71,
@@ -1426,11 +1426,11 @@
       "url": "https://www.youtube.com/watch?v=hMyLUL-jFc8",
       "thumb": "https://i.ytimg.com/vi/hMyLUL-jFc8/mqdefault.jpg",
       "publishedText": "10 lut 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 71,
+      "move": 0,
       "peak": 71,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 72,
@@ -1443,11 +1443,11 @@
       "url": "https://www.youtube.com/watch?v=dfmWb2TDzHU",
       "thumb": "https://i.ytimg.com/vi/dfmWb2TDzHU/mqdefault.jpg",
       "publishedText": "29 lis 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 72,
+      "move": 0,
       "peak": 72,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 73,
@@ -1460,11 +1460,11 @@
       "url": "https://www.youtube.com/watch?v=j_bAZeDrMTQ",
       "thumb": "https://i.ytimg.com/vi/j_bAZeDrMTQ/mqdefault.jpg",
       "publishedText": "30 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 73,
+      "move": 0,
       "peak": 73,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 74,
@@ -1477,11 +1477,11 @@
       "url": "https://www.youtube.com/watch?v=v3YcIARBDXQ",
       "thumb": "https://i.ytimg.com/vi/v3YcIARBDXQ/mqdefault.jpg",
       "publishedText": "11 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 74,
+      "move": 0,
       "peak": 74,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 75,
@@ -1494,11 +1494,11 @@
       "url": "https://www.youtube.com/watch?v=KsDdRQOpmX8",
       "thumb": "https://i.ytimg.com/vi/KsDdRQOpmX8/mqdefault.jpg",
       "publishedText": "5 kwi 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 75,
+      "move": 0,
       "peak": 75,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 76,
@@ -1511,11 +1511,11 @@
       "url": "https://www.youtube.com/watch?v=CZvmavvgsZE",
       "thumb": "https://i.ytimg.com/vi/CZvmavvgsZE/mqdefault.jpg",
       "publishedText": "2 sty 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 76,
+      "move": 0,
       "peak": 76,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 77,
@@ -1528,11 +1528,11 @@
       "url": "https://www.youtube.com/watch?v=rH2zyfCIwSQ",
       "thumb": "https://i.ytimg.com/vi/rH2zyfCIwSQ/mqdefault.jpg",
       "publishedText": "25 mar 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 77,
+      "move": 0,
       "peak": 77,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 78,
@@ -1545,14 +1545,31 @@
       "url": "https://www.youtube.com/watch?v=j9pcjenMJo0",
       "thumb": "https://i.ytimg.com/vi/j9pcjenMJo0/mqdefault.jpg",
       "publishedText": "17 lut 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 78,
+      "move": 0,
       "peak": 78,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 79,
+      "id": "_yAfcKGcz7Y",
+      "isLatest": false,
+      "artist": "Tiny Shuj",
+      "song": "Nowy cali G",
+      "title": "Tiny Shuj - Nowy cali G",
+      "views": 929,
+      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
+      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
+      "publishedText": "17 sie 2026",
+      "prevPos": 81,
+      "move": 2,
+      "peak": 79,
+      "weeks": 1,
+      "viewsDelta": 8
+    },
+    {
+      "pos": 80,
       "id": "PXroflb_pkE",
       "isLatest": false,
       "artist": "CG x Lucky",
@@ -1562,14 +1579,14 @@
       "url": "https://www.youtube.com/watch?v=PXroflb_pkE",
       "thumb": "https://i.ytimg.com/vi/PXroflb_pkE/mqdefault.jpg",
       "publishedText": "21 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 79,
+      "move": -1,
       "peak": 79,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
-      "pos": 80,
+      "pos": 81,
       "id": "9CgU4zLEPRA",
       "isLatest": false,
       "artist": "PEDRO & RUBEN",
@@ -1579,28 +1596,11 @@
       "url": "https://www.youtube.com/watch?v=9CgU4zLEPRA",
       "thumb": "https://i.ytimg.com/vi/9CgU4zLEPRA/mqdefault.jpg",
       "publishedText": "6 sie 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 80,
+      "move": -1,
       "peak": 80,
       "weeks": 1,
-      "viewsDelta": null
-    },
-    {
-      "pos": 81,
-      "id": "_yAfcKGcz7Y",
-      "isLatest": false,
-      "artist": "Tiny Shuj",
-      "song": "Nowy cali G",
-      "title": "Tiny Shuj - Nowy cali G",
-      "views": 921,
-      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
-      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
-      "publishedText": "17 sie 2026",
-      "prevPos": null,
-      "move": null,
-      "peak": 81,
-      "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 82,
@@ -1613,11 +1613,11 @@
       "url": "https://www.youtube.com/watch?v=RFjTmPXkFeE",
       "thumb": "https://i.ytimg.com/vi/RFjTmPXkFeE/mqdefault.jpg",
       "publishedText": "15 maj 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 82,
+      "move": 0,
       "peak": 82,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 83,
@@ -1630,11 +1630,11 @@
       "url": "https://www.youtube.com/watch?v=tYn928LXWPQ",
       "thumb": "https://i.ytimg.com/vi/tYn928LXWPQ/mqdefault.jpg",
       "publishedText": "31 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 83,
+      "move": 0,
       "peak": 83,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 84,
@@ -1647,11 +1647,11 @@
       "url": "https://www.youtube.com/watch?v=V9mTMONB5VA",
       "thumb": "https://i.ytimg.com/vi/V9mTMONB5VA/mqdefault.jpg",
       "publishedText": "1 sty 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 84,
+      "move": 0,
       "peak": 84,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 85,
@@ -1664,11 +1664,11 @@
       "url": "https://www.youtube.com/watch?v=NjWkY7FBuHk",
       "thumb": "https://i.ytimg.com/vi/NjWkY7FBuHk/mqdefault.jpg",
       "publishedText": "11 lip 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 85,
+      "move": 0,
       "peak": 85,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 86,
@@ -1681,14 +1681,31 @@
       "url": "https://www.youtube.com/watch?v=4HHHYvGbJaA",
       "thumb": "https://i.ytimg.com/vi/4HHHYvGbJaA/mqdefault.jpg",
       "publishedText": "1 mar 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 86,
+      "move": 0,
       "peak": 86,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 87,
+      "id": "uOJYL_ZA3Lg",
+      "isLatest": false,
+      "artist": "LUGO",
+      "song": "OneTake Challenge",
+      "title": "LUGO - OneTake Challenge",
+      "views": 879,
+      "url": "https://www.youtube.com/watch?v=uOJYL_ZA3Lg",
+      "thumb": "https://i.ytimg.com/vi/uOJYL_ZA3Lg/mqdefault.jpg",
+      "publishedText": "18 gru 2025",
+      "prevPos": 88,
+      "move": 1,
+      "peak": 87,
+      "weeks": 1,
+      "viewsDelta": 3
+    },
+    {
+      "pos": 88,
       "id": "0wjd9Y3K8Ik",
       "isLatest": false,
       "artist": "4ozzy",
@@ -1698,28 +1715,11 @@
       "url": "https://www.youtube.com/watch?v=0wjd9Y3K8Ik",
       "thumb": "https://i.ytimg.com/vi/0wjd9Y3K8Ik/mqdefault.jpg",
       "publishedText": "14 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 87,
+      "move": -1,
       "peak": 87,
       "weeks": 1,
-      "viewsDelta": null
-    },
-    {
-      "pos": 88,
-      "id": "uOJYL_ZA3Lg",
-      "isLatest": false,
-      "artist": "LUGO",
-      "song": "OneTake Challenge",
-      "title": "LUGO - OneTake Challenge",
-      "views": 876,
-      "url": "https://www.youtube.com/watch?v=uOJYL_ZA3Lg",
-      "thumb": "https://i.ytimg.com/vi/uOJYL_ZA3Lg/mqdefault.jpg",
-      "publishedText": "18 gru 2025",
-      "prevPos": null,
-      "move": null,
-      "peak": 88,
-      "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 89,
@@ -1732,11 +1732,11 @@
       "url": "https://www.youtube.com/watch?v=NTlNbehUKs4",
       "thumb": "https://i.ytimg.com/vi/NTlNbehUKs4/mqdefault.jpg",
       "publishedText": "22 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 89,
+      "move": 0,
       "peak": 89,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 90,
@@ -1749,11 +1749,11 @@
       "url": "https://www.youtube.com/watch?v=nrrPDAFHcxo",
       "thumb": "https://i.ytimg.com/vi/nrrPDAFHcxo/mqdefault.jpg",
       "publishedText": "29 gru 2025",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 90,
+      "move": 0,
       "peak": 90,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 91,
@@ -1766,11 +1766,11 @@
       "url": "https://www.youtube.com/watch?v=J08ryQLXifs",
       "thumb": "https://i.ytimg.com/vi/J08ryQLXifs/mqdefault.jpg",
       "publishedText": "27 maj 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 91,
+      "move": 0,
       "peak": 91,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 92,
@@ -1783,14 +1783,31 @@
       "url": "https://www.youtube.com/watch?v=ng1mBQlzPwU",
       "thumb": "https://i.ytimg.com/vi/ng1mBQlzPwU/mqdefault.jpg",
       "publishedText": "30 paź 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 92,
+      "move": 0,
       "peak": 92,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 93,
+      "id": "ZiwMRxTF6vw",
+      "isLatest": false,
+      "artist": "Tiny Shuj",
+      "song": "TERROR",
+      "title": "Tiny Shuj - TERROR",
+      "views": 828,
+      "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
+      "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
+      "publishedText": "8 wrz 2026",
+      "prevPos": 95,
+      "move": 2,
+      "peak": 93,
+      "weeks": 1,
+      "viewsDelta": 8
+    },
+    {
+      "pos": 94,
       "id": "U9RjzgZ0U0c",
       "isLatest": false,
       "artist": "C-G x Lucky x 88TRAY",
@@ -1800,14 +1817,14 @@
       "url": "https://www.youtube.com/watch?v=U9RjzgZ0U0c",
       "thumb": "https://i.ytimg.com/vi/U9RjzgZ0U0c/mqdefault.jpg",
       "publishedText": "12 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 93,
+      "move": -1,
       "peak": 93,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
-      "pos": 94,
+      "pos": 95,
       "id": "0yy0emeKIqM",
       "isLatest": false,
       "artist": "Saint Antonio",
@@ -1817,28 +1834,11 @@
       "url": "https://www.youtube.com/watch?v=0yy0emeKIqM",
       "thumb": "https://i.ytimg.com/vi/0yy0emeKIqM/mqdefault.jpg",
       "publishedText": "7 mar 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 94,
+      "move": -1,
       "peak": 94,
       "weeks": 1,
-      "viewsDelta": null
-    },
-    {
-      "pos": 95,
-      "id": "ZiwMRxTF6vw",
-      "isLatest": false,
-      "artist": "Tiny Shuj",
-      "song": "TERROR",
-      "title": "Tiny Shuj - TERROR",
-      "views": 820,
-      "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
-      "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
-      "publishedText": "8 wrz 2026",
-      "prevPos": null,
-      "move": null,
-      "peak": 95,
-      "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 96,
@@ -1851,11 +1851,11 @@
       "url": "https://www.youtube.com/watch?v=taM9Ym9Lvks",
       "thumb": "https://i.ytimg.com/vi/taM9Ym9Lvks/mqdefault.jpg",
       "publishedText": "20 gru 2023",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 96,
+      "move": 0,
       "peak": 96,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 97,
@@ -1868,11 +1868,11 @@
       "url": "https://www.youtube.com/watch?v=YxZwj4CZ16Q",
       "thumb": "https://i.ytimg.com/vi/YxZwj4CZ16Q/mqdefault.jpg",
       "publishedText": "4 mar 2026",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 97,
+      "move": 0,
       "peak": 97,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 98,
@@ -1885,11 +1885,11 @@
       "url": "https://www.youtube.com/watch?v=sCF9bdd2L0c",
       "thumb": "https://i.ytimg.com/vi/sCF9bdd2L0c/mqdefault.jpg",
       "publishedText": "19 cze 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 98,
+      "move": 0,
       "peak": 98,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 99,
@@ -1902,11 +1902,11 @@
       "url": "https://www.youtube.com/watch?v=V27O7LoE6Gk",
       "thumb": "https://i.ytimg.com/vi/V27O7LoE6Gk/mqdefault.jpg",
       "publishedText": "6 sty 2024",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 99,
+      "move": 0,
       "peak": 99,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 0
     },
     {
       "pos": 100,
@@ -1915,59 +1915,59 @@
       "artist": "5iveStar",
       "song": "Fake MC (Vipers MC diss)",
       "title": "5iveStar - Fake MC (Vipers MC diss)",
-      "views": 749,
+      "views": 751,
       "url": "https://www.youtube.com/watch?v=kkZvZftspJk",
       "thumb": "https://i.ytimg.com/vi/kkZvZftspJk/mqdefault.jpg",
       "publishedText": "26 gru 2025",
-      "prevPos": null,
-      "move": null,
+      "prevPos": 100,
+      "move": 0,
       "peak": 100,
       "weeks": 1,
-      "viewsDelta": null
+      "viewsDelta": 2
     }
   ],
   "latest": [
+    {
+      "id": "XZDzVAVCT8Y",
+      "artist": "Tyr0ne",
+      "song": "Biegnij",
+      "title": "Tyr0ne - Biegnij",
+      "views": 43,
+      "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
+      "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
+      "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
+      "publishedAt": "2026-09-17T19:00:06Z",
+      "publishedText": "17 wrz 2026",
+      "isNew": true,
+      "viewsDelta": null
+    },
+    {
+      "id": "K9Y9PF1sqWQ",
+      "artist": "WSAD",
+      "song": "WELCOME",
+      "title": "WSAD - WELCOME",
+      "views": 46,
+      "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
+      "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
+      "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
+      "publishedAt": "2026-09-17T18:00:05Z",
+      "publishedText": "17 wrz 2026",
+      "isNew": true,
+      "viewsDelta": null
+    },
     {
       "id": "FRgKuewHE98",
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
       "title": "Soto Brothers - Daj To Głośniej",
-      "views": 180,
+      "views": 196,
       "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
       "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/FRgKuewHE98/hqdefault.jpg",
       "publishedAt": "2026-09-14T19:00:05Z",
       "publishedText": "14 wrz 2026",
       "isNew": true,
-      "viewsDelta": null
-    },
-    {
-      "id": "ouxZnv13bN8",
-      "artist": "Tiny Shuj",
-      "song": "naucz mnie jak kochać",
-      "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 1984,
-      "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
-      "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/ouxZnv13bN8/hqdefault.jpg",
-      "publishedAt": "2026-09-12T18:00:06Z",
-      "publishedText": "12 wrz 2026",
-      "isNew": true,
-      "viewsDelta": null
-    },
-    {
-      "id": "IhpDyLshY38",
-      "artist": "LuCKy",
-      "song": "MITOMAN (mr.popdaslob diss)",
-      "title": "LuCKy - MITOMAN (mr.popdaslob diss)",
-      "views": 282,
-      "url": "https://www.youtube.com/watch?v=IhpDyLshY38",
-      "thumb": "https://i.ytimg.com/vi/IhpDyLshY38/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/IhpDyLshY38/hqdefault.jpg",
-      "publishedAt": "2026-09-12T12:21:02Z",
-      "publishedText": "12 wrz 2026",
-      "isNew": true,
-      "viewsDelta": null
+      "viewsDelta": 16
     }
   ]
 }
