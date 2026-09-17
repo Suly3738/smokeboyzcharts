@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>SmokeBoyz Charts</title>
 <meta name="theme-color" content="#0b0a1c">
 <meta http-equiv="Cache-Control" content="no-cache">
@@ -221,17 +221,58 @@
   .est { margin-top: 12px; font-family: var(--serif); font-size: 10px; letter-spacing: .4em; text-transform: uppercase; color: var(--gold); text-indent: .4em; opacity: .8; }
   .empty { padding: 32px; text-align: center; color: var(--muted); border: 1px solid var(--line); border-radius: 14px; }
 
+  /* telefony: krótsze etykiety zakładek, karta w dwóch wierszach (pozycja + miniatura + tytuł / ruch + wyświetlenia + przycisk) */
+  .tabs button .s { display: none; }
   @media (max-width: 640px) {
-    .tabs { border-radius: 22px; }
-    .tabs button { padding: 11px 15px; font-size: 11px; letter-spacing: .14em; }
-    .panel-head h2 { font-size: 16px; letter-spacing: .2em; }
-    .panel-head h2::before, .panel-head h2::after { margin: 0 8px; }
-    li.row { grid-template-columns: 42px 46px 1fr auto; grid-template-areas: "pos move info views" "pos move info link"; padding: 10px; gap: 10px; row-gap: 6px; }
-    .pos { width: 40px; height: 40px; font-size: 17px; grid-area: pos; } .move { grid-area: move; }
-    .thumb { display: none; }
-    .info { grid-area: info; } .views { grid-area: views; } .link { grid-area: link; justify-self: end; }
-    .song { white-space: normal; font-size: 15px; }
-    .artist { white-space: normal; }
+    .wrap { padding: 20px 14px 56px; }
+    .logo { width: min(420px, 86vw); }
+    .orn { min-width: 24px; }
+    .kicker { gap: 6px; }
+    .kicker span { font-size: 9px; letter-spacing: .26em; }
+    .kicker b { font-size: 11px; letter-spacing: .3em; }
+    .plate { margin-top: 14px; max-width: 100%; }
+    .plate-in { gap: 8px; font-size: 10px; letter-spacing: .16em; }
+    .plate-in strong { font-size: 12px; letter-spacing: .2em; }
+    .tabs { width: 100%; gap: 4px; padding: 4px; margin: 20px auto 18px; }
+    .tabs button { flex: 1 1 0; padding: 12px 4px; font-size: 11px; letter-spacing: .12em; }
+    .tabs button .l { display: none; } .tabs button .s { display: inline; }
+    .panel-head { margin-bottom: 14px; }
+    .panel-head h2 { font-size: 15px; letter-spacing: .18em; }
+    .panel-head h2::before, .panel-head h2::after { margin: 0 8px; font-size: 10px; }
+    ol.chart { gap: 8px; }
+    li.row { grid-template-columns: 40px 88px minmax(0, 1fr) auto; grid-template-areas: "pos thumb info info" "move move views link";
+      gap: 8px 10px; padding: 10px; border-radius: 14px; contain-intrinsic-size: 150px; }
+    li.row::before { filter: blur(20px) saturate(1.3); }
+    .pos { grid-area: pos; width: 40px; height: 40px; font-size: 17px; border-radius: 10px; }
+    .thumb { grid-area: thumb; width: 88px; border-radius: 8px; }
+    .info { grid-area: info; align-self: start; }
+    .move, .rel { grid-area: move; justify-self: start; align-self: center; }
+    .move { padding: 5px 10px; }
+    .views { grid-area: views; align-self: center; }
+    .views b { font-size: 15px; display: inline; }
+    .views small { display: inline; font-size: 10px; margin-left: 4px; }
+    .views small.plus { display: block; margin: 2px 0 0; font-size: 10px; }
+    .link { grid-area: link; justify-self: end; align-self: center; padding: 8px 11px; font-size: 10px; }
+    .song { white-space: normal; font-size: 15px; line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+    .tag-new { margin-left: 6px; font-size: 9px; padding: 2px 6px 1px; }
+    .artist { white-space: normal; font-size: 11px; letter-spacing: .12em; margin-top: 3px; }
+    .meta { font-size: 11px; margin-top: 3px; gap: 2px 8px; }
+    .featured { padding: 14px; gap: 14px; border-radius: 16px; }
+    .featured .f-song { font-size: 21px; }
+    .featured .f-meta { font-size: 12px; gap: 4px 12px; }
+    .featured .link { margin-top: 12px; }
+    footer { margin-top: 40px; }
+    .legend { flex-direction: column; align-items: center; gap: 8px; }
+    .foot-orn { max-width: 260px; }
+  }
+  /* ekrany dotykowe: bez efektów hover (na telefonie "przyklejałyby się" po dotknięciu) */
+  @media (hover: none) {
+    li.row:hover { transform: none; border-color: rgba(167,139,250,.30); box-shadow: 0 1px 0 rgba(255,255,255,.08) inset, 0 10px 30px rgba(0,0,0,.28); }
+    li.row.top:hover { border-color: rgba(251,191,36,.5); }
+    li.row:hover::before { opacity: .16; }
+    li.row:hover .thumb img, .featured .cover:hover img { transform: none; }
+    li.row:hover .thumb::after { opacity: 0; }
+    .link, .tabs button, .thumb, .cover { -webkit-tap-highlight-color: transparent; }
   }
 </style>
 </head>
@@ -261,9 +302,9 @@
 
   <div class="tabs" role="tablist">
     <span class="pill" aria-hidden="true"></span>
-    <button role="tab" id="tab-now" aria-selected="true" aria-controls="panel-now">Top 10 Now</button>
-    <button role="tab" id="tab-all" aria-selected="false" aria-controls="panel-all">Top 100 All Time</button>
-    <button role="tab" id="tab-latest" aria-selected="false" aria-controls="panel-latest">Nasze najnowsze wydanie</button>
+    <button role="tab" id="tab-now" aria-selected="true" aria-controls="panel-now"><span class="l">Top 10 Now</span><span class="s">Top 10</span></button>
+    <button role="tab" id="tab-all" aria-selected="false" aria-controls="panel-all"><span class="l">Top 100 All Time</span><span class="s">Top 100</span></button>
+    <button role="tab" id="tab-latest" aria-selected="false" aria-controls="panel-latest"><span class="l">Nasze najnowsze wydanie</span><span class="s">Nowości</span></button>
   </div>
 
   <section class="panel active" id="panel-now" role="tabpanel" aria-labelledby="tab-now">
@@ -385,7 +426,7 @@ function init() {
       <span><b class="lg deb">DEBIUT</b> pierwszy raz w notowaniu</span>
       <span><b class="lg new">NEW</b> jeden z 3 najnowszych numerów</span>
     </div>
-    <div class="stamp">Aktualizacja codziennie · dane z ${new Date(DATA.generatedAt).toLocaleString('pl-PL')}</div>
+    <div class="stamp">Aktualizacja co godzinę · dane z ${new Date(DATA.generatedAt).toLocaleString('pl-PL')}</div>
     ${DATA.stats.inexact ? `<div class="stamp"><strong>Uwaga:</strong> dla ${DATA.stats.inexact} filmów YouTube udostępnił tylko zaokrąglone liczby wyświetleń.</div>` : ''}
     <div class="est">Est. 2024</div>`;
 
