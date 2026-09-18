@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T08:21:02.809Z",
+  "generatedAt": "2026-09-18T09:20:01.729Z",
   "chartDate": "2026-09-18",
   "prevDate": "2026-09-17",
   "channel": {
@@ -111,7 +111,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 832,
+      "views": 833,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -119,7 +119,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 12
+      "viewsDelta": 13
     },
     {
       "pos": 5,
@@ -317,7 +317,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9268,
+      "views": 9269,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -325,7 +325,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 6
+      "viewsDelta": 7
     },
     {
       "pos": 7,
@@ -436,7 +436,7 @@
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
-      "views": 6586,
+      "views": 6587,
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
@@ -444,7 +444,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 1,
-      "viewsDelta": 0
+      "viewsDelta": 1
     },
     {
       "pos": 14,
@@ -1422,7 +1422,7 @@
       "artist": "PEDRO X RUBEN",
       "song": "DIAMENT",
       "title": "PEDRO X RUBEN - DIAMENT",
-      "views": 973,
+      "views": 974,
       "url": "https://www.youtube.com/watch?v=hMyLUL-jFc8",
       "thumb": "https://i.ytimg.com/vi/hMyLUL-jFc8/mqdefault.jpg",
       "publishedText": "10 lut 2026",
@@ -1430,7 +1430,7 @@
       "move": 0,
       "peak": 71,
       "weeks": 1,
-      "viewsDelta": 0
+      "viewsDelta": 1
     },
     {
       "pos": 72,
@@ -1796,7 +1796,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 832,
+      "views": 833,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -1804,7 +1804,7 @@
       "move": 2,
       "peak": 93,
       "weeks": 1,
-      "viewsDelta": 12
+      "viewsDelta": 13
     },
     {
       "pos": 94,
@@ -1932,7 +1932,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 106,
+      "views": 110,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
@@ -1946,7 +1946,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 92,
+      "views": 94,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
@@ -1960,14 +1960,14 @@
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
       "title": "Soto Brothers - Daj To Głośniej",
-      "views": 206,
+      "views": 207,
       "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
       "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/FRgKuewHE98/hqdefault.jpg",
       "publishedAt": "2026-09-14T19:00:05Z",
       "publishedText": "14 wrz 2026",
       "isNew": true,
-      "viewsDelta": 26
+      "viewsDelta": 27
     }
   ]
 }
