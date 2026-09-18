@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T06:25:06.241Z",
+  "generatedAt": "2026-09-18T07:20:10.278Z",
   "chartDate": "2026-09-18",
   "prevDate": "2026-09-17",
   "channel": {
@@ -60,7 +60,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2077,
+      "views": 2080,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -68,7 +68,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 93
+      "viewsDelta": 96
     },
     {
       "pos": 2,
@@ -128,7 +128,7 @@
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
-      "views": 636,
+      "views": 637,
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
@@ -136,7 +136,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 6
+      "viewsDelta": 7
     },
     {
       "pos": 6,
@@ -162,7 +162,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 429,
+      "views": 435,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -170,7 +170,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 8
+      "viewsDelta": 14
     },
     {
       "pos": 8,
@@ -436,7 +436,7 @@
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
-      "views": 6587,
+      "views": 6586,
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
@@ -444,7 +444,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 1,
-      "viewsDelta": 1
+      "viewsDelta": 0
     },
     {
       "pos": 14,
@@ -827,7 +827,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2077,
+      "views": 2080,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -835,7 +835,7 @@
       "move": 4,
       "peak": 36,
       "weeks": 1,
-      "viewsDelta": 93
+      "viewsDelta": 96
     },
     {
       "pos": 37,
@@ -1946,7 +1946,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 94,
+      "views": 92,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
