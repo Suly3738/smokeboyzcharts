@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T14:18:19.079Z",
+  "generatedAt": "2026-09-19T15:18:07.246Z",
   "chartDate": "2026-09-19",
   "prevDate": "2026-09-17",
   "channel": {
@@ -402,7 +402,7 @@
       "artist": "TONY LUGO",
       "song": "88 (Snapmatic Video)",
       "title": "TONY LUGO - 88 (Snapmatic Video)",
-      "views": 6713,
+      "views": 6712,
       "url": "https://www.youtube.com/watch?v=Pun1oxeNjE8",
       "thumb": "https://i.ytimg.com/vi/Pun1oxeNjE8/mqdefault.jpg",
       "publishedText": "7 lut 2024",
@@ -410,7 +410,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 1,
-      "viewsDelta": 5
+      "viewsDelta": 4
     },
     {
       "pos": 12,
@@ -419,7 +419,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6649,
+      "views": 6650,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -427,7 +427,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 1,
-      "viewsDelta": 13
+      "viewsDelta": 14
     },
     {
       "pos": 13,
@@ -538,7 +538,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4179,
+      "views": 4180,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -546,7 +546,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 1,
-      "viewsDelta": 7
+      "viewsDelta": 8
     },
     {
       "pos": 20,
@@ -1286,7 +1286,7 @@
       "artist": "PAPA",
       "song": "Pionki",
       "title": "PAPA -  Pionki [Oficial Music Video]",
-      "views": 1083,
+      "views": 1085,
       "url": "https://www.youtube.com/watch?v=1AJhfHxKgeY",
       "thumb": "https://i.ytimg.com/vi/1AJhfHxKgeY/mqdefault.jpg",
       "publishedText": "11 lis 2023",
@@ -1294,7 +1294,7 @@
       "move": 0,
       "peak": 63,
       "weeks": 1,
-      "viewsDelta": 2
+      "viewsDelta": 4
     },
     {
       "pos": 64,
@@ -1932,7 +1932,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 301,
+      "views": 297,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
@@ -1960,14 +1960,14 @@
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
       "title": "Soto Brothers - Daj To Głośniej",
-      "views": 229,
+      "views": 236,
       "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
       "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/FRgKuewHE98/hqdefault.jpg",
       "publishedAt": "2026-09-14T19:00:05Z",
       "publishedText": "14 wrz 2026",
       "isNew": true,
-      "viewsDelta": 49
+      "viewsDelta": 56
     }
   ]
 }
