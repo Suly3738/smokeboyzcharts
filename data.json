@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T06:23:32.971Z",
+  "generatedAt": "2026-09-19T07:18:10.524Z",
   "chartDate": "2026-09-19",
   "prevDate": "2026-09-17",
   "channel": {
@@ -145,7 +145,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 455,
+      "views": 456,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -153,7 +153,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 9
+      "viewsDelta": 10
     },
     {
       "pos": 7,
@@ -419,7 +419,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6647,
+      "views": 6648,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -427,7 +427,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 1,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 13,
@@ -691,7 +691,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2743,
+      "views": 2745,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -699,7 +699,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 1,
-      "viewsDelta": 8
+      "viewsDelta": 10
     },
     {
       "pos": 29,
@@ -793,7 +793,7 @@
       "artist": "WUJA",
       "song": "TOXIC [DISS CG x LUCKY]",
       "title": "WUJA - TOXIC [DISS CG x LUCKY]",
-      "views": 2283,
+      "views": 2284,
       "url": "https://www.youtube.com/watch?v=oQqJNGM6k7g",
       "thumb": "https://i.ytimg.com/vi/oQqJNGM6k7g/mqdefault.jpg",
       "publishedText": "18 sty 2024",
@@ -801,7 +801,7 @@
       "move": 0,
       "peak": 34,
       "weeks": 1,
-      "viewsDelta": 2
+      "viewsDelta": 3
     },
     {
       "pos": 35,
@@ -1694,7 +1694,7 @@
       "artist": "LUGO",
       "song": "OneTake Challenge",
       "title": "LUGO - OneTake Challenge",
-      "views": 882,
+      "views": 883,
       "url": "https://www.youtube.com/watch?v=uOJYL_ZA3Lg",
       "thumb": "https://i.ytimg.com/vi/uOJYL_ZA3Lg/mqdefault.jpg",
       "publishedText": "18 gru 2025",
@@ -1702,7 +1702,7 @@
       "move": 1,
       "peak": 87,
       "weeks": 1,
-      "viewsDelta": 6
+      "viewsDelta": 7
     },
     {
       "pos": 88,
@@ -1932,7 +1932,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 288,
+      "views": 289,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
@@ -1960,14 +1960,14 @@
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
       "title": "Soto Brothers - Daj To Głośniej",
-      "views": 223,
+      "views": 230,
       "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
       "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/FRgKuewHE98/hqdefault.jpg",
       "publishedAt": "2026-09-14T19:00:05Z",
       "publishedText": "14 wrz 2026",
       "isNew": true,
-      "viewsDelta": 43
+      "viewsDelta": 50
     }
   ]
 }
