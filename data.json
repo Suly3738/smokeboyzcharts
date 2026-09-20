@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:20:48.802Z",
+  "generatedAt": "2026-09-20T19:16:08.326Z",
   "chartDate": "2026-09-20",
   "prevDate": "2026-09-17",
   "channel": {
@@ -60,7 +60,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2117,
+      "views": 2118,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -68,7 +68,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 133
+      "viewsDelta": 134
     },
     {
       "pos": 2,
@@ -128,7 +128,7 @@
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
-      "views": 644,
+      "views": 645,
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
@@ -136,7 +136,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 14
+      "viewsDelta": 15
     },
     {
       "pos": 6,
@@ -145,7 +145,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 466,
+      "views": 467,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -153,7 +153,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 20
+      "viewsDelta": 21
     },
     {
       "pos": 7,
@@ -162,7 +162,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 451,
+      "views": 452,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -170,7 +170,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 30
+      "viewsDelta": 31
     },
     {
       "pos": 8,
@@ -196,7 +196,7 @@
       "artist": "Dex",
       "song": "Zoo Keeper",
       "title": "Dex - Zoo Keeper",
-      "views": 393,
+      "views": 394,
       "url": "https://www.youtube.com/watch?v=vLnqEidRvCY",
       "thumb": "https://i.ytimg.com/vi/vLnqEidRvCY/mqdefault.jpg",
       "publishedText": "5 wrz 2026",
@@ -204,7 +204,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 1,
-      "viewsDelta": 14
+      "viewsDelta": 15
     },
     {
       "pos": 10,
@@ -232,7 +232,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14239,
+      "views": 14241,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -240,7 +240,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 25
+      "viewsDelta": 27
     },
     {
       "pos": 2,
@@ -283,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10856,
+      "views": 10859,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 45
+      "viewsDelta": 48
     },
     {
       "pos": 5,
@@ -300,7 +300,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9916,
+      "views": 9918,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -308,7 +308,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 21
+      "viewsDelta": 23
     },
     {
       "pos": 6,
@@ -334,7 +334,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8206,
+      "views": 8207,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -342,7 +342,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 16
+      "viewsDelta": 17
     },
     {
       "pos": 8,
@@ -368,7 +368,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7388,
+      "views": 7390,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -376,7 +376,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 1,
-      "viewsDelta": 16
+      "viewsDelta": 18
     },
     {
       "pos": 10,
@@ -385,7 +385,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6759,
+      "views": 6760,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -393,7 +393,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 1,
-      "viewsDelta": 8
+      "viewsDelta": 9
     },
     {
       "pos": 11,
@@ -742,7 +742,7 @@
       "artist": "88Dushane x msloo",
       "song": "$tars Avenue",
       "title": "88Dushane x msloo - $tars Avenue",
-      "views": 2637,
+      "views": 2639,
       "url": "https://www.youtube.com/watch?v=RoimmOxAv2s",
       "thumb": "https://i.ytimg.com/vi/RoimmOxAv2s/mqdefault.jpg",
       "publishedText": "8 gru 2023",
@@ -750,7 +750,7 @@
       "move": 0,
       "peak": 31,
       "weeks": 1,
-      "viewsDelta": 3
+      "viewsDelta": 5
     },
     {
       "pos": 32,
@@ -827,7 +827,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2117,
+      "views": 2118,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -835,7 +835,7 @@
       "move": 4,
       "peak": 36,
       "weeks": 1,
-      "viewsDelta": 133
+      "viewsDelta": 134
     },
     {
       "pos": 37,
@@ -861,7 +861,7 @@
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2045,
+      "views": 2047,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
@@ -869,7 +869,7 @@
       "move": -1,
       "peak": 37,
       "weeks": 1,
-      "viewsDelta": 9
+      "viewsDelta": 11
     },
     {
       "pos": 39,
@@ -1235,7 +1235,7 @@
       "artist": "Pablo Disco",
       "song": "Dałem Ci Wszystko",
       "title": "Pablo Disco - Dałem Ci Wszystko",
-      "views": 1150,
+      "views": 1151,
       "url": "https://www.youtube.com/watch?v=-fgPezaiPS8",
       "thumb": "https://i.ytimg.com/vi/-fgPezaiPS8/mqdefault.jpg",
       "publishedText": "5 sty 2024",
@@ -1243,7 +1243,7 @@
       "move": 0,
       "peak": 60,
       "weeks": 1,
-      "viewsDelta": 1
+      "viewsDelta": 2
     },
     {
       "pos": 61,
@@ -1723,6 +1723,23 @@
     },
     {
       "pos": 89,
+      "id": "nrrPDAFHcxo",
+      "isLatest": false,
+      "artist": "PEDRO",
+      "song": "TARTA",
+      "title": "PEDRO - TARTA",
+      "views": 875,
+      "url": "https://www.youtube.com/watch?v=nrrPDAFHcxo",
+      "thumb": "https://i.ytimg.com/vi/nrrPDAFHcxo/mqdefault.jpg",
+      "publishedText": "29 gru 2025",
+      "prevPos": 90,
+      "move": 1,
+      "peak": 89,
+      "weeks": 1,
+      "viewsDelta": 4
+    },
+    {
+      "pos": 90,
       "id": "NTlNbehUKs4",
       "isLatest": false,
       "artist": "C-G x Lucky",
@@ -1733,27 +1750,10 @@
       "thumb": "https://i.ytimg.com/vi/NTlNbehUKs4/mqdefault.jpg",
       "publishedText": "22 sty 2024",
       "prevPos": 89,
-      "move": 0,
+      "move": -1,
       "peak": 89,
       "weeks": 1,
       "viewsDelta": 0
-    },
-    {
-      "pos": 90,
-      "id": "nrrPDAFHcxo",
-      "isLatest": false,
-      "artist": "PEDRO",
-      "song": "TARTA",
-      "title": "PEDRO - TARTA",
-      "views": 874,
-      "url": "https://www.youtube.com/watch?v=nrrPDAFHcxo",
-      "thumb": "https://i.ytimg.com/vi/nrrPDAFHcxo/mqdefault.jpg",
-      "publishedText": "29 gru 2025",
-      "prevPos": 90,
-      "move": 0,
-      "peak": 90,
-      "weeks": 1,
-      "viewsDelta": 3
     },
     {
       "pos": 91,
@@ -1932,7 +1932,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 152,
+      "views": 172,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
@@ -1960,7 +1960,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 170,
+      "views": 171,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
