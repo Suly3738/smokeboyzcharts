@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T00:28:20.826Z",
+  "generatedAt": "2026-09-20T01:17:30.644Z",
   "chartDate": "2026-09-20",
   "prevDate": "2026-09-17",
   "channel": {
@@ -60,7 +60,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2096,
+      "views": 2107,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -68,7 +68,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 112
+      "viewsDelta": 123
     },
     {
       "pos": 2,
@@ -94,7 +94,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 951,
+      "views": 952,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -102,7 +102,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 30
+      "viewsDelta": 31
     },
     {
       "pos": 4,
@@ -145,7 +145,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 458,
+      "views": 461,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -153,7 +153,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 12
+      "viewsDelta": 15
     },
     {
       "pos": 7,
@@ -162,7 +162,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 443,
+      "views": 444,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -170,7 +170,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 22
+      "viewsDelta": 23
     },
     {
       "pos": 8,
@@ -196,7 +196,7 @@
       "artist": "Dex",
       "song": "Zoo Keeper",
       "title": "Dex - Zoo Keeper",
-      "views": 391,
+      "views": 392,
       "url": "https://www.youtube.com/watch?v=vLnqEidRvCY",
       "thumb": "https://i.ytimg.com/vi/vLnqEidRvCY/mqdefault.jpg",
       "publishedText": "5 wrz 2026",
@@ -204,7 +204,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 1,
-      "viewsDelta": 12
+      "viewsDelta": 13
     },
     {
       "pos": 10,
@@ -232,7 +232,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14231,
+      "views": 14233,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -240,7 +240,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 17
+      "viewsDelta": 19
     },
     {
       "pos": 2,
@@ -249,7 +249,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13187,
+      "views": 13189,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -257,7 +257,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 18
+      "viewsDelta": 20
     },
     {
       "pos": 3,
@@ -266,7 +266,7 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12385,
+      "views": 12389,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -274,7 +274,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 12
+      "viewsDelta": 16
     },
     {
       "pos": 4,
@@ -283,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10844,
+      "views": 10849,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 33
+      "viewsDelta": 38
     },
     {
       "pos": 5,
@@ -317,7 +317,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9273,
+      "views": 9275,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -325,7 +325,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 11
+      "viewsDelta": 13
     },
     {
       "pos": 7,
@@ -334,7 +334,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8201,
+      "views": 8202,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -342,7 +342,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 8,
@@ -351,7 +351,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7892,
+      "views": 7898,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -359,7 +359,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 1,
-      "viewsDelta": 26
+      "viewsDelta": 32
     },
     {
       "pos": 9,
@@ -419,7 +419,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6651,
+      "views": 6652,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -427,7 +427,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 1,
-      "viewsDelta": 15
+      "viewsDelta": 16
     },
     {
       "pos": 13,
@@ -487,7 +487,7 @@
       "artist": "88Dushane",
       "song": "Hanging With Wolves DURK REMIX",
       "title": "88Dushane - Hanging With Wolves DURK REMIX (Official Music Video)",
-      "views": 5083,
+      "views": 5084,
       "url": "https://www.youtube.com/watch?v=w20yZzvA87s",
       "thumb": "https://i.ytimg.com/vi/w20yZzvA87s/mqdefault.jpg",
       "publishedText": "17 sty 2024",
@@ -495,7 +495,7 @@
       "move": 0,
       "peak": 16,
       "weeks": 1,
-      "viewsDelta": 2
+      "viewsDelta": 3
     },
     {
       "pos": 17,
@@ -827,7 +827,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2096,
+      "views": 2107,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -835,7 +835,7 @@
       "move": 4,
       "peak": 36,
       "weeks": 1,
-      "viewsDelta": 112
+      "viewsDelta": 123
     },
     {
       "pos": 37,
@@ -878,7 +878,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2032,
+      "views": 2034,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -886,7 +886,7 @@
       "move": -1,
       "peak": 38,
       "weeks": 1,
-      "viewsDelta": 21
+      "viewsDelta": 23
     },
     {
       "pos": 40,
@@ -1485,6 +1485,23 @@
     },
     {
       "pos": 75,
+      "id": "_yAfcKGcz7Y",
+      "isLatest": false,
+      "artist": "Tiny Shuj",
+      "song": "Nowy cali G",
+      "title": "Tiny Shuj - Nowy cali G",
+      "views": 952,
+      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
+      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
+      "publishedText": "17 sie 2026",
+      "prevPos": 81,
+      "move": 6,
+      "peak": 75,
+      "weeks": 1,
+      "viewsDelta": 31
+    },
+    {
+      "pos": 76,
       "id": "KsDdRQOpmX8",
       "isLatest": false,
       "artist": "Tiny G x Gibby",
@@ -1495,27 +1512,10 @@
       "thumb": "https://i.ytimg.com/vi/KsDdRQOpmX8/mqdefault.jpg",
       "publishedText": "5 kwi 2024",
       "prevPos": 75,
-      "move": 0,
+      "move": -1,
       "peak": 75,
       "weeks": 1,
       "viewsDelta": 0
-    },
-    {
-      "pos": 76,
-      "id": "_yAfcKGcz7Y",
-      "isLatest": false,
-      "artist": "Tiny Shuj",
-      "song": "Nowy cali G",
-      "title": "Tiny Shuj - Nowy cali G",
-      "views": 951,
-      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
-      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
-      "publishedText": "17 sie 2026",
-      "prevPos": 81,
-      "move": 5,
-      "peak": 76,
-      "weeks": 1,
-      "viewsDelta": 30
     },
     {
       "pos": 77,
@@ -1932,7 +1932,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 30,
+      "views": 29,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
@@ -1946,7 +1946,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 324,
+      "views": 335,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
@@ -1960,7 +1960,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 155,
+      "views": 158,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
