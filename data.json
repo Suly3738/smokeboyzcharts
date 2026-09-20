@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:24:39.856Z",
+  "generatedAt": "2026-09-20T07:18:33.402Z",
   "chartDate": "2026-09-20",
   "prevDate": "2026-09-17",
   "channel": {
@@ -60,7 +60,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2110,
+      "views": 2107,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -68,7 +68,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 126
+      "viewsDelta": 123
     },
     {
       "pos": 2,
@@ -94,7 +94,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 952,
+      "views": 954,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -102,7 +102,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 31
+      "viewsDelta": 33
     },
     {
       "pos": 4,
@@ -128,7 +128,7 @@
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
-      "views": 641,
+      "views": 642,
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
@@ -136,7 +136,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 6,
@@ -145,7 +145,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 462,
+      "views": 463,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -153,7 +153,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 16
+      "viewsDelta": 17
     },
     {
       "pos": 7,
@@ -300,7 +300,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9911,
+      "views": 9913,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -308,7 +308,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 16
+      "viewsDelta": 18
     },
     {
       "pos": 6,
@@ -827,7 +827,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2110,
+      "views": 2107,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -835,7 +835,7 @@
       "move": 4,
       "peak": 36,
       "weeks": 1,
-      "viewsDelta": 126
+      "viewsDelta": 123
     },
     {
       "pos": 37,
@@ -1468,6 +1468,23 @@
     },
     {
       "pos": 74,
+      "id": "_yAfcKGcz7Y",
+      "isLatest": false,
+      "artist": "Tiny Shuj",
+      "song": "Nowy cali G",
+      "title": "Tiny Shuj - Nowy cali G",
+      "views": 954,
+      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
+      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
+      "publishedText": "17 sie 2026",
+      "prevPos": 81,
+      "move": 7,
+      "peak": 74,
+      "weeks": 1,
+      "viewsDelta": 33
+    },
+    {
+      "pos": 75,
       "id": "v3YcIARBDXQ",
       "isLatest": false,
       "artist": "BibbyOG",
@@ -1478,27 +1495,10 @@
       "thumb": "https://i.ytimg.com/vi/v3YcIARBDXQ/mqdefault.jpg",
       "publishedText": "11 cze 2024",
       "prevPos": 74,
-      "move": 0,
+      "move": -1,
       "peak": 74,
       "weeks": 1,
       "viewsDelta": 0
-    },
-    {
-      "pos": 75,
-      "id": "_yAfcKGcz7Y",
-      "isLatest": false,
-      "artist": "Tiny Shuj",
-      "song": "Nowy cali G",
-      "title": "Tiny Shuj - Nowy cali G",
-      "views": 952,
-      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
-      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
-      "publishedText": "17 sie 2026",
-      "prevPos": 81,
-      "move": 6,
-      "peak": 75,
-      "weeks": 1,
-      "viewsDelta": 31
     },
     {
       "pos": 76,
@@ -1932,7 +1932,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 91,
+      "views": 92,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
@@ -1946,7 +1946,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 339,
+      "views": 340,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
@@ -1960,7 +1960,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 162,
+      "views": 163,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
