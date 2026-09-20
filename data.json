@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T19:16:08.326Z",
+  "generatedAt": "2026-09-20T20:18:37.319Z",
   "chartDate": "2026-09-20",
   "prevDate": "2026-09-17",
   "channel": {
@@ -232,7 +232,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14241,
+      "views": 14238,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -240,7 +240,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 27
+      "viewsDelta": 24
     },
     {
       "pos": 2,
@@ -1592,7 +1592,7 @@
       "artist": "PEDRO & RUBEN",
       "song": "SPIRYTUS",
       "title": "PEDRO & RUBEN - SPIRYTUS",
-      "views": 927,
+      "views": 926,
       "url": "https://www.youtube.com/watch?v=9CgU4zLEPRA",
       "thumb": "https://i.ytimg.com/vi/9CgU4zLEPRA/mqdefault.jpg",
       "publishedText": "6 sie 2024",
@@ -1600,7 +1600,7 @@
       "move": -1,
       "peak": 80,
       "weeks": 1,
-      "viewsDelta": 1
+      "viewsDelta": 0
     },
     {
       "pos": 82,
@@ -1723,23 +1723,6 @@
     },
     {
       "pos": 89,
-      "id": "nrrPDAFHcxo",
-      "isLatest": false,
-      "artist": "PEDRO",
-      "song": "TARTA",
-      "title": "PEDRO - TARTA",
-      "views": 875,
-      "url": "https://www.youtube.com/watch?v=nrrPDAFHcxo",
-      "thumb": "https://i.ytimg.com/vi/nrrPDAFHcxo/mqdefault.jpg",
-      "publishedText": "29 gru 2025",
-      "prevPos": 90,
-      "move": 1,
-      "peak": 89,
-      "weeks": 1,
-      "viewsDelta": 4
-    },
-    {
-      "pos": 90,
       "id": "NTlNbehUKs4",
       "isLatest": false,
       "artist": "C-G x Lucky",
@@ -1750,10 +1733,27 @@
       "thumb": "https://i.ytimg.com/vi/NTlNbehUKs4/mqdefault.jpg",
       "publishedText": "22 sty 2024",
       "prevPos": 89,
-      "move": -1,
+      "move": 0,
       "peak": 89,
       "weeks": 1,
       "viewsDelta": 0
+    },
+    {
+      "pos": 90,
+      "id": "nrrPDAFHcxo",
+      "isLatest": false,
+      "artist": "PEDRO",
+      "song": "TARTA",
+      "title": "PEDRO - TARTA",
+      "views": 874,
+      "url": "https://www.youtube.com/watch?v=nrrPDAFHcxo",
+      "thumb": "https://i.ytimg.com/vi/nrrPDAFHcxo/mqdefault.jpg",
+      "publishedText": "29 gru 2025",
+      "prevPos": 90,
+      "move": 0,
+      "peak": 90,
+      "weeks": 1,
+      "viewsDelta": 3
     },
     {
       "pos": 91,
