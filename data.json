@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T08:19:55.047Z",
+  "generatedAt": "2026-09-20T09:18:45.976Z",
   "chartDate": "2026-09-20",
   "prevDate": "2026-09-17",
   "channel": {
@@ -77,7 +77,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1249,
+      "views": 1251,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -85,7 +85,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 21
+      "viewsDelta": 23
     },
     {
       "pos": 3,
@@ -94,7 +94,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 954,
+      "views": 957,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -102,7 +102,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 33
+      "viewsDelta": 36
     },
     {
       "pos": 4,
@@ -111,7 +111,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 850,
+      "views": 851,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -119,7 +119,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 30
+      "viewsDelta": 31
     },
     {
       "pos": 5,
@@ -162,7 +162,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 448,
+      "views": 449,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -170,7 +170,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 27
+      "viewsDelta": 28
     },
     {
       "pos": 8,
@@ -419,7 +419,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6654,
+      "views": 6655,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -427,7 +427,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 1,
-      "viewsDelta": 18
+      "viewsDelta": 19
     },
     {
       "pos": 13,
@@ -555,7 +555,7 @@
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
-      "views": 3837,
+      "views": 3838,
       "url": "https://www.youtube.com/watch?v=5qM3_rAl8-8",
       "thumb": "https://i.ytimg.com/vi/5qM3_rAl8-8/mqdefault.jpg",
       "publishedText": "11 lip 2024",
@@ -563,7 +563,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 1,
-      "viewsDelta": 5
+      "viewsDelta": 6
     },
     {
       "pos": 21,
@@ -674,7 +674,7 @@
       "artist": "88Dushane",
       "song": "Wow, Wow",
       "title": "88Dushane - Wow, Wow",
-      "views": 2852,
+      "views": 2853,
       "url": "https://www.youtube.com/watch?v=bdrC6hEXTfs",
       "thumb": "https://i.ytimg.com/vi/bdrC6hEXTfs/mqdefault.jpg",
       "publishedText": "18 lis 2023",
@@ -682,7 +682,7 @@
       "move": 0,
       "peak": 27,
       "weeks": 1,
-      "viewsDelta": 2
+      "viewsDelta": 3
     },
     {
       "pos": 28,
@@ -1162,6 +1162,23 @@
     },
     {
       "pos": 56,
+      "id": "6tY7P4J8UZo",
+      "isLatest": false,
+      "artist": "Tyr0ne",
+      "song": "We Tap Heads",
+      "title": "Tyr0ne - We Tap Heads",
+      "views": 1251,
+      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
+      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
+      "publishedText": "20 sie 2026",
+      "prevPos": 58,
+      "move": 2,
+      "peak": 56,
+      "weeks": 1,
+      "viewsDelta": 23
+    },
+    {
+      "pos": 57,
       "id": "pyKzI4qUXzs",
       "isLatest": false,
       "artist": "BRAZY",
@@ -1172,27 +1189,10 @@
       "thumb": "https://i.ytimg.com/vi/pyKzI4qUXzs/mqdefault.jpg",
       "publishedText": "27 gru 2025",
       "prevPos": 56,
-      "move": 0,
+      "move": -1,
       "peak": 56,
       "weeks": 1,
       "viewsDelta": 2
-    },
-    {
-      "pos": 57,
-      "id": "6tY7P4J8UZo",
-      "isLatest": false,
-      "artist": "Tyr0ne",
-      "song": "We Tap Heads",
-      "title": "Tyr0ne - We Tap Heads",
-      "views": 1249,
-      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
-      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
-      "publishedText": "20 sie 2026",
-      "prevPos": 58,
-      "move": 1,
-      "peak": 57,
-      "weeks": 1,
-      "viewsDelta": 21
     },
     {
       "pos": 58,
@@ -1371,7 +1371,7 @@
       "artist": "Rowdy",
       "song": "Not Enough",
       "title": "Rowdy - Not Enough",
-      "views": 1021,
+      "views": 1022,
       "url": "https://www.youtube.com/watch?v=oO94E6lysko",
       "thumb": "https://i.ytimg.com/vi/oO94E6lysko/mqdefault.jpg",
       "publishedText": "15 mar 2026",
@@ -1379,7 +1379,7 @@
       "move": 1,
       "peak": 68,
       "weeks": 1,
-      "viewsDelta": 2
+      "viewsDelta": 3
     },
     {
       "pos": 69,
@@ -1473,7 +1473,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 954,
+      "views": 957,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1481,7 +1481,7 @@
       "move": 7,
       "peak": 74,
       "weeks": 1,
-      "viewsDelta": 33
+      "viewsDelta": 36
     },
     {
       "pos": 75,
@@ -1796,7 +1796,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 850,
+      "views": 851,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -1804,7 +1804,7 @@
       "move": 2,
       "peak": 93,
       "weeks": 1,
-      "viewsDelta": 30
+      "viewsDelta": 31
     },
     {
       "pos": 94,
@@ -1946,7 +1946,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 344,
+      "views": 342,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
@@ -1960,7 +1960,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 163,
+      "views": 164,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
