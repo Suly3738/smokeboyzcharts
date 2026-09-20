@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:19:39.900Z",
+  "generatedAt": "2026-09-20T03:19:49.470Z",
   "chartDate": "2026-09-20",
   "prevDate": "2026-09-17",
   "channel": {
@@ -402,7 +402,7 @@
       "artist": "TONY LUGO",
       "song": "88 (Snapmatic Video)",
       "title": "TONY LUGO - 88 (Snapmatic Video)",
-      "views": 6714,
+      "views": 6713,
       "url": "https://www.youtube.com/watch?v=Pun1oxeNjE8",
       "thumb": "https://i.ytimg.com/vi/Pun1oxeNjE8/mqdefault.jpg",
       "publishedText": "7 lut 2024",
@@ -410,7 +410,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 1,
-      "viewsDelta": 6
+      "viewsDelta": 5
     },
     {
       "pos": 12,
@@ -504,7 +504,7 @@
       "artist": "WUJA",
       "song": "ALL ALONE",
       "title": "WUJA - ALL ALONE",
-      "views": 4593,
+      "views": 4592,
       "url": "https://www.youtube.com/watch?v=4k7sgidRPDI",
       "thumb": "https://i.ytimg.com/vi/4k7sgidRPDI/mqdefault.jpg",
       "publishedText": "9 cze 2024",
@@ -512,7 +512,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 1,
-      "viewsDelta": 7
+      "viewsDelta": 6
     },
     {
       "pos": 18,
@@ -623,7 +623,7 @@
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
-      "views": 3586,
+      "views": 3587,
       "url": "https://www.youtube.com/watch?v=Lap3gXlJk1Q",
       "thumb": "https://i.ytimg.com/vi/Lap3gXlJk1Q/mqdefault.jpg",
       "publishedText": "4 kwi 2024",
@@ -631,7 +631,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 1,
-      "viewsDelta": 8
+      "viewsDelta": 9
     },
     {
       "pos": 25,
@@ -975,6 +975,23 @@
     },
     {
       "pos": 45,
+      "id": "7oWVQe1W2RE",
+      "isLatest": false,
+      "artist": "PEDRO",
+      "song": "DRIFT",
+      "title": "PEDRO - DRIFT",
+      "views": 1678,
+      "url": "https://www.youtube.com/watch?v=7oWVQe1W2RE",
+      "thumb": "https://i.ytimg.com/vi/7oWVQe1W2RE/mqdefault.jpg",
+      "publishedText": "7 lut 2024",
+      "prevPos": 46,
+      "move": 1,
+      "peak": 45,
+      "weeks": 1,
+      "viewsDelta": 3
+    },
+    {
+      "pos": 46,
       "id": "_me1SfLaZCo",
       "isLatest": false,
       "artist": "SCRIBBLE",
@@ -985,27 +1002,10 @@
       "thumb": "https://i.ytimg.com/vi/_me1SfLaZCo/mqdefault.jpg",
       "publishedText": "1 lut 2024",
       "prevPos": 45,
-      "move": 0,
+      "move": -1,
       "peak": 45,
       "weeks": 1,
       "viewsDelta": 1
-    },
-    {
-      "pos": 46,
-      "id": "7oWVQe1W2RE",
-      "isLatest": false,
-      "artist": "PEDRO",
-      "song": "DRIFT",
-      "title": "PEDRO - DRIFT",
-      "views": 1677,
-      "url": "https://www.youtube.com/watch?v=7oWVQe1W2RE",
-      "thumb": "https://i.ytimg.com/vi/7oWVQe1W2RE/mqdefault.jpg",
-      "publishedText": "7 lut 2024",
-      "prevPos": 46,
-      "move": 0,
-      "peak": 46,
-      "weeks": 1,
-      "viewsDelta": 2
     },
     {
       "pos": 47,
@@ -1303,7 +1303,7 @@
       "artist": "PEDRO",
       "song": "MAMY PLAN",
       "title": "PEDRO - MAMY PLAN",
-      "views": 1079,
+      "views": 1080,
       "url": "https://www.youtube.com/watch?v=Vk77CE67yfA",
       "thumb": "https://i.ytimg.com/vi/Vk77CE67yfA/mqdefault.jpg",
       "publishedText": "24 kwi 2024",
@@ -1311,7 +1311,7 @@
       "move": 0,
       "peak": 64,
       "weeks": 1,
-      "viewsDelta": 1
+      "viewsDelta": 2
     },
     {
       "pos": 65,
@@ -1337,7 +1337,7 @@
       "artist": "88TYRON",
       "song": "SNITCH TRAY BALLA",
       "title": "88TYRON - SNITCH TRAY BALLA",
-      "views": 1056,
+      "views": 1057,
       "url": "https://www.youtube.com/watch?v=dWBOt00bI5M",
       "thumb": "https://i.ytimg.com/vi/dWBOt00bI5M/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -1345,7 +1345,7 @@
       "move": 0,
       "peak": 66,
       "weeks": 1,
-      "viewsDelta": 0
+      "viewsDelta": 1
     },
     {
       "pos": 67,
@@ -1960,7 +1960,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 158,
+      "views": 162,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/hqdefault.jpg",
