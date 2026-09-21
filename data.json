@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:19:35.713Z",
+  "generatedAt": "2026-09-21T21:18:55.666Z",
   "chartDate": "2026-09-21",
   "prevDate": "2026-09-17",
   "channel": {
@@ -77,7 +77,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1259,
+      "views": 1260,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -85,7 +85,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 31
+      "viewsDelta": 32
     },
     {
       "pos": 3,
@@ -111,7 +111,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 858,
+      "views": 859,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -119,7 +119,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 38
+      "viewsDelta": 39
     },
     {
       "pos": 5,
@@ -208,20 +208,20 @@
     },
     {
       "pos": 10,
-      "id": "8jQda9sFvV8",
-      "isLatest": false,
-      "artist": "TripleB",
-      "song": "GIVE A CHANCE",
-      "title": "TripleB - GIVE A CHANCE",
-      "views": 377,
-      "url": "https://www.youtube.com/watch?v=8jQda9sFvV8",
-      "thumb": "https://i.ytimg.com/vi/8jQda9sFvV8/mqdefault.jpg",
-      "publishedText": "28 sie 2026",
-      "prevPos": 10,
-      "move": 0,
+      "id": "MyIL46VKAyM",
+      "isLatest": true,
+      "artist": "ISY",
+      "song": "ZAZA",
+      "title": "ISY - ZAZA",
+      "views": 381,
+      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
+      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
+      "publishedText": "19 wrz 2026",
+      "prevPos": null,
+      "move": "new",
       "peak": 10,
-      "weeks": 2,
-      "viewsDelta": 5
+      "weeks": 1,
+      "viewsDelta": null
     }
   ],
   "allTime": [
@@ -1167,7 +1167,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1259,
+      "views": 1260,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -1175,7 +1175,7 @@
       "move": 2,
       "peak": 56,
       "weeks": 2,
-      "viewsDelta": 31
+      "viewsDelta": 32
     },
     {
       "pos": 57,
@@ -1796,7 +1796,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 858,
+      "views": 859,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -1804,7 +1804,7 @@
       "move": 2,
       "peak": 93,
       "weeks": 2,
-      "viewsDelta": 38
+      "viewsDelta": 39
     },
     {
       "pos": 94,
@@ -1951,7 +1951,7 @@
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
       "title": "Soto Brothers - Daj To Głośniej",
-      "views": 256,
+      "views": 257,
       "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
       "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
       "publishedText": "14 wrz 2026",
@@ -1959,7 +1959,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 76
+      "viewsDelta": 77
     },
     {
       "pos": 3,
@@ -2019,7 +2019,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 858,
+      "views": 859,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -2027,7 +2027,7 @@
       "move": "new",
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 38
+      "viewsDelta": 39
     },
     {
       "pos": 7,
@@ -2048,15 +2048,15 @@
     },
     {
       "pos": 8,
-      "id": "dXNQgu1agkg",
+      "id": "6tY7P4J8UZo",
       "isLatest": false,
-      "artist": "BABY FLAMESTA x WUJA",
-      "song": "GANG SHIT NO LAME SHIT",
-      "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13201,
-      "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
-      "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
-      "publishedText": "26 kwi 2024",
+      "artist": "Tyr0ne",
+      "song": "We Tap Heads",
+      "title": "Tyr0ne - We Tap Heads",
+      "views": 1260,
+      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
+      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
+      "publishedText": "20 sie 2026",
       "prevPos": null,
       "move": "new",
       "peak": 8,
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 312923,
+    "views": 312940,
     "songs": 187
   },
   "latest": [
@@ -2176,7 +2176,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 32,
+      "views": 36,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
@@ -2190,7 +2190,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 371,
+      "views": 381,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
