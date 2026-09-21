@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:04:28.697Z",
+  "generatedAt": "2026-09-21T20:05:00.237Z",
   "chartDate": "2026-09-21",
   "prevDate": "2026-09-17",
   "channel": {
@@ -317,7 +317,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9286,
+      "views": 9285,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -325,7 +325,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 24
+      "viewsDelta": 23
     },
     {
       "pos": 7,
@@ -368,7 +368,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7395,
+      "views": 7396,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -376,7 +376,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 23
+      "viewsDelta": 24
     },
     {
       "pos": 10,
@@ -419,7 +419,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6663,
+      "views": 6662,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -427,7 +427,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 2,
-      "viewsDelta": 27
+      "viewsDelta": 26
     },
     {
       "pos": 13,
@@ -2068,7 +2068,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60664,
+      "views": 60668,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -2088,7 +2088,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40443,
+      "views": 40442,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2118,7 +2118,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15874,
+      "views": 15873,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 312884,
+    "views": 312916,
     "songs": 187
   },
   "latest": [
