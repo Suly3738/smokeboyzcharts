@@ -342,14 +342,15 @@
     animation: puff 1.7s ease-out forwards; animation-delay: var(--d, 0ms); }
   @keyframes puff { 0% { opacity: 0; transform: scale(.3) translate(0,0); } 16% { opacity: .55; } 100% { opacity: 0; transform: scale(var(--s,2)) translate(var(--dx,0),var(--dy,-120px)); } }
 
-  .intro-logo { position: absolute; width: min(320px, 58vw); opacity: 0; pointer-events: none; z-index: 4;
+  .intro-logo { position: absolute; left: 50%; top: 50%; width: min(320px, 58vw); opacity: 0; pointer-events: none; z-index: 4;
+    transform: translate(-50%, -50%) scale(.85);
     filter: drop-shadow(0 0 44px rgba(167,139,250,.6)); }
   .intro.logo .intro-logo { animation: logo-flicker 1s steps(1,end) both; }
   @keyframes logo-flicker {
-    0% { opacity: 0; filter: brightness(3) blur(6px); transform: scale(.85); }
+    0% { opacity: 0; filter: brightness(3) blur(6px) drop-shadow(0 0 44px rgba(167,139,250,.6)); transform: translate(-50%,-50%) scale(.85); }
     8% { opacity: 1; } 12% { opacity: .2; } 18% { opacity: 1; } 24% { opacity: .3; }
-    32% { opacity: 1; filter: brightness(1.6) blur(1px); }
-    100% { opacity: 1; filter: brightness(1) blur(0); transform: scale(1); }
+    32% { opacity: 1; filter: brightness(1.6) blur(1px) drop-shadow(0 0 44px rgba(167,139,250,.6)); }
+    100% { opacity: 1; filter: brightness(1) blur(0) drop-shadow(0 0 44px rgba(167,139,250,.6)); transform: translate(-50%,-50%) scale(1); }
   }
   @media (max-width: 640px) { .deck-label { margin-top: 40px; font-size: 11px; } .deck-btn { width: 56px; height: 56px; bottom: -26px; } .deck-btn svg { width: 20px; height: 20px; } }
   @media (prefers-reduced-motion: reduce) { .intro { display: none !important; } }
