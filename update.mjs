@@ -272,11 +272,46 @@ const weekAgo = daysAgo(7);
 const older = history.snapshots.filter(s => s.date <= weekAgo);
 const prev = older.length ? older[older.length - 1] : (history.snapshots[0] ?? null);
 
+// ---------- rosnące: utwory z największym przyrostem wyświetleń tydz./tydz. ----------
+const gainCandidates = allTimePool
+  .map(v => ({ v, delta: prev?.views?.[v.id] != null ? v.views - prev.views[v.id] : null }))
+  .filter(x => x.delta !== null && x.delta > 0)
+  .sort((a, b) => b.delta - a.delta)
+  .slice(0, cfg.risingSize ?? 8)
+  .map(x => x.v);
+
+// ---------- ekipa: ranking wykonawców po sumie wyświetleń w całym katalogu (bez wykluczeń) ----------
+function splitArtists(name) {
+  return (name || '').split(/\s*,\s*|\s+&\s+|\s+x\s+|\s+\+\s+|\s+ft\.?\s+|\s+feat\.?\s+/i).map(s => s.trim()).filter(Boolean);
+}
+const artistMap = new Map();
+for (const v of videos.filter(v => !v.excluded)) {
+  const names = splitArtists(v.artist).length ? splitArtists(v.artist) : [v.artist || 'Nieznany'];
+  for (const name of names) {
+    if (!artistMap.has(name)) artistMap.set(name, { name, views: 0, songs: 0, best: null });
+    const a = artistMap.get(name);
+    a.views += v.views;
+    a.songs += 1;
+    if (!a.best || v.views > a.best.views) a.best = v;
+  }
+}
+const artists = [...artistMap.values()]
+  .sort((a, b) => b.views - a.views || b.songs - a.songs)
+  .slice(0, cfg.artistsSize ?? 10)
+  .map((a, i) => ({
+    pos: i + 1, name: a.name, views: a.views, songs: a.songs,
+    bestSong: a.best.song, bestArtist: a.best.artist, bestThumb: a.best.thumb, bestUrl: a.best.url,
+  }));
+
+const catalog = videos.filter(v => !v.excluded);
+const totals = { views: catalog.reduce((s, v) => s + v.views, 0), songs: catalog.length };
+
 const viewsMap = Object.fromEntries(videos.map(v => [v.id, v.views]));
 const snapshot = {
   date: chartDate,
   now: now.map(v => v.id),
   allTime: allTime.map(v => v.id),
+  rising: gainCandidates.map(v => v.id),
   views: viewsMap,
 };
 history.snapshots.push(snapshot);
@@ -295,10 +330,10 @@ fs.writeFileSync(p('history.json'), JSON.stringify(history));
 function enrich(list, key) {
   return list.map((v, i) => {
     const pos = i + 1;
-    const prevPos = prev ? (prev[key].indexOf(v.id) + 1 || null) : null;
+    const prevPos = prev ? ((prev[key] ?? []).indexOf(v.id) + 1 || null) : null;
     let peak = pos; const weekSet = new Set();
     for (const s of history.snapshots) {
-      const idx = s[key].indexOf(v.id);
+      const idx = (s[key] ?? []).indexOf(v.id);
       if (idx >= 0) { weekSet.add(isoWeek(s.date)); peak = Math.min(peak, idx + 1); }
     }
     const weeks = weekSet.size;
@@ -344,6 +379,9 @@ const data = {
   },
   now: enrich(now, 'now'),
   allTime: enrich(allTime, 'allTime'),
+  rising: enrich(gainCandidates, 'rising'),
+  artists,
+  totals,
   latest: latest.map(v => ({
     id: v.id, artist: v.artist, song: v.song, title: v.title, views: v.views, url: v.url, thumb: v.thumb,
     thumbLarge: `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`,
@@ -362,7 +400,7 @@ const build = data.generatedAt; // identyfikator wersji – strona porównuje go
 fs.writeFileSync(p('index.html'), template.replace('/*__DATA__*/null', json).replaceAll('__BUILD__', build));
 fs.writeFileSync(p('version.json'), JSON.stringify({ build }));
 
-log(`Gotowe. Notowanie z ${chartDate}: Top ${now.length} Now, Top ${allTime.length} All Time, ${latest.length} najnowszych wydań (odniesienie: ${prev?.date ?? '—'}).`);
+log(`Gotowe. Notowanie z ${chartDate}: Top ${now.length} Now, Top ${allTime.length} All Time, ${latest.length} najnowszych wydań, ${data.rising.length} rosnących, ${artists.length} w Ekipie (odniesienie: ${prev?.date ?? '—'}).`);
 log(`Wykluczone (${data.stats.excluded.length}): ${data.stats.excluded.map(e => e.title).join(' | ') || '—'}`);
 log('#1 Now: ' + (now[0] ? `${now[0].title} (${now[0].views} wyśw.)` : '—'));
 log('#1 All Time: ' + (allTime[0] ? `${allTime[0].title} (${allTime[0].views} wyśw.)` : '—'));

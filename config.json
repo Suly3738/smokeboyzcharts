@@ -5,6 +5,8 @@
   "nowSize": 10,
   "allTimeSize": 100,
   "latestSize": 3,
+  "risingSize": 8,
+  "artistsSize": 10,
   "excludeKeyword": "PIXA",
   "excludeArtists": ["IroKeZ"],
   "excludeCaseSensitive": true,

@@ -246,7 +246,7 @@
     .pos { grid-area: pos; width: 40px; height: 40px; font-size: 17px; border-radius: 10px; }
     .thumb { grid-area: thumb; width: 88px; border-radius: 8px; }
     .info { grid-area: info; align-self: start; }
-    .move, .rel { grid-area: move; justify-self: start; align-self: center; }
+    .move, .rel, .art-rank { grid-area: move; justify-self: start; align-self: center; }
     .move { padding: 5px 10px; }
     .views { grid-area: views; align-self: center; }
     .views b { font-size: 15px; display: inline; }
@@ -274,9 +274,136 @@
     li.row:hover .thumb::after { opacity: 0; }
     .link, .tabs button, .thumb, .cover { -webkit-tap-highlight-color: transparent; }
   }
+
+  /* ---------- pasek statystyk pod nagłówkiem ---------- */
+  .stats { position: relative; z-index: 2; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 22px auto 0; max-width: 680px; }
+  .stat { flex: 1 1 150px; min-width: 140px; padding: 14px 12px; border-radius: 14px; border: 1px solid var(--line); background: var(--panel); backdrop-filter: blur(8px); text-align: center; }
+  .stat b { display: block; font-family: var(--serif); font-size: 20px; font-weight: 700; color: var(--bright); letter-spacing: .01em; font-variant-numeric: tabular-nums; }
+  .stat span { display: block; margin-top: 4px; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+  .stat-top b { font-size: 15px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  @media (max-width: 640px) { .stats { gap: 8px; margin-top: 16px; } .stat { padding: 10px 8px; flex-basis: 100px; } .stat b { font-size: 15px; } .stat span { font-size: 9px; } }
+
+  /* karty wykonawców (Ekipa) – ten sam grid co li.row, kolumna "move" staje się wawrzynem rangi */
+  .row.artist { border-color: rgba(45,212,191,.28); }
+  .row.artist:hover { border-color: rgba(125,246,232,.7); box-shadow: 0 1px 0 rgba(255,255,255,.12) inset, 0 16px 44px rgba(0,0,0,.45), 0 0 26px rgba(45,212,191,.22); }
+  .art-rank { display: flex; align-items: center; justify-content: center; }
+  .art-rank .laurel { width: 26px; height: 26px; fill: var(--gold); filter: drop-shadow(0 0 8px rgba(251,191,36,.55)); }
+  /* Rosnące – ten sam wiersz co notowania, z akcentem złota na przyroście */
+  #list-rising .row { border-color: rgba(251,191,36,.26); }
+  #list-rising .row:hover { border-color: rgba(253,230,138,.7); box-shadow: 0 1px 0 rgba(255,255,255,.12) inset, 0 16px 44px rgba(0,0,0,.45), 0 0 26px rgba(251,191,36,.2); }
+  #list-rising .views small.plus { color: var(--gold); font-weight: 800; }
+
+  /* ---------- wejście: retro deck (magnetofon) – naciśnij PLAY, żeby wejść w dym ---------- */
+  body.intro { overflow: hidden; }
+  .intro { position: fixed; inset: 0; z-index: 95; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px;
+    background: radial-gradient(1100px 700px at 50% 42%, #1b1440, #06050f 76%); transition: opacity .7s ease, visibility .7s; }
+  .intro.go { opacity: 0; visibility: hidden; pointer-events: none; }
+  .intro-skip { position: absolute; top: 18px; right: 18px; z-index: 3; border: 1px solid var(--line-strong); background: rgba(255,255,255,.05); color: var(--muted);
+    font-family: var(--serif); font-size: 11px; letter-spacing: .18em; text-transform: uppercase; border-radius: 999px; padding: 9px 16px; cursor: pointer; transition: color .2s, border-color .2s; }
+  .intro-skip:hover { color: #fff; border-color: rgba(255,255,255,.4); }
+  .intro-kicker { font-family: var(--serif); font-size: 11px; letter-spacing: .34em; text-transform: uppercase; color: var(--muted); text-indent: .34em; }
+
+  .deck { position: relative; width: min(480px, 88vw); text-align: center; transition: opacity .4s, transform .4s; }
+  .intro.logo .deck { opacity: 0; transform: scale(.94); }
+  .deck-body { position: relative; filter: drop-shadow(0 26px 54px rgba(0,0,0,.55)); }
+  .deck-face { width: 100%; height: auto; display: block; }
+  .face-edge { fill: none; stroke: rgba(196,181,253,.28); stroke-width: 2; }
+  .window { fill: #0a0818; stroke: rgba(255,255,255,.16); stroke-width: 2; }
+  .dot { fill: rgba(255,255,255,.14); }
+  .reel-rim { fill: none; stroke: rgba(238,234,255,.55); stroke-width: 3; }
+  .reel-spokes line { stroke: rgba(238,234,255,.6); stroke-width: 3; stroke-linecap: round; }
+  .reel-hub { fill: var(--gold); }
+  .tape { fill: none; stroke: rgba(238,234,255,.32); stroke-width: 3; }
+  .reel-spin { transform-box: fill-box; transform-origin: center; }
+  .intro.spin .reel-spin { animation: reel-spin .85s linear infinite; }
+  @keyframes reel-spin { to { transform: rotate(360deg); } }
+  .vu rect { fill: rgba(255,255,255,.09); stroke: rgba(255,255,255,.22); }
+  .intro.spin .vu rect { animation: led-on .45s ease forwards; }
+  .intro.spin .vu rect:nth-child(1) { animation-delay: 0ms; } .intro.spin .vu rect:nth-child(2) { animation-delay: 80ms; }
+  .intro.spin .vu rect:nth-child(3) { animation-delay: 160ms; } .intro.spin .vu rect:nth-child(4) { animation-delay: 240ms; }
+  .intro.spin .vu rect:nth-child(5) { animation-delay: 320ms; }
+  @keyframes led-on { to { fill: var(--gold); filter: drop-shadow(0 0 6px rgba(251,191,36,.8)); } }
+  .deck-btn { position: absolute; left: 50%; bottom: -30px; transform: translateX(-50%) scale(1); width: 64px; height: 64px; border-radius: 50%; z-index: 2;
+    display: grid; place-items: center; border: 1px solid rgba(253,230,138,.6); cursor: pointer; color: #2a1600;
+    background: linear-gradient(145deg, #fde68a, #f59e0b 60%, #b45309); box-shadow: 0 0 0 6px rgba(139,92,246,.16), 0 10px 30px rgba(251,191,36,.35);
+    transition: transform .15s ease; }
+  .deck-btn svg { width: 24px; height: 24px; fill: currentColor; margin-left: 3px; }
+  .intro.press .deck-btn, .intro.spin .deck-btn { transform: translateX(-50%) scale(.88); }
+  .deck-btn:focus-visible { outline: 2px solid var(--teal); outline-offset: 3px; }
+  .deck-label { margin: 44px 0 0; font-family: var(--serif); font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); }
+  .deck-label b { color: var(--gold); }
+  .intro.spin .deck-label, .intro.burst .deck-label, .intro.logo .deck-label { opacity: 0; transition: opacity .2s; }
+
+  /* dym z dwóch kratek głośników */
+  .vent { position: absolute; width: 0; height: 0; pointer-events: none; z-index: 3; }
+  .vent-l { left: 17%; top: 44%; } .vent-r { right: 17%; top: 44%; }
+  .vent i { position: absolute; left: 0; top: 0; width: 46px; height: 46px; margin: -23px 0 0 -23px; border-radius: 50%;
+    background: radial-gradient(circle, var(--hue, var(--violet)) 0%, transparent 70%); opacity: 0; filter: blur(2px);
+    animation: puff 1.7s ease-out forwards; animation-delay: var(--d, 0ms); }
+  @keyframes puff { 0% { opacity: 0; transform: scale(.3) translate(0,0); } 16% { opacity: .55; } 100% { opacity: 0; transform: scale(var(--s,2)) translate(var(--dx,0),var(--dy,-120px)); } }
+
+  .intro-logo { position: absolute; width: min(320px, 58vw); opacity: 0; pointer-events: none; z-index: 4;
+    filter: drop-shadow(0 0 44px rgba(167,139,250,.6)); }
+  .intro.logo .intro-logo { animation: logo-flicker 1s steps(1,end) both; }
+  @keyframes logo-flicker {
+    0% { opacity: 0; filter: brightness(3) blur(6px); transform: scale(.85); }
+    8% { opacity: 1; } 12% { opacity: .2; } 18% { opacity: 1; } 24% { opacity: .3; }
+    32% { opacity: 1; filter: brightness(1.6) blur(1px); }
+    100% { opacity: 1; filter: brightness(1) blur(0); transform: scale(1); }
+  }
+  @media (max-width: 640px) { .deck-label { margin-top: 40px; font-size: 11px; } .deck-btn { width: 56px; height: 56px; bottom: -26px; } .deck-btn svg { width: 20px; height: 20px; } }
+  @media (prefers-reduced-motion: reduce) { .intro { display: none !important; } }
 </style>
 </head>
 <body>
+<div id="intro" class="intro" role="dialog" aria-modal="true" aria-label="Włącz sesję">
+  <button class="intro-skip" type="button">Pomiń ✕</button>
+  <p class="intro-kicker">SmokeBoyz Studio</p>
+  <div class="deck">
+    <div class="deck-body">
+      <div class="vent vent-l" aria-hidden="true"></div>
+      <div class="vent vent-r" aria-hidden="true"></div>
+      <svg class="deck-face" viewBox="0 0 480 260" aria-hidden="true">
+        <defs>
+          <linearGradient id="faceGrad" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#241c4d"/><stop offset="100%" stop-color="#100c28"/>
+          </linearGradient>
+          <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
+            <circle cx="6.5" cy="6.5" r="2.1" class="dot"/>
+          </pattern>
+        </defs>
+        <rect x="5" y="5" width="470" height="250" rx="24" fill="url(#faceGrad)"/>
+        <rect x="5" y="5" width="470" height="250" rx="24" class="face-edge"/>
+        <rect x="24" y="34" width="92" height="118" rx="10" fill="url(#dots)"/>
+        <rect x="364" y="34" width="92" height="118" rx="10" fill="url(#dots)"/>
+        <rect x="138" y="40" width="204" height="108" rx="10" class="window"/>
+        <g transform="translate(190,94)"><g class="reel-spin">
+          <circle r="28" class="reel-rim"/>
+          <g class="reel-spokes"><line x1="0" y1="-24" x2="0" y2="24"/><line x1="-24" y1="0" x2="24" y2="0"/><line x1="-17" y1="-17" x2="17" y2="17"/><line x1="-17" y1="17" x2="17" y2="-17"/></g>
+          <circle r="6" class="reel-hub"/>
+        </g></g>
+        <g transform="translate(290,94)"><g class="reel-spin">
+          <circle r="28" class="reel-rim"/>
+          <g class="reel-spokes"><line x1="0" y1="-24" x2="0" y2="24"/><line x1="-24" y1="0" x2="24" y2="0"/><line x1="-17" y1="-17" x2="17" y2="17"/><line x1="-17" y1="17" x2="17" y2="-17"/></g>
+          <circle r="6" class="reel-hub"/>
+        </g></g>
+        <path class="tape" d="M216,94 Q240,116 264,94"/>
+        <g class="vu">
+          <rect x="168" y="170" width="16" height="24" rx="3"/>
+          <rect x="192" y="164" width="16" height="30" rx="3"/>
+          <rect x="216" y="158" width="16" height="36" rx="3"/>
+          <rect x="240" y="164" width="16" height="30" rx="3"/>
+          <rect x="264" y="170" width="16" height="24" rx="3"/>
+        </g>
+      </svg>
+      <button class="deck-btn" type="button" aria-label="Naciśnij PLAY, żeby wejść">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+      </button>
+    </div>
+    <p class="deck-label">Naciśnij <b>PLAY</b>, żeby wejść</p>
+  </div>
+  <img class="intro-logo" src="logo.png?v=2" alt="" aria-hidden="true">
+</div>
 <canvas id="smoke" aria-hidden="true"></canvas>
 <div class="grain" aria-hidden="true"></div>
 
@@ -298,6 +425,11 @@
         <span id="prev-date"></span>
       </div>
     </div>
+    <div class="stats" id="stats">
+      <div class="stat"><b data-count="views">0</b><span>wyświetleń łącznie</span></div>
+      <div class="stat"><b data-count="songs">0</b><span>utworów w bazie</span></div>
+      <div class="stat stat-top"><b id="stat-top-song">—</b><span>obecny #1</span></div>
+    </div>
   </header>
 
   <div class="tabs" role="tablist">
@@ -305,6 +437,8 @@
     <button role="tab" id="tab-now" aria-selected="true" aria-controls="panel-now"><span class="l">Top 10 Now</span><span class="s">Top 10</span></button>
     <button role="tab" id="tab-all" aria-selected="false" aria-controls="panel-all"><span class="l">Top 100 All Time</span><span class="s">Top 100</span></button>
     <button role="tab" id="tab-latest" aria-selected="false" aria-controls="panel-latest"><span class="l">Nasze najnowsze wydanie</span><span class="s">Nowości</span></button>
+    <button role="tab" id="tab-rising" aria-selected="false" aria-controls="panel-rising"><span class="l">Rosnące</span><span class="s">Rosnące</span></button>
+    <button role="tab" id="tab-artists" aria-selected="false" aria-controls="panel-artists"><span class="l">Ekipa</span><span class="s">Ekipa</span></button>
   </div>
 
   <section class="panel active" id="panel-now" role="tabpanel" aria-labelledby="tab-now">
@@ -323,12 +457,23 @@
     <ol class="chart" id="list-latest"></ol>
   </section>
 
+  <section class="panel" id="panel-rising" role="tabpanel" aria-labelledby="tab-rising">
+    <div class="panel-head"><h2>Rosnące</h2></div>
+    <ol class="chart" id="list-rising"></ol>
+  </section>
+
+  <section class="panel" id="panel-artists" role="tabpanel" aria-labelledby="tab-artists">
+    <div class="panel-head"><h2>Ekipa</h2></div>
+    <ol class="chart artists" id="list-artists"></ol>
+  </section>
+
   <footer id="foot"></footer>
 </div>
 
 <script>
 const DATA = /*__DATA__*/null;
 
+const REDUCED = matchMedia('(prefers-reduced-motion: reduce)').matches;
 const nf = new Intl.NumberFormat('pl-PL');
 const fmtDate = (iso) => iso ? new Date(iso + 'T00:00:00').toLocaleDateString('pl-PL', { day: 'numeric', month: 'long', year: 'numeric' }) : '';
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
@@ -365,9 +510,43 @@ function row(e) {
   </li>`;
 }
 
-function render(listId, entries) {
+function render(listId, entries, emptyMsg) {
   const el = document.getElementById(listId);
-  el.innerHTML = entries.length ? entries.map(row).join('') : '<li class="empty">Brak utworów w tym notowaniu.</li>';
+  el.innerHTML = entries.length ? entries.map(row).join('') : `<li class="empty">${emptyMsg || 'Brak utworów w tym notowaniu.'}</li>`;
+}
+
+const laurel = '<svg viewBox="0 0 24 24" class="laurel" aria-hidden="true"><path d="M12 2c1.3 3.4 3.4 5.4 3.4 8.6a3.4 3.4 0 1 1-6.8 0C8.6 7.4 10.7 5.4 12 2z"/></svg>';
+
+function artistRow(a) {
+  return `<li class="row artist${a.pos <= 3 ? ' top' : ' plain'}" style="--art:url('${esc(a.bestThumb)}')">
+    <div class="pos">${a.pos}</div>
+    <div class="art-rank">${a.pos <= 3 ? laurel : ''}</div>
+    <a class="thumb" href="${esc(a.bestUrl)}" target="_blank" rel="noopener" tabindex="-1"><img loading="lazy" src="${esc(a.bestThumb)}" alt=""></a>
+    <div class="info">
+      <div class="song">${esc(a.name)}</div>
+      <div class="artist">${a.songs} ${a.songs === 1 ? 'utwór' : (a.songs < 5 ? 'utwory' : 'utworów')} w notowaniu</div>
+      <div class="meta"><span>Najmocniejszy: ${esc(a.bestArtist)} – ${esc(a.bestSong)}</span></div>
+    </div>
+    <div class="views"><b>${nf.format(a.views)}</b><small>wyświetleń łącznie</small></div>
+    <a class="link" href="${esc(a.bestUrl)}" target="_blank" rel="noopener">Otwórz</a>
+  </li>`;
+}
+
+function renderArtists(entries) {
+  const el = document.getElementById('list-artists');
+  el.innerHTML = entries.length ? entries.map(artistRow).join('') : '<li class="empty">Za mało danych o wykonawcach.</li>';
+}
+
+function countUp(el, target) {
+  if (!el) return;
+  if (REDUCED) { el.textContent = nf.format(target); return; }
+  const t0 = performance.now(), dur = 900;
+  function step(t) {
+    const p = Math.min(1, (t - t0) / dur);
+    el.textContent = nf.format(Math.round(target * (1 - Math.pow(1 - p, 3))));
+    if (p < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
 }
 
 function latestRow(e, i) {
@@ -417,6 +596,14 @@ function init() {
   render('list-now', DATA.now);
   render('list-all', DATA.allTime);
   renderLatest(DATA.latest || []);
+  render('list-rising', DATA.rising || [], 'Za mało danych, żeby wyliczyć wzrosty – wróć jutro.');
+  renderArtists(DATA.artists || []);
+
+  const totals = DATA.totals || { views: 0, songs: 0 };
+  countUp(document.querySelector('[data-count="views"]'), totals.views);
+  countUp(document.querySelector('[data-count="songs"]'), totals.songs);
+  const topEntry = DATA.now[0] || DATA.allTime[0];
+  document.getElementById('stat-top-song').textContent = topEntry ? `${topEntry.artist} – ${topEntry.song}` : '—';
 
   document.getElementById('foot').innerHTML = `
     <div class="foot-orn"><i></i><span>✦</span><i></i></div>
@@ -494,6 +681,98 @@ function init() {
   requestAnimationFrame(() => pill.classList.add('ready'));
 }
 init();
+
+/* ---------- wejście: retro deck – PLAY uzbraja sesję, dym z kratek, neonowy flicker logo ---------- */
+(function intro() {
+  const overlay = document.getElementById('intro');
+  if (!overlay) return;
+  let seen = null; try { seen = sessionStorage.getItem('sbc.introSeen'); } catch {}
+  if (REDUCED || seen) { overlay.remove(); document.body.classList.remove('intro'); return; }
+  document.body.classList.add('intro');
+
+  let ctx = null;
+  function audio() { if (!ctx) { try { ctx = new (window.AudioContext || window.webkitAudioContext)(); } catch {} } return ctx; }
+
+  function click() {
+    const c = audio(); if (!c) return;
+    const t = c.currentTime, o = c.createOscillator(), g = c.createGain();
+    o.type = 'square'; o.frequency.setValueAtTime(180, t);
+    g.gain.setValueAtTime(.22, t); g.gain.exponentialRampToValueAtTime(.001, t + .07);
+    o.connect(g).connect(c.destination); o.start(t); o.stop(t + .08);
+  }
+  function powerUp() {
+    const c = audio(); if (!c) return;
+    const t0 = c.currentTime;
+    [220, 277.18, 329.63, 440, 554.37].forEach((f, i) => {
+      const t = t0 + i * .07, o = c.createOscillator(), g = c.createGain();
+      o.type = 'sawtooth'; o.frequency.setValueAtTime(f, t);
+      g.gain.setValueAtTime(0, t); g.gain.linearRampToValueAtTime(.11, t + .015); g.gain.exponentialRampToValueAtTime(.001, t + .22);
+      o.connect(g).connect(c.destination); o.start(t); o.stop(t + .24);
+    });
+  }
+  function whoosh() {
+    const c = audio(); if (!c) return;
+    const t = c.currentTime, dur = .9;
+    const buf = c.createBuffer(1, Math.round(c.sampleRate * dur), c.sampleRate);
+    const d = buf.getChannelData(0);
+    for (let i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * (1 - i / d.length);
+    const src = c.createBufferSource(); src.buffer = buf;
+    const bp = c.createBiquadFilter(); bp.type = 'bandpass'; bp.Q.setValueAtTime(.7, t);
+    bp.frequency.setValueAtTime(280, t); bp.frequency.exponentialRampToValueAtTime(2600, t + dur * .8);
+    const g = c.createGain(); g.gain.setValueAtTime(.0001, t); g.gain.linearRampToValueAtTime(.5, t + .15); g.gain.exponentialRampToValueAtTime(.001, t + dur);
+    src.connect(bp).connect(g).connect(c.destination); src.start(t); src.stop(t + dur);
+  }
+  function thump() {
+    const c = audio(); if (!c) return;
+    const t = c.currentTime, o = c.createOscillator(), g = c.createGain();
+    o.type = 'sine'; o.frequency.setValueAtTime(120, t); o.frequency.exponentialRampToValueAtTime(38, t + .35);
+    g.gain.setValueAtTime(.5, t); g.gain.exponentialRampToValueAtTime(.001, t + .4);
+    o.connect(g).connect(c.destination); o.start(t); o.stop(t + .42);
+  }
+
+  function vents() {
+    overlay.querySelectorAll('.vent').forEach((vent, vi) => {
+      for (let i = 0; i < 16; i++) {
+        const p = document.createElement('i');
+        const ang = 20 + Math.random() * 50;
+        const dist = 90 + Math.random() * 160;
+        const side = vi === 0 ? -1 : 1;
+        p.style.setProperty('--dx', (Math.cos(ang * Math.PI / 180) * dist * side) + 'px');
+        p.style.setProperty('--dy', (-Math.abs(Math.sin(ang * Math.PI / 180) * dist) - 40) + 'px');
+        p.style.setProperty('--s', (1.2 + Math.random() * 2).toFixed(2));
+        p.style.setProperty('--d', (i * 18 + Math.random() * 120) + 'ms');
+        p.style.setProperty('--hue', ['var(--violet)', 'var(--pink)', 'var(--teal)', 'var(--gold)'][i % 4]);
+        vent.appendChild(p);
+      }
+    });
+  }
+
+  function finish() {
+    document.body.classList.remove('intro');
+    try { sessionStorage.setItem('sbc.introSeen', '1'); } catch {}
+  }
+  function enter() {
+    if (overlay.classList.contains('go')) return;
+    overlay.classList.add('press'); click();
+    setTimeout(() => { overlay.classList.add('spin'); powerUp(); }, 140);
+    setTimeout(() => { overlay.classList.add('burst'); vents(); whoosh(); }, 620);
+    setTimeout(() => { overlay.classList.add('logo'); thump(); }, 1050);
+    setTimeout(() => { overlay.classList.add('go'); finish(); }, 2000);
+    setTimeout(() => overlay.remove(), 2700);
+  }
+  function skip() {
+    if (overlay.classList.contains('go')) return;
+    overlay.classList.add('go'); finish();
+    setTimeout(() => overlay.remove(), 700);
+  }
+  overlay.querySelector('.deck-btn').addEventListener('click', enter);
+  overlay.querySelector('.intro-skip').addEventListener('click', skip);
+  document.addEventListener('keydown', (e) => {
+    if (overlay.classList.contains('go')) return;
+    if (e.key === 'Escape') skip();
+    if ((e.key === 'Enter' || e.key === ' ') && document.activeElement === overlay.querySelector('.deck-btn')) { e.preventDefault(); enter(); }
+  });
+})();
 
 /* ---------- animowany dym w tle: shader WebGL (GPU, 60 fps), z zapasowym dymem 2D ---------- */
 (function smokeGL() {
