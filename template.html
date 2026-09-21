@@ -303,8 +303,8 @@
   .intro-skip:hover { color: #fff; border-color: rgba(255,255,255,.4); }
   .intro-kicker { font-family: var(--serif); font-size: 11px; letter-spacing: .34em; text-transform: uppercase; color: var(--muted); text-indent: .34em; }
 
-  .deck { position: relative; width: min(480px, 88vw); text-align: center; transition: opacity .4s, transform .4s; }
-  .intro.logo .deck { opacity: 0; transform: scale(.94); }
+  .deck { position: relative; width: min(480px, 88vw); text-align: center; transition: opacity .55s ease, transform .55s ease; }
+  .intro.burst .deck { opacity: 0; transform: scale(.9); }
   .deck-body { position: relative; filter: drop-shadow(0 26px 54px rgba(0,0,0,.55)); }
   .deck-face { width: 100%; height: auto; display: block; }
   .face-edge { fill: none; stroke: rgba(196,181,253,.28); stroke-width: 2; }
@@ -332,7 +332,7 @@
   .deck-btn:focus-visible { outline: 2px solid var(--teal); outline-offset: 3px; }
   .deck-label { margin: 44px 0 0; font-family: var(--serif); font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); }
   .deck-label b { color: var(--gold); }
-  .intro.spin .deck-label, .intro.burst .deck-label, .intro.logo .deck-label { opacity: 0; transition: opacity .2s; }
+  .intro.spin .deck-label, .intro.burst .deck-label { opacity: 0; transition: opacity .2s; }
 
   /* dym z dwóch kratek głośników */
   .vent { position: absolute; width: 0; height: 0; pointer-events: none; z-index: 3; }
@@ -342,16 +342,6 @@
     animation: puff 1.7s ease-out forwards; animation-delay: var(--d, 0ms); }
   @keyframes puff { 0% { opacity: 0; transform: scale(.3) translate(0,0); } 16% { opacity: .55; } 100% { opacity: 0; transform: scale(var(--s,2)) translate(var(--dx,0),var(--dy,-120px)); } }
 
-  .intro-logo { position: absolute; left: 50%; top: 50%; width: min(320px, 58vw); opacity: 0; pointer-events: none; z-index: 4;
-    transform: translate(-50%, -50%) scale(.85);
-    filter: drop-shadow(0 0 44px rgba(167,139,250,.6)); }
-  .intro.logo .intro-logo { animation: logo-flicker 1s steps(1,end) both; }
-  @keyframes logo-flicker {
-    0% { opacity: 0; filter: brightness(3) blur(6px) drop-shadow(0 0 44px rgba(167,139,250,.6)); transform: translate(-50%,-50%) scale(.85); }
-    8% { opacity: 1; } 12% { opacity: .2; } 18% { opacity: 1; } 24% { opacity: .3; }
-    32% { opacity: 1; filter: brightness(1.6) blur(1px) drop-shadow(0 0 44px rgba(167,139,250,.6)); }
-    100% { opacity: 1; filter: brightness(1) blur(0) drop-shadow(0 0 44px rgba(167,139,250,.6)); transform: translate(-50%,-50%) scale(1); }
-  }
   @media (max-width: 640px) { .deck-label { margin-top: 40px; font-size: 11px; } .deck-btn { width: 56px; height: 56px; bottom: -26px; } .deck-btn svg { width: 20px; height: 20px; } }
   @media (prefers-reduced-motion: reduce) { .intro { display: none !important; } }
 </style>
@@ -403,7 +393,6 @@
     </div>
     <p class="deck-label">Naciśnij <b>PLAY</b>, żeby wejść</p>
   </div>
-  <img class="intro-logo" src="logo.png?v=2" alt="" aria-hidden="true">
 </div>
 <canvas id="smoke" aria-hidden="true"></canvas>
 <div class="grain" aria-hidden="true"></div>
@@ -757,9 +746,8 @@ init();
     overlay.classList.add('press'); click();
     setTimeout(() => { overlay.classList.add('spin'); powerUp(); }, 140);
     setTimeout(() => { overlay.classList.add('burst'); vents(); whoosh(); }, 620);
-    setTimeout(() => { overlay.classList.add('logo'); thump(); }, 1050);
-    setTimeout(() => { overlay.classList.add('go'); finish(); }, 2000);
-    setTimeout(() => overlay.remove(), 2700);
+    setTimeout(() => { overlay.classList.add('go'); thump(); finish(); }, 1650);
+    setTimeout(() => overlay.remove(), 2350);
   }
   function skip() {
     if (overlay.classList.contains('go')) return;
