@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:20:47.917Z",
+  "generatedAt": "2026-09-21T05:19:28.102Z",
   "chartDate": "2026-09-21",
   "prevDate": "2026-09-17",
   "channel": {
@@ -810,7 +810,7 @@
       "artist": "TONY LUGO",
       "song": "MOLOTOV",
       "title": "TONY LUGO - MOLOTOV",
-      "views": 2182,
+      "views": 2181,
       "url": "https://www.youtube.com/watch?v=vLGi6q4X9OM",
       "thumb": "https://i.ytimg.com/vi/vLGi6q4X9OM/mqdefault.jpg",
       "publishedText": "19 cze 2024",
@@ -818,7 +818,7 @@
       "move": 0,
       "peak": 35,
       "weeks": 2,
-      "viewsDelta": 4
+      "viewsDelta": 3
     },
     {
       "pos": 36,
