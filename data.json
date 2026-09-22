@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:19:14.919Z",
+  "generatedAt": "2026-09-22T18:24:20.321Z",
   "chartDate": "2026-09-22",
   "prevDate": "2026-09-17",
   "channel": {
@@ -145,7 +145,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 485,
+      "views": 486,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -196,7 +196,7 @@
       "artist": "Tyr0ne",
       "song": "Be Smokin crxBS",
       "title": "Tyr0ne - Be Smokin crxBS",
-      "views": 413,
+      "views": 416,
       "url": "https://www.youtube.com/watch?v=lR_vlC8uh8g",
       "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -204,7 +204,7 @@
       "move": -1,
       "peak": 8,
       "weeks": 2,
-      "viewsDelta": 27
+      "viewsDelta": 30
     },
     {
       "pos": 10,
@@ -368,7 +368,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7401,
+      "views": 7400,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -376,7 +376,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 29
+      "viewsDelta": 28
     },
     {
       "pos": 10,
@@ -385,7 +385,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6776,
+      "views": 6775,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -393,7 +393,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 25
+      "viewsDelta": 24
     },
     {
       "pos": 11,
@@ -691,7 +691,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2750,
+      "views": 2751,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -699,7 +699,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 2,
-      "viewsDelta": 15
+      "viewsDelta": 16
     },
     {
       "pos": 29,
@@ -776,7 +776,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2403,
+      "views": 2402,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -784,7 +784,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 2,
-      "viewsDelta": 3
+      "viewsDelta": 2
     },
     {
       "pos": 34,
@@ -1099,7 +1099,7 @@
       "artist": "WUJA",
       "song": "OneTake Challenge",
       "title": "WUJA - OneTake Challenge",
-      "views": 1348,
+      "views": 1349,
       "url": "https://www.youtube.com/watch?v=vIijY4mwt4M",
       "thumb": "https://i.ytimg.com/vi/vIijY4mwt4M/mqdefault.jpg",
       "publishedText": "21 gru 2025",
@@ -1107,7 +1107,7 @@
       "move": 0,
       "peak": 52,
       "weeks": 2,
-      "viewsDelta": 7
+      "viewsDelta": 8
     },
     {
       "pos": 53,
@@ -2068,7 +2068,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60689,
+      "views": 60687,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -2098,7 +2098,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30265,
+      "views": 30266,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 313248,
+    "views": 313250,
     "songs": 187
   },
   "latest": [
@@ -2190,7 +2190,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 485,
+      "views": 486,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
@@ -2204,7 +2204,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 391,
+      "views": 390,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
