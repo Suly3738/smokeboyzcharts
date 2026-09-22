@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T07:20:51.687Z",
+  "generatedAt": "2026-09-22T08:21:20.252Z",
   "chartDate": "2026-09-22",
   "prevDate": "2026-09-17",
   "channel": {
@@ -179,7 +179,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 432,
+      "views": 444,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 313123,
+    "views": 313135,
     "songs": 187
   },
   "latest": [
@@ -2190,7 +2190,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 432,
+      "views": 444,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
