@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T10:21:17.454Z",
+  "generatedAt": "2026-09-22T11:19:28.724Z",
   "chartDate": "2026-09-22",
   "prevDate": "2026-09-17",
   "channel": {
@@ -157,6 +157,23 @@
     },
     {
       "pos": 7,
+      "id": "MyIL46VKAyM",
+      "isLatest": true,
+      "artist": "ISY",
+      "song": "ZAZA",
+      "title": "ISY - ZAZA",
+      "views": 459,
+      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
+      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
+      "publishedText": "19 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 7,
+      "weeks": 1,
+      "viewsDelta": null
+    },
+    {
+      "pos": 8,
       "id": "eniF9nmftFQ",
       "isLatest": false,
       "artist": "bkluesatan",
@@ -167,27 +184,10 @@
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
       "prevPos": 7,
-      "move": 0,
+      "move": -1,
       "peak": 7,
       "weeks": 2,
       "viewsDelta": 34
-    },
-    {
-      "pos": 8,
-      "id": "MyIL46VKAyM",
-      "isLatest": true,
-      "artist": "ISY",
-      "song": "ZAZA",
-      "title": "ISY - ZAZA",
-      "views": 441,
-      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
-      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
-      "publishedText": "19 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 8,
-      "weeks": 1,
-      "viewsDelta": null
     },
     {
       "pos": 9,
@@ -249,7 +249,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13206,
+      "views": 13207,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -257,7 +257,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 37
+      "viewsDelta": 38
     },
     {
       "pos": 3,
@@ -538,7 +538,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4180,
+      "views": 4181,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -546,7 +546,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 2,
-      "viewsDelta": 8
+      "viewsDelta": 9
     },
     {
       "pos": 20,
@@ -555,7 +555,7 @@
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
-      "views": 3845,
+      "views": 3846,
       "url": "https://www.youtube.com/watch?v=5qM3_rAl8-8",
       "thumb": "https://i.ytimg.com/vi/5qM3_rAl8-8/mqdefault.jpg",
       "publishedText": "11 lip 2024",
@@ -563,7 +563,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 2,
-      "viewsDelta": 13
+      "viewsDelta": 14
     },
     {
       "pos": 21,
@@ -606,7 +606,7 @@
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
-      "views": 3661,
+      "views": 3662,
       "url": "https://www.youtube.com/watch?v=UpFIrX-aWEw",
       "thumb": "https://i.ytimg.com/vi/UpFIrX-aWEw/mqdefault.jpg",
       "publishedText": "4 maj 2024",
@@ -614,7 +614,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 2,
-      "viewsDelta": 10
+      "viewsDelta": 11
     },
     {
       "pos": 24,
@@ -2036,7 +2036,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13206,
+      "views": 13207,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -2044,7 +2044,7 @@
       "move": "new",
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 37
+      "viewsDelta": 38
     },
     {
       "pos": 8,
@@ -2078,7 +2078,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52536,
+      "views": 52537,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -2088,7 +2088,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40459,
+      "views": 40461,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2098,7 +2098,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30261,
+      "views": 30263,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 313136,
+    "views": 313164,
     "songs": 187
   },
   "latest": [
@@ -2176,7 +2176,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 60,
+      "views": 63,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
@@ -2190,7 +2190,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 441,
+      "views": 459,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
@@ -2204,7 +2204,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 384,
+      "views": 387,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
