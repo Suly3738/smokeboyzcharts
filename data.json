@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T14:20:42.039Z",
+  "generatedAt": "2026-09-22T15:19:56.500Z",
   "chartDate": "2026-09-22",
   "prevDate": "2026-09-17",
   "channel": {
@@ -140,37 +140,37 @@
     },
     {
       "pos": 6,
-      "id": "MyIL46VKAyM",
-      "isLatest": true,
-      "artist": "ISY",
-      "song": "ZAZA",
-      "title": "ISY - ZAZA",
-      "views": 475,
-      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
-      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
-      "publishedText": "19 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 6,
-      "weeks": 1,
-      "viewsDelta": null
-    },
-    {
-      "pos": 7,
       "id": "Vu98RAuH5xk",
       "isLatest": false,
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 474,
+      "views": 473,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
       "prevPos": 6,
-      "move": -1,
+      "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 28
+      "viewsDelta": 27
+    },
+    {
+      "pos": 7,
+      "id": "MyIL46VKAyM",
+      "isLatest": true,
+      "artist": "ISY",
+      "song": "ZAZA",
+      "title": "ISY - ZAZA",
+      "views": 461,
+      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
+      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
+      "publishedText": "19 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 7,
+      "weeks": 1,
+      "viewsDelta": null
     },
     {
       "pos": 8,
@@ -1728,7 +1728,7 @@
       "artist": "PEDRO",
       "song": "TARTA",
       "title": "PEDRO - TARTA",
-      "views": 877,
+      "views": 878,
       "url": "https://www.youtube.com/watch?v=nrrPDAFHcxo",
       "thumb": "https://i.ytimg.com/vi/nrrPDAFHcxo/mqdefault.jpg",
       "publishedText": "29 gru 2025",
@@ -1736,7 +1736,7 @@
       "move": 1,
       "peak": 89,
       "weeks": 2,
-      "viewsDelta": 6
+      "viewsDelta": 7
     },
     {
       "pos": 90,
@@ -1951,7 +1951,7 @@
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
       "title": "Soto Brothers - Daj To Głośniej",
-      "views": 265,
+      "views": 263,
       "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
       "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
       "publishedText": "14 wrz 2026",
@@ -1959,7 +1959,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 85
+      "viewsDelta": 83
     },
     {
       "pos": 3,
@@ -2148,7 +2148,7 @@
     {
       "pos": 9,
       "name": "PEDRO",
-      "views": 6949,
+      "views": 6950,
       "songs": 7,
       "bestSong": "DRIFT",
       "bestArtist": "PEDRO",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 313199,
+    "views": 313183,
     "songs": 187
   },
   "latest": [
@@ -2176,7 +2176,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 67,
+      "views": 66,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
@@ -2190,7 +2190,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 475,
+      "views": 461,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
