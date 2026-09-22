@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T09:20:09.288Z",
+  "generatedAt": "2026-09-22T10:21:17.454Z",
   "chartDate": "2026-09-22",
   "prevDate": "2026-09-17",
   "channel": {
@@ -179,7 +179,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 444,
+      "views": 441,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -368,7 +368,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7399,
+      "views": 7400,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -376,7 +376,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 27
+      "viewsDelta": 28
     },
     {
       "pos": 10,
@@ -385,7 +385,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6769,
+      "views": 6771,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -393,7 +393,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 18
+      "viewsDelta": 20
     },
     {
       "pos": 11,
@@ -1677,7 +1677,7 @@
       "artist": "DISCO ANDY",
       "song": "Weź mnie!",
       "title": "DISCO ANDY - Weź mnie!",
-      "views": 895,
+      "views": 896,
       "url": "https://www.youtube.com/watch?v=4HHHYvGbJaA",
       "thumb": "https://i.ytimg.com/vi/4HHHYvGbJaA/mqdefault.jpg",
       "publishedText": "1 mar 2024",
@@ -1685,7 +1685,7 @@
       "move": 0,
       "peak": 84,
       "weeks": 2,
-      "viewsDelta": 0
+      "viewsDelta": 1
     },
     {
       "pos": 87,
@@ -2068,7 +2068,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60677,
+      "views": 60680,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -2190,7 +2190,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 444,
+      "views": 441,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
@@ -2204,7 +2204,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 385,
+      "views": 384,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
