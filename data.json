@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:20:36.704Z",
+  "generatedAt": "2026-09-23T04:20:49.973Z",
   "chartDate": "2026-09-23",
   "prevDate": "2026-09-17",
   "channel": {
@@ -317,7 +317,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9292,
+      "views": 9291,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -325,7 +325,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 30
+      "viewsDelta": 29
     },
     {
       "pos": 7,
@@ -776,7 +776,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2403,
+      "views": 2402,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -784,7 +784,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 2,
-      "viewsDelta": 3
+      "viewsDelta": 2
     },
     {
       "pos": 34,
@@ -2088,7 +2088,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40485,
+      "views": 40484,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2118,7 +2118,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15881,
+      "views": 15880,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 313439,
+    "views": 313437,
     "songs": 187
   },
   "latest": [
