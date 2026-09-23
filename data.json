@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T12:25:07.571Z",
+  "generatedAt": "2026-09-23T13:22:03.918Z",
   "chartDate": "2026-09-23",
   "prevDate": "2026-09-17",
   "channel": {
@@ -162,7 +162,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 473,
+      "views": 474,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -170,7 +170,7 @@
       "move": -1,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 27
+      "viewsDelta": 28
     },
     {
       "pos": 8,
@@ -232,7 +232,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14251,
+      "views": 14252,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -240,7 +240,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 37
+      "viewsDelta": 38
     },
     {
       "pos": 2,
@@ -283,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10876,
+      "views": 10877,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 65
+      "viewsDelta": 66
     },
     {
       "pos": 5,
@@ -385,7 +385,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6778,
+      "views": 6779,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -393,7 +393,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 27
+      "viewsDelta": 28
     },
     {
       "pos": 11,
@@ -946,7 +946,7 @@
       "artist": "Drippy",
       "song": "DRACO",
       "title": "Drippy - DRACO [Oficial Music Video]",
-      "views": 1834,
+      "views": 1835,
       "url": "https://www.youtube.com/watch?v=DFSVSxbg6Bs",
       "thumb": "https://i.ytimg.com/vi/DFSVSxbg6Bs/mqdefault.jpg",
       "publishedText": "4 wrz 2023",
@@ -954,7 +954,7 @@
       "move": 0,
       "peak": 43,
       "weeks": 2,
-      "viewsDelta": 1
+      "viewsDelta": 2
     },
     {
       "pos": 44,
@@ -1099,7 +1099,7 @@
       "artist": "WUJA",
       "song": "OneTake Challenge",
       "title": "WUJA - OneTake Challenge",
-      "views": 1351,
+      "views": 1350,
       "url": "https://www.youtube.com/watch?v=vIijY4mwt4M",
       "thumb": "https://i.ytimg.com/vi/vIijY4mwt4M/mqdefault.jpg",
       "publishedText": "21 gru 2025",
@@ -1107,7 +1107,7 @@
       "move": 0,
       "peak": 52,
       "weeks": 2,
-      "viewsDelta": 10
+      "viewsDelta": 9
     },
     {
       "pos": 53,
@@ -1968,7 +1968,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10876,
+      "views": 10877,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1976,7 +1976,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 65
+      "viewsDelta": 66
     },
     {
       "pos": 4,
@@ -2068,7 +2068,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60711,
+      "views": 60712,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -2078,7 +2078,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52547,
+      "views": 52549,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -2098,7 +2098,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30284,
+      "views": 30283,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2176,7 +2176,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 91,
+      "views": 87,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
