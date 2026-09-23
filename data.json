@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T17:19:56.324Z",
+  "generatedAt": "2026-09-23T18:23:47.884Z",
   "chartDate": "2026-09-23",
   "prevDate": "2026-09-17",
   "channel": {
@@ -18,7 +18,7 @@
   "stats": {
     "source": "YouTube Data API",
     "inexact": 0,
-    "totalVideos": 194,
+    "totalVideos": 195,
     "excluded": [
       {
         "id": "JJ0LXk7V220",
@@ -49,8 +49,8 @@
         "title": "𝗣𝗜𝗫𝗔 𝟯.𝟬 | 𝗣𝗥𝗘𝘁𝗲𝗮𝘀𝗲𝗿"
       }
     ],
-    "nowPoolSize": 26,
-    "allTimePoolSize": 187
+    "nowPoolSize": 27,
+    "allTimePoolSize": 188
   },
   "now": [
     {
@@ -60,7 +60,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2169,
+      "views": 2170,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -68,7 +68,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 185
+      "viewsDelta": 186
     },
     {
       "pos": 2,
@@ -77,7 +77,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1267,
+      "views": 1268,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -85,7 +85,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 3,
@@ -94,7 +94,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 973,
+      "views": 975,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -102,7 +102,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 52
+      "viewsDelta": 54
     },
     {
       "pos": 4,
@@ -145,7 +145,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 541,
+      "views": 545,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -209,11 +209,11 @@
     {
       "pos": 10,
       "id": "XZDzVAVCT8Y",
-      "isLatest": true,
+      "isLatest": false,
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 400,
+      "views": 403,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
@@ -232,7 +232,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14253,
+      "views": 14254,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -240,7 +240,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 2,
@@ -419,7 +419,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6668,
+      "views": 6669,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -427,7 +427,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 2,
-      "viewsDelta": 32
+      "viewsDelta": 33
     },
     {
       "pos": 13,
@@ -827,7 +827,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2169,
+      "views": 2170,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -835,7 +835,7 @@
       "move": 4,
       "peak": 36,
       "weeks": 2,
-      "viewsDelta": 185
+      "viewsDelta": 186
     },
     {
       "pos": 37,
@@ -1150,7 +1150,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1267,
+      "views": 1268,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -1158,7 +1158,7 @@
       "move": 3,
       "peak": 55,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 56,
@@ -1417,6 +1417,23 @@
     },
     {
       "pos": 71,
+      "id": "_yAfcKGcz7Y",
+      "isLatest": false,
+      "artist": "Tiny Shuj",
+      "song": "Nowy cali G",
+      "title": "Tiny Shuj - Nowy cali G",
+      "views": 975,
+      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
+      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
+      "publishedText": "17 sie 2026",
+      "prevPos": 81,
+      "move": 10,
+      "peak": 71,
+      "weeks": 2,
+      "viewsDelta": 54
+    },
+    {
+      "pos": 72,
       "id": "hMyLUL-jFc8",
       "isLatest": false,
       "artist": "PEDRO X RUBEN",
@@ -1427,27 +1444,10 @@
       "thumb": "https://i.ytimg.com/vi/hMyLUL-jFc8/mqdefault.jpg",
       "publishedText": "10 lut 2026",
       "prevPos": 71,
-      "move": 0,
+      "move": -1,
       "peak": 71,
       "weeks": 2,
       "viewsDelta": 2
-    },
-    {
-      "pos": 72,
-      "id": "_yAfcKGcz7Y",
-      "isLatest": false,
-      "artist": "Tiny Shuj",
-      "song": "Nowy cali G",
-      "title": "Tiny Shuj - Nowy cali G",
-      "views": 973,
-      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
-      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
-      "publishedText": "17 sie 2026",
-      "prevPos": 81,
-      "move": 9,
-      "peak": 72,
-      "weeks": 2,
-      "viewsDelta": 52
     },
     {
       "pos": 73,
@@ -1694,7 +1694,7 @@
       "artist": "LUGO",
       "song": "OneTake Challenge",
       "title": "LUGO - OneTake Challenge",
-      "views": 888,
+      "views": 889,
       "url": "https://www.youtube.com/watch?v=uOJYL_ZA3Lg",
       "thumb": "https://i.ytimg.com/vi/uOJYL_ZA3Lg/mqdefault.jpg",
       "publishedText": "18 gru 2025",
@@ -1702,7 +1702,7 @@
       "move": 1,
       "peak": 87,
       "weeks": 2,
-      "viewsDelta": 12
+      "viewsDelta": 13
     },
     {
       "pos": 88,
@@ -1934,7 +1934,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2169,
+      "views": 2170,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1942,7 +1942,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 185
+      "viewsDelta": 186
     },
     {
       "pos": 2,
@@ -1980,6 +1980,23 @@
     },
     {
       "pos": 4,
+      "id": "_yAfcKGcz7Y",
+      "isLatest": false,
+      "artist": "Tiny Shuj",
+      "song": "Nowy cali G",
+      "title": "Tiny Shuj - Nowy cali G",
+      "views": 975,
+      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
+      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
+      "publishedText": "17 sie 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 4,
+      "weeks": 1,
+      "viewsDelta": 54
+    },
+    {
+      "pos": 5,
       "id": "xRKgD_-BJQs",
       "isLatest": false,
       "artist": "88Dushane",
@@ -1991,26 +2008,9 @@
       "publishedText": "13 paź 2023",
       "prevPos": null,
       "move": "new",
-      "peak": 4,
+      "peak": 5,
       "weeks": 1,
       "viewsDelta": 54
-    },
-    {
-      "pos": 5,
-      "id": "_yAfcKGcz7Y",
-      "isLatest": false,
-      "artist": "Tiny Shuj",
-      "song": "Nowy cali G",
-      "title": "Tiny Shuj - Nowy cali G",
-      "views": 973,
-      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
-      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
-      "publishedText": "17 sie 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 4,
-      "weeks": 1,
-      "viewsDelta": 52
     },
     {
       "pos": 6,
@@ -2078,7 +2078,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52552,
+      "views": 52553,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -2088,7 +2088,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40494,
+      "views": 40495,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2167,16 +2167,30 @@
     }
   ],
   "totals": {
-    "views": 313512,
-    "songs": 187
+    "views": 313533,
+    "songs": 188
   },
   "latest": [
+    {
+      "id": "tqf-3o0PhxM",
+      "artist": "Pablo Soto & D.G",
+      "song": "Z nami",
+      "title": "Pablo Soto & D.G - Z nami",
+      "views": 5,
+      "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
+      "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
+      "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
+      "publishedAt": "2026-09-23T18:00:22Z",
+      "publishedText": "23 wrz 2026",
+      "isNew": true,
+      "viewsDelta": null
+    },
     {
       "id": "7VY0otyAwi4",
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 95,
+      "views": 96,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
@@ -2190,26 +2204,12 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 541,
+      "views": 545,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MyIL46VKAyM/hqdefault.jpg",
       "publishedAt": "2026-09-19T21:01:18Z",
       "publishedText": "19 wrz 2026",
-      "isNew": true,
-      "viewsDelta": null
-    },
-    {
-      "id": "XZDzVAVCT8Y",
-      "artist": "Tyr0ne",
-      "song": "Biegnij",
-      "title": "Tyr0ne - Biegnij",
-      "views": 400,
-      "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
-      "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/XZDzVAVCT8Y/hqdefault.jpg",
-      "publishedAt": "2026-09-17T19:00:06Z",
-      "publishedText": "17 wrz 2026",
       "isNew": true,
       "viewsDelta": null
     }
