@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:19:20.647Z",
+  "generatedAt": "2026-09-24T18:23:45.438Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -79,7 +79,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1276,
+      "views": 1277,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -87,7 +87,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 48
+      "viewsDelta": 49
     },
     {
       "pos": 3,
@@ -187,7 +187,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 461,
+      "views": 463,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -195,10 +195,28 @@
       "move": -1,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 40
+      "viewsDelta": 42
     },
     {
       "pos": 9,
+      "id": "XZDzVAVCT8Y",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "Tyr0ne",
+      "song": "Biegnij",
+      "title": "Tyr0ne - Biegnij",
+      "views": 426,
+      "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
+      "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
+      "publishedText": "17 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 9,
+      "weeks": 1,
+      "viewsDelta": null
+    },
+    {
+      "pos": 10,
       "id": "lR_vlC8uh8g",
       "isLatest": false,
       "cancelled": false,
@@ -210,28 +228,10 @@
       "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
       "prevPos": 8,
-      "move": -1,
+      "move": -2,
       "peak": 8,
       "weeks": 2,
       "viewsDelta": 39
-    },
-    {
-      "pos": 10,
-      "id": "XZDzVAVCT8Y",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "Tyr0ne",
-      "song": "Biegnij",
-      "title": "Tyr0ne - Biegnij",
-      "views": 421,
-      "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
-      "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
-      "publishedText": "17 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 10,
-      "weeks": 1,
-      "viewsDelta": null
     }
   ],
   "allTime": [
@@ -243,7 +243,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14258,
+      "views": 14260,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -251,7 +251,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 44
+      "viewsDelta": 46
     },
     {
       "pos": 2,
@@ -279,7 +279,7 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12412,
+      "views": 12414,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -287,7 +287,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 41
     },
     {
       "pos": 4,
@@ -297,7 +297,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10879,
+      "views": 10880,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -305,7 +305,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 68
+      "viewsDelta": 69
     },
     {
       "pos": 5,
@@ -351,7 +351,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8225,
+      "views": 8226,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -359,7 +359,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 35
+      "viewsDelta": 36
     },
     {
       "pos": 8,
@@ -423,7 +423,7 @@
       "artist": "TONY LUGO",
       "song": "88 (Snapmatic Video)",
       "title": "TONY LUGO - 88 (Snapmatic Video)",
-      "views": 6723,
+      "views": 6725,
       "url": "https://www.youtube.com/watch?v=Pun1oxeNjE8",
       "thumb": "https://i.ytimg.com/vi/Pun1oxeNjE8/mqdefault.jpg",
       "publishedText": "7 lut 2024",
@@ -431,7 +431,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 2,
-      "viewsDelta": 15
+      "viewsDelta": 17
     },
     {
       "pos": 12,
@@ -477,7 +477,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6152,
+      "views": 6153,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -485,7 +485,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 2,
-      "viewsDelta": 38
+      "viewsDelta": 39
     },
     {
       "pos": 15,
@@ -531,7 +531,7 @@
       "artist": "WUJA",
       "song": "ALL ALONE",
       "title": "WUJA - ALL ALONE",
-      "views": 4612,
+      "views": 4611,
       "url": "https://www.youtube.com/watch?v=4k7sgidRPDI",
       "thumb": "https://i.ytimg.com/vi/4k7sgidRPDI/mqdefault.jpg",
       "publishedText": "9 cze 2024",
@@ -539,7 +539,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 2,
-      "viewsDelta": 26
+      "viewsDelta": 25
     },
     {
       "pos": 18,
@@ -585,7 +585,7 @@
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
-      "views": 3848,
+      "views": 3849,
       "url": "https://www.youtube.com/watch?v=5qM3_rAl8-8",
       "thumb": "https://i.ytimg.com/vi/5qM3_rAl8-8/mqdefault.jpg",
       "publishedText": "11 lip 2024",
@@ -593,7 +593,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 2,
-      "viewsDelta": 16
+      "viewsDelta": 17
     },
     {
       "pos": 21,
@@ -639,7 +639,7 @@
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
-      "views": 3662,
+      "views": 3663,
       "url": "https://www.youtube.com/watch?v=UpFIrX-aWEw",
       "thumb": "https://i.ytimg.com/vi/UpFIrX-aWEw/mqdefault.jpg",
       "publishedText": "4 maj 2024",
@@ -647,7 +647,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 2,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 24,
@@ -729,7 +729,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2768,
+      "views": 2770,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -737,7 +737,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 2,
-      "viewsDelta": 33
+      "viewsDelta": 35
     },
     {
       "pos": 29,
@@ -1181,7 +1181,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10879,
+      "views": 10880,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1189,7 +1189,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 68
+      "viewsDelta": 69
     },
     {
       "pos": 4,
@@ -1271,7 +1271,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1276,
+      "views": 1277,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -1279,14 +1279,14 @@
       "move": "new",
       "peak": 8,
       "weeks": 1,
-      "viewsDelta": 48
+      "viewsDelta": 49
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60759,
+      "views": 60760,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1296,7 +1296,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52569,
+      "views": 52577,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1306,7 +1306,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40533,
+      "views": 40537,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1316,7 +1316,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30319,
+      "views": 30318,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1385,7 +1385,7 @@
     }
   ],
   "totals": {
-    "views": 314238,
+    "views": 314309,
     "songs": 189
   },
   "latest": [
@@ -1394,7 +1394,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 243,
+      "views": 279,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1408,7 +1408,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 127,
+      "views": 135,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
@@ -1422,7 +1422,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 113,
+      "views": 114,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
