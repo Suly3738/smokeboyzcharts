@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:59:59.448Z",
+  "generatedAt": "2026-09-24T13:00:32.138Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -333,7 +333,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9296,
+      "views": 9297,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -341,7 +341,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 34
+      "viewsDelta": 35
     },
     {
       "pos": 7,
@@ -387,7 +387,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7412,
+      "views": 7413,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -395,7 +395,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 40
+      "viewsDelta": 41
     },
     {
       "pos": 10,
@@ -657,7 +657,7 @@
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
-      "views": 3591,
+      "views": 3593,
       "url": "https://www.youtube.com/watch?v=Lap3gXlJk1Q",
       "thumb": "https://i.ytimg.com/vi/Lap3gXlJk1Q/mqdefault.jpg",
       "publishedText": "4 kwi 2024",
@@ -665,7 +665,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 2,
-      "viewsDelta": 13
+      "viewsDelta": 15
     },
     {
       "pos": 25,
@@ -729,7 +729,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2767,
+      "views": 2768,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -737,7 +737,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 2,
-      "viewsDelta": 32
+      "viewsDelta": 33
     },
     {
       "pos": 29,
@@ -1286,7 +1286,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60753,
+      "views": 60754,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1306,7 +1306,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40527,
+      "views": 40530,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1316,7 +1316,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30310,
+      "views": 30313,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1336,7 +1336,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15890,
+      "views": 15891,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1385,7 +1385,7 @@
     }
   ],
   "totals": {
-    "views": 314137,
+    "views": 314150,
     "songs": 189
   },
   "latest": [
@@ -1394,7 +1394,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 224,
+      "views": 212,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1408,7 +1408,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 119,
+      "views": 114,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
