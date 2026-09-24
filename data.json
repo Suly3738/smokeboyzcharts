@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:21:59.406Z",
+  "generatedAt": "2026-09-24T14:21:21.322Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -97,7 +97,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 984,
+      "views": 985,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -105,7 +105,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 63
+      "viewsDelta": 64
     },
     {
       "pos": 4,
@@ -151,7 +151,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 585,
+      "views": 588,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -223,7 +223,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 420,
+      "views": 421,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
@@ -261,7 +261,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13233,
+      "views": 13235,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -269,7 +269,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 64
+      "viewsDelta": 66
     },
     {
       "pos": 3,
@@ -297,7 +297,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10878,
+      "views": 10879,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -305,7 +305,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 67
+      "viewsDelta": 68
     },
     {
       "pos": 5,
@@ -387,7 +387,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7413,
+      "views": 7415,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -395,7 +395,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 41
+      "viewsDelta": 43
     },
     {
       "pos": 10,
@@ -405,7 +405,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6792,
+      "views": 6793,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -413,7 +413,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 41
+      "viewsDelta": 42
     },
     {
       "pos": 11,
@@ -903,6 +903,24 @@
     },
     {
       "pos": 38,
+      "id": "Txsb4t6nBE4",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
+      "song": "Te Quiero Mucho",
+      "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
+      "views": 2050,
+      "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
+      "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
+      "publishedText": "30 sty 2026",
+      "prevPos": 38,
+      "move": 0,
+      "peak": 38,
+      "weeks": 2,
+      "viewsDelta": 39
+    },
+    {
+      "pos": 39,
       "id": "MlgzXmZMxVo",
       "isLatest": false,
       "cancelled": false,
@@ -914,28 +932,10 @@
       "thumb": "https://i.ytimg.com/vi/MlgzXmZMxVo/mqdefault.jpg",
       "publishedText": "12 sie 2024",
       "prevPos": 36,
-      "move": -2,
+      "move": -3,
       "peak": 36,
       "weeks": 2,
       "viewsDelta": 1
-    },
-    {
-      "pos": 39,
-      "id": "Txsb4t6nBE4",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
-      "song": "Te Quiero Mucho",
-      "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2049,
-      "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
-      "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
-      "publishedText": "30 sty 2026",
-      "prevPos": 38,
-      "move": -1,
-      "peak": 38,
-      "weeks": 2,
-      "viewsDelta": 38
     },
     {
       "pos": 40,
@@ -1181,7 +1181,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10878,
+      "views": 10879,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1189,7 +1189,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 67
+      "viewsDelta": 68
     },
     {
       "pos": 4,
@@ -1199,7 +1199,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13233,
+      "views": 13235,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1207,7 +1207,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 64
+      "viewsDelta": 66
     },
     {
       "pos": 5,
@@ -1217,7 +1217,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 984,
+      "views": 985,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1225,7 +1225,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 63
+      "viewsDelta": 64
     },
     {
       "pos": 6,
@@ -1286,7 +1286,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60754,
+      "views": 60757,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1296,7 +1296,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52567,
+      "views": 52568,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1306,7 +1306,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40530,
+      "views": 40532,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1316,7 +1316,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30313,
+      "views": 30315,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1385,7 +1385,7 @@
     }
   ],
   "totals": {
-    "views": 314150,
+    "views": 314187,
     "songs": 189
   },
   "latest": [
@@ -1394,7 +1394,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 212,
+      "views": 224,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1408,7 +1408,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 114,
+      "views": 124,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
