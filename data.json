@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:11:57.979Z",
+  "generatedAt": "2026-09-24T13:13:18.596Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -151,7 +151,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 583,
+      "views": 585,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -261,7 +261,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13232,
+      "views": 13233,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -269,7 +269,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 63
+      "viewsDelta": 64
     },
     {
       "pos": 3,
@@ -351,7 +351,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8224,
+      "views": 8225,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -359,7 +359,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 34
+      "viewsDelta": 35
     },
     {
       "pos": 8,
@@ -387,7 +387,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7413,
+      "views": 7414,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -395,7 +395,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 41
+      "viewsDelta": 42
     },
     {
       "pos": 10,
@@ -1193,6 +1193,24 @@
     },
     {
       "pos": 4,
+      "id": "dXNQgu1agkg",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "BABY FLAMESTA x WUJA",
+      "song": "GANG SHIT NO LAME SHIT",
+      "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
+      "views": 13233,
+      "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
+      "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
+      "publishedText": "26 kwi 2024",
+      "prevPos": null,
+      "move": "new",
+      "peak": 4,
+      "weeks": 1,
+      "viewsDelta": 64
+    },
+    {
+      "pos": 5,
       "id": "_yAfcKGcz7Y",
       "isLatest": false,
       "cancelled": false,
@@ -1206,24 +1224,6 @@
       "prevPos": null,
       "move": "new",
       "peak": 4,
-      "weeks": 1,
-      "viewsDelta": 63
-    },
-    {
-      "pos": 5,
-      "id": "dXNQgu1agkg",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "BABY FLAMESTA x WUJA",
-      "song": "GANG SHIT NO LAME SHIT",
-      "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13232,
-      "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
-      "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
-      "publishedText": "26 kwi 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 5,
       "weeks": 1,
       "viewsDelta": 63
     },
@@ -1286,7 +1286,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60754,
+      "views": 60755,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1306,7 +1306,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40528,
+      "views": 40530,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1316,7 +1316,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30312,
+      "views": 30313,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1385,7 +1385,7 @@
     }
   ],
   "totals": {
-    "views": 314146,
+    "views": 314151,
     "songs": 189
   },
   "latest": [
