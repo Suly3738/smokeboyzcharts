@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:18:53.410Z",
+  "generatedAt": "2026-09-24T02:20:00.897Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -145,7 +145,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 568,
+      "views": 569,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -213,7 +213,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 411,
+      "views": 418,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
@@ -351,7 +351,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7925,
+      "views": 7924,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -359,7 +359,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 2,
-      "viewsDelta": 59
+      "viewsDelta": 58
     },
     {
       "pos": 9,
@@ -453,7 +453,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6150,
+      "views": 6151,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -461,7 +461,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 2,
-      "viewsDelta": 36
+      "viewsDelta": 37
     },
     {
       "pos": 15,
@@ -691,7 +691,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2764,
+      "views": 2765,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -699,7 +699,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 2,
-      "viewsDelta": 29
+      "viewsDelta": 30
     },
     {
       "pos": 29,
@@ -878,7 +878,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2047,
+      "views": 2048,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -886,7 +886,7 @@
       "move": -1,
       "peak": 38,
       "weeks": 2,
-      "viewsDelta": 36
+      "viewsDelta": 37
     },
     {
       "pos": 40,
@@ -1048,7 +1048,7 @@
       "artist": "88TRAY",
       "song": "WYJAŚNIENIE",
       "title": "88TRAY - WYJAŚNIENIE",
-      "views": 1536,
+      "views": 1535,
       "url": "https://www.youtube.com/watch?v=F3wUp8JkMTU",
       "thumb": "https://i.ytimg.com/vi/F3wUp8JkMTU/mqdefault.jpg",
       "publishedText": "19 sty 2024",
@@ -1056,7 +1056,7 @@
       "move": 0,
       "peak": 49,
       "weeks": 2,
-      "viewsDelta": 6
+      "viewsDelta": 5
     },
     {
       "pos": 50,
@@ -1655,23 +1655,6 @@
     },
     {
       "pos": 85,
-      "id": "4HHHYvGbJaA",
-      "isLatest": false,
-      "artist": "DISCO ANDY",
-      "song": "Weź mnie!",
-      "title": "DISCO ANDY - Weź mnie!",
-      "views": 897,
-      "url": "https://www.youtube.com/watch?v=4HHHYvGbJaA",
-      "thumb": "https://i.ytimg.com/vi/4HHHYvGbJaA/mqdefault.jpg",
-      "publishedText": "1 mar 2024",
-      "prevPos": 86,
-      "move": 1,
-      "peak": 84,
-      "weeks": 2,
-      "viewsDelta": 2
-    },
-    {
-      "pos": 86,
       "id": "NjWkY7FBuHk",
       "isLatest": false,
       "artist": "LILS4MURA1",
@@ -1682,8 +1665,25 @@
       "thumb": "https://i.ytimg.com/vi/NjWkY7FBuHk/mqdefault.jpg",
       "publishedText": "11 lip 2024",
       "prevPos": 85,
-      "move": -1,
+      "move": 0,
       "peak": 85,
+      "weeks": 2,
+      "viewsDelta": 1
+    },
+    {
+      "pos": 86,
+      "id": "4HHHYvGbJaA",
+      "isLatest": false,
+      "artist": "DISCO ANDY",
+      "song": "Weź mnie!",
+      "title": "DISCO ANDY - Weź mnie!",
+      "views": 896,
+      "url": "https://www.youtube.com/watch?v=4HHHYvGbJaA",
+      "thumb": "https://i.ytimg.com/vi/4HHHYvGbJaA/mqdefault.jpg",
+      "publishedText": "1 mar 2024",
+      "prevPos": 86,
+      "move": 0,
+      "peak": 84,
       "weeks": 2,
       "viewsDelta": 1
     },
@@ -2019,7 +2019,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7925,
+      "views": 7924,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -2027,7 +2027,7 @@
       "move": "new",
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 59
+      "viewsDelta": 58
     },
     {
       "pos": 7,
@@ -2088,7 +2088,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40519,
+      "views": 40520,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2138,7 +2138,7 @@
     {
       "pos": 8,
       "name": "88TRAY",
-      "views": 7350,
+      "views": 7349,
       "songs": 4,
       "bestSong": "4 A.M.",
       "bestArtist": "88TRAY",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 313883,
+    "views": 313953,
     "songs": 189
   },
   "latest": [
@@ -2176,7 +2176,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 92,
+      "views": 136,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -2190,7 +2190,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 51,
+      "views": 65,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
@@ -2204,7 +2204,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 104,
+      "views": 110,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
