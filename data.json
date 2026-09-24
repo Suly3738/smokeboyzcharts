@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T12:57:12.590Z",
+  "generatedAt": "2026-09-24T12:57:55.232Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -151,7 +151,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 583,
+      "views": 585,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -261,7 +261,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13232,
+      "views": 13233,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -269,7 +269,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 63
+      "viewsDelta": 64
     },
     {
       "pos": 3,
@@ -351,7 +351,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8224,
+      "views": 8225,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -359,7 +359,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 34
+      "viewsDelta": 35
     },
     {
       "pos": 8,
@@ -2093,6 +2093,24 @@
     },
     {
       "pos": 4,
+      "id": "dXNQgu1agkg",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "BABY FLAMESTA x WUJA",
+      "song": "GANG SHIT NO LAME SHIT",
+      "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
+      "views": 13233,
+      "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
+      "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
+      "publishedText": "26 kwi 2024",
+      "prevPos": null,
+      "move": "new",
+      "peak": 4,
+      "weeks": 1,
+      "viewsDelta": 64
+    },
+    {
+      "pos": 5,
       "id": "_yAfcKGcz7Y",
       "isLatest": false,
       "cancelled": false,
@@ -2106,24 +2124,6 @@
       "prevPos": null,
       "move": "new",
       "peak": 4,
-      "weeks": 1,
-      "viewsDelta": 63
-    },
-    {
-      "pos": 5,
-      "id": "dXNQgu1agkg",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "BABY FLAMESTA x WUJA",
-      "song": "GANG SHIT NO LAME SHIT",
-      "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13232,
-      "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
-      "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
-      "publishedText": "26 kwi 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 5,
       "weeks": 1,
       "viewsDelta": 63
     },
@@ -2206,7 +2206,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40528,
+      "views": 40530,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2216,7 +2216,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30312,
+      "views": 30313,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -2285,7 +2285,7 @@
     }
   ],
   "totals": {
-    "views": 314146,
+    "views": 314167,
     "songs": 189
   },
   "latest": [
@@ -2294,7 +2294,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 212,
+      "views": 224,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -2308,7 +2308,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 114,
+      "views": 119,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
