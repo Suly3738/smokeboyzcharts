@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T09:21:28.242Z",
+  "generatedAt": "2026-09-24T10:20:29.778Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -60,7 +60,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2189,
+      "views": 2190,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -68,7 +68,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 205
+      "viewsDelta": 206
     },
     {
       "pos": 2,
@@ -94,7 +94,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 983,
+      "views": 984,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -102,7 +102,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 62
+      "viewsDelta": 63
     },
     {
       "pos": 4,
@@ -145,7 +145,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 580,
+      "views": 581,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -232,7 +232,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14256,
+      "views": 14257,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -240,7 +240,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 42
+      "viewsDelta": 43
     },
     {
       "pos": 2,
@@ -810,7 +810,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2189,
+      "views": 2190,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -818,7 +818,7 @@
       "move": 5,
       "peak": 35,
       "weeks": 2,
-      "viewsDelta": 205
+      "viewsDelta": 206
     },
     {
       "pos": 36,
@@ -1422,7 +1422,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 983,
+      "views": 984,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1430,7 +1430,7 @@
       "move": 10,
       "peak": 71,
       "weeks": 2,
-      "viewsDelta": 62
+      "viewsDelta": 63
     },
     {
       "pos": 72,
@@ -1934,7 +1934,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2189,
+      "views": 2190,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1942,7 +1942,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 205
+      "viewsDelta": 206
     },
     {
       "pos": 2,
@@ -1985,7 +1985,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 983,
+      "views": 984,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1993,7 +1993,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 62
+      "viewsDelta": 63
     },
     {
       "pos": 5,
@@ -2078,7 +2078,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52564,
+      "views": 52565,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 314086,
+    "views": 314097,
     "songs": 189
   },
   "latest": [
@@ -2176,7 +2176,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 200,
+      "views": 203,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -2190,7 +2190,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 106,
+      "views": 108,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
