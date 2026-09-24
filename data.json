@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:18:31.265Z",
+  "generatedAt": "2026-09-24T20:21:29.673Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -61,7 +61,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2195,
+      "views": 2194,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -69,7 +69,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 211
+      "viewsDelta": 210
     },
     {
       "pos": 2,
@@ -151,7 +151,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 602,
+      "views": 591,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -199,6 +199,24 @@
     },
     {
       "pos": 9,
+      "id": "XZDzVAVCT8Y",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "Tyr0ne",
+      "song": "Biegnij",
+      "title": "Tyr0ne - Biegnij",
+      "views": 426,
+      "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
+      "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
+      "publishedText": "17 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 9,
+      "weeks": 1,
+      "viewsDelta": null
+    },
+    {
+      "pos": 10,
       "id": "lR_vlC8uh8g",
       "isLatest": false,
       "cancelled": false,
@@ -210,28 +228,10 @@
       "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
       "prevPos": 8,
-      "move": -1,
+      "move": -2,
       "peak": 8,
       "weeks": 2,
       "viewsDelta": 39
-    },
-    {
-      "pos": 10,
-      "id": "XZDzVAVCT8Y",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "Tyr0ne",
-      "song": "Biegnij",
-      "title": "Tyr0ne - Biegnij",
-      "views": 421,
-      "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
-      "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
-      "publishedText": "17 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 10,
-      "weeks": 1,
-      "viewsDelta": null
     }
   ],
   "allTime": [
@@ -333,7 +333,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9299,
+      "views": 9302,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -341,7 +341,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 37
+      "viewsDelta": 40
     },
     {
       "pos": 7,
@@ -819,7 +819,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2404,
+      "views": 2405,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -827,7 +827,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 2,
-      "viewsDelta": 4
+      "viewsDelta": 5
     },
     {
       "pos": 34,
@@ -855,7 +855,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2195,
+      "views": 2194,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -863,7 +863,7 @@
       "move": 5,
       "peak": 35,
       "weeks": 2,
-      "viewsDelta": 211
+      "viewsDelta": 210
     },
     {
       "pos": 36,
@@ -1145,7 +1145,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2195,
+      "views": 2194,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1153,7 +1153,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 211
+      "viewsDelta": 210
     },
     {
       "pos": 2,
@@ -1306,7 +1306,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40538,
+      "views": 40539,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1316,7 +1316,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30321,
+      "views": 30322,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1336,7 +1336,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15893,
+      "views": 15896,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1385,7 +1385,7 @@
     }
   ],
   "totals": {
-    "views": 314296,
+    "views": 314328,
     "songs": 189
   },
   "latest": [
@@ -1394,7 +1394,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 249,
+      "views": 279,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1408,7 +1408,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 131,
+      "views": 135,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
