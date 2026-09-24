@@ -4,7 +4,7 @@ Cotygodniowe notowanie utworów z kanału YouTube **Pixa Roleplay** (w stylu Bil
 
 ## Jak używać
 
-- **Otwórz notowanie:** `index.html` (dwuklik) – zakładki *Top 10 Now* i *Top 100 All Time*.
+- **Otwórz notowanie:** `index.html` (dwuklik) – zakładki *Top 10 Now* i *Top 50 All Time*.
 - **Odśwież ręcznie:** `update.cmd` (ok. 40 s). Log z ostatniego uruchomienia: `logs\last-run.log`.
 - **Automatycznie:** zadanie „PixaCharts Weekly” w Harmonogramie zadań Windows uruchamia `update.cmd`
   codziennie o 9:00 (jeśli komputer był wyłączony – przy najbliższym włączeniu).
@@ -12,7 +12,7 @@ Cotygodniowe notowanie utworów z kanału YouTube **Pixa Roleplay** (w stylu Bil
 ## Zasady notowań
 
 - **Top 10 Now** – utwory wydane od „Tiny Shuj - Nowy cali G” włącznie (wszystko nowsze na kanale), posortowane po wyświetleniach.
-- **Top 100 All Time** – wszystkie filmy z kanału oprócz tych z „PIXA” w tytule, posortowane po wyświetleniach.
+- **Top 50 All Time** – wszystkie filmy z kanału oprócz tych z „PIXA” w tytule, posortowane po wyświetleniach.
 - Wyświetlenia są dokładne (pobierane per film), nie zaokrąglone jak na liście kanału.
 - Każde uruchomienie zapisuje migawkę w `history.json`; na jej podstawie liczone są strzałki ▲▼, NEW, „szczyt” i „tyg. w notowaniu”.
   Ponowne uruchomienie tego samego dnia nadpisuje migawkę z tego dnia (nie tworzy sztucznego „tygodnia”).
