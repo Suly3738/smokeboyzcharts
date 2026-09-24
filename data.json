@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T03:20:05.653Z",
+  "generatedAt": "2026-09-24T04:20:43.880Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -232,7 +232,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14257,
+      "views": 14256,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -240,7 +240,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 43
+      "viewsDelta": 42
     },
     {
       "pos": 2,
@@ -2078,7 +2078,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52566,
+      "views": 52565,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -2167,7 +2167,7 @@
     }
   ],
   "totals": {
-    "views": 314022,
+    "views": 314021,
     "songs": 189
   },
   "latest": [
