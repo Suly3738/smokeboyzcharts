@@ -639,12 +639,14 @@ function init() {
     tabs.forEach(t => t.setAttribute('aria-selected', t === tab));
     movePill(tab);
     const next = document.getElementById(tab.getAttribute('aria-controls'));
-    const prevPanel = current ? document.getElementById(current.getAttribute('aria-controls')) : null;
+    // szukamy w DOM, nie w zmiennej current: przy starcie current bywa null,
+    // a panel-now jest już oznaczony jako active w znaczniku HTML
+    const prevPanel = document.querySelector('.panel.active, .panel.leaving');
     current = tab;
     try { localStorage.setItem('smokeboyzcharts.tab', tab.id); } catch {}
 
-    if (!prevPanel || instant || reduced) {
-      if (prevPanel) prevPanel.classList.remove('active', 'leaving');
+    if (!prevPanel || prevPanel === next || instant || reduced) {
+      if (prevPanel && prevPanel !== next) prevPanel.classList.remove('active', 'leaving');
       show(next);
       return;
     }
@@ -762,6 +764,9 @@ init();
   }
   overlay.querySelector('.deck-btn').addEventListener('click', enter);
   overlay.querySelector('.intro-skip').addEventListener('click', skip);
+  // klik gdziekolwiek w tło (np. niecierpliwe kliknięcie w miejsce, gdzie pod spodem są zakładki)
+  // od razu pomija intro, żeby strona nie sprawiała wrażenia zawieszonej
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) skip(); });
   document.addEventListener('keydown', (e) => {
     if (overlay.classList.contains('go')) return;
     if (e.key === 'Escape') skip();
