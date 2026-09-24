@@ -176,6 +176,11 @@
     color: #06202a; background: linear-gradient(135deg, #67e8f9, #2dd4bf); border-radius: 6px; padding: 3px 7px 2px; box-shadow: 0 0 14px rgba(45,212,191,.5); animation: tag-pulse 2.4s ease-in-out infinite; }
   @keyframes tag-pulse { 0%, 100% { box-shadow: 0 0 10px rgba(45,212,191,.35); } 50% { box-shadow: 0 0 18px rgba(45,212,191,.75); } }
   @media (prefers-reduced-motion: reduce) { .tag-new { animation: none; } }
+  /* znacznik CANCELLED – utwór ściągnięty/anulowany (config.cancelledIds) */
+  .song.is-cancelled, .artist.is-cancelled { text-decoration: line-through; text-decoration-color: rgba(255,0,51,.85); text-decoration-thickness: 2px; opacity: .55; }
+  .tag-cancelled { display: inline-block; vertical-align: 2px; margin-left: 8px; font-family: var(--serif); font-size: 10px; font-weight: 800; letter-spacing: .2em;
+    color: #fff; background: linear-gradient(135deg, #ff0033, #7f001a); border-radius: 6px; padding: 3px 7px 2px; box-shadow: 0 0 14px rgba(255,0,51,.5); }
+  li.row.is-cancelled .thumb img { filter: grayscale(1); opacity: .5; }
   .views { text-align: right; font-variant-numeric: tabular-nums; }
   .views b { display: block; font-size: 19px; color: var(--bright); font-weight: 700; letter-spacing: -0.01em; }
   .views small { display: block; color: #b9b3d9; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
@@ -483,13 +488,14 @@ function row(e) {
   if (e.peak < e.pos) meta.push(`szczyt #${e.peak}`);
   if (e.publishedText) meta.push(esc(e.publishedText));
   const tagNew = e.isLatest ? '<span class="tag-new" title="Jeden z 3 najnowszych numerów na kanale">NEW</span>' : '';
-  return `<li class="row${e.pos <= 3 ? ' top' : ''}" style="--art:url('${esc(e.thumb)}')">
+  const tagCancelled = e.cancelled ? '<span class="tag-cancelled" title="Utwór anulowany">CANCELLED</span>' : '';
+  return `<li class="row${e.pos <= 3 ? ' top' : ''}${e.cancelled ? ' is-cancelled' : ''}" style="--art:url('${esc(e.thumb)}')">
     <div class="pos">${e.pos}</div>
     ${moveBadge(e)}
     <a class="thumb" href="${esc(e.url)}" target="_blank" rel="noopener" tabindex="-1"><img loading="lazy" src="${esc(e.thumb)}" alt=""></a>
     <div class="info">
-      <div class="song" title="${esc(e.title)}">${esc(e.song)}${tagNew}</div>
-      <div class="artist">${esc(e.artist || '—')}</div>
+      <div class="song${e.cancelled ? ' is-cancelled' : ''}" title="${esc(e.title)}">${esc(e.song)}${tagNew}${tagCancelled}</div>
+      <div class="artist${e.cancelled ? ' is-cancelled' : ''}">${esc(e.artist || '—')}</div>
       <div class="meta">${meta.map(m => `<span>${m}</span>`).join('')}</div>
     </div>
     <div class="views"><b>${nf.format(e.views)}</b><small>wyświetleń</small>${delta}</div>

@@ -327,6 +327,8 @@ history.snapshots = history.snapshots.filter(s => {
 });
 fs.writeFileSync(p('history.json'), JSON.stringify(history));
 
+const cancelledIds = new Set(cfg.cancelledIds ?? []);
+
 function enrich(list, key) {
   return list.map((v, i) => {
     const pos = i + 1;
@@ -342,6 +344,7 @@ function enrich(list, key) {
       pos,
       id: v.id,
       isLatest: latestIds.has(v.id), // jeden z N najnowszych numerów na kanale (znacznik NEW)
+      cancelled: cancelledIds.has(v.id), // utwór ściągnięty/anulowany (config.cancelledIds) – przekreślenie na liście
       artist: v.artist,
       song: v.song,
       title: v.title,
