@@ -38,7 +38,8 @@ function parseTitle(title) {
   return { artist, song };
 }
 
-function isExcluded(title, artist = '') {
+function isExcluded(title, artist = '', id = '') {
+  if ((cfg.excludeIds ?? []).includes(id)) return true;
   const norm = title.normalize('NFKC');
   const kw = cfg.excludeKeyword || '';
   if (kw && (cfg.excludeCaseSensitive ? norm.includes(kw) : norm.toLowerCase().includes(kw.toLowerCase()))) return true;
@@ -228,7 +229,7 @@ const videos = raw.map(v => {
     song,
     url: `https://www.youtube.com/watch?v=${v.id}`,
     thumb: `https://i.ytimg.com/vi/${v.id}/mqdefault.jpg`,
-    excluded: isExcluded(v.title, artist),
+    excluded: isExcluded(v.title, artist, v.id),
   };
 });
 

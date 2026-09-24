@@ -9,6 +9,7 @@
   "artistsSize": 10,
   "excludeKeyword": "PIXA",
   "excludeArtists": ["IroKeZ"],
+  "excludeIds": ["xbxnj5eOVHw"],
   "cancelledIds": ["N6ZIMdfZZmI", "x2LVQUvEeW4"],
   "excludeCaseSensitive": true,
   "applyExcludeToNow": true,

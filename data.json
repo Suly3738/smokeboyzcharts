@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:19:26.300Z",
+  "generatedAt": "2026-09-24T21:47:13.875Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -47,10 +47,14 @@
       {
         "id": "eDLLfJiK25I",
         "title": "𝗣𝗜𝗫𝗔 𝟯.𝟬 | 𝗣𝗥𝗘𝘁𝗲𝗮𝘀𝗲𝗿"
+      },
+      {
+        "id": "xbxnj5eOVHw",
+        "title": "Los Santos Drift | S01E01 | PILOT"
       }
     ],
     "nowPoolSize": 28,
-    "allTimePoolSize": 189
+    "allTimePoolSize": 188
   },
   "now": [
     {
@@ -79,7 +83,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1279,
+      "views": 1280,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -87,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 51
+      "viewsDelta": 52
     },
     {
       "pos": 3,
@@ -151,7 +155,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 612,
+      "views": 604,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -261,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13241,
+      "views": 13240,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -269,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 72
+      "viewsDelta": 71
     },
     {
       "pos": 3,
@@ -279,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12418,
+      "views": 12414,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -287,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 45
+      "viewsDelta": 41
     },
     {
       "pos": 4,
@@ -297,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10883,
+      "views": 10882,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -305,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 72
+      "viewsDelta": 71
     },
     {
       "pos": 5,
@@ -333,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9302,
+      "views": 9300,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -341,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 40
+      "viewsDelta": 38
     },
     {
       "pos": 7,
@@ -351,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8228,
+      "views": 8227,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -359,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 38
+      "viewsDelta": 37
     },
     {
       "pos": 8,
@@ -387,7 +391,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7419,
+      "views": 7415,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -395,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 47
+      "viewsDelta": 43
     },
     {
       "pos": 10,
@@ -549,7 +553,7 @@
       "artist": "88Dushane",
       "song": "NIE WIEM GDZIE WIDZE GRANICE",
       "title": "88Dushane - NIE WIEM GDZIE WIDZE GRANICE",
-      "views": 4278,
+      "views": 4276,
       "url": "https://www.youtube.com/watch?v=DvbbinQ6z44",
       "thumb": "https://i.ytimg.com/vi/DvbbinQ6z44/mqdefault.jpg",
       "publishedText": "10 sty 2024",
@@ -557,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 2,
-      "viewsDelta": 8
+      "viewsDelta": 6
     },
     {
       "pos": 19,
@@ -639,7 +643,7 @@
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
-      "views": 3664,
+      "views": 3663,
       "url": "https://www.youtube.com/watch?v=UpFIrX-aWEw",
       "thumb": "https://i.ytimg.com/vi/UpFIrX-aWEw/mqdefault.jpg",
       "publishedText": "4 maj 2024",
@@ -647,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 2,
-      "viewsDelta": 13
+      "viewsDelta": 12
     },
     {
       "pos": 24,
@@ -1181,7 +1185,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13241,
+      "views": 13240,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1189,7 +1193,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 72
+      "viewsDelta": 71
     },
     {
       "pos": 4,
@@ -1199,7 +1203,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10883,
+      "views": 10882,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1207,7 +1211,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 72
+      "viewsDelta": 71
     },
     {
       "pos": 5,
@@ -1247,6 +1251,24 @@
     },
     {
       "pos": 7,
+      "id": "6tY7P4J8UZo",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "Tyr0ne",
+      "song": "We Tap Heads",
+      "title": "Tyr0ne - We Tap Heads",
+      "views": 1280,
+      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
+      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
+      "publishedText": "20 sie 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 7,
+      "weeks": 1,
+      "viewsDelta": 52
+    },
+    {
+      "pos": 8,
       "id": "ZiwMRxTF6vw",
       "isLatest": false,
       "cancelled": false,
@@ -1262,31 +1284,13 @@
       "peak": 6,
       "weeks": 1,
       "viewsDelta": 51
-    },
-    {
-      "pos": 8,
-      "id": "6tY7P4J8UZo",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "Tyr0ne",
-      "song": "We Tap Heads",
-      "title": "Tyr0ne - We Tap Heads",
-      "views": 1279,
-      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
-      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
-      "publishedText": "20 sie 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 8,
-      "weeks": 1,
-      "viewsDelta": 51
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60773,
+      "views": 60767,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1296,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52586,
+      "views": 52580,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1306,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40549,
+      "views": 40547,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1316,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30330,
+      "views": 30329,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1336,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15896,
+      "views": 15894,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1376,17 +1380,17 @@
     {
       "pos": 10,
       "name": "Nieznany",
-      "views": 6726,
-      "songs": 12,
-      "bestSong": "Los Santos Drift | S01E01 | PILOT",
+      "views": 5462,
+      "songs": 11,
+      "bestSong": "SPACE TRIP | Official Movie",
       "bestArtist": "",
-      "bestThumb": "https://i.ytimg.com/vi/xbxnj5eOVHw/mqdefault.jpg",
-      "bestUrl": "https://www.youtube.com/watch?v=xbxnj5eOVHw"
+      "bestThumb": "https://i.ytimg.com/vi/CZvmavvgsZE/mqdefault.jpg",
+      "bestUrl": "https://www.youtube.com/watch?v=CZvmavvgsZE"
     }
   ],
   "totals": {
-    "views": 314421,
-    "songs": 189
+    "views": 313131,
+    "songs": 188
   },
   "latest": [
     {
@@ -1394,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 300,
+      "views": 301,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1408,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 139,
+      "views": 136,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
@@ -1422,7 +1426,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 116,
+      "views": 117,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",

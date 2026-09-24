@@ -481,7 +481,15 @@ function moveBadge(e) {
   return '<span class="move same" title="Bez zmian">=</span>';
 }
 
-function row(e) {
+// "Rosnące" to codzienny ranking top-gainerów, nie stały chart – przynależność do wczorajszej
+// listy nic nie mówi o utworze, więc zamiast DEBIUT/pozycji pokazujemy tylko strzałkę wzrostu
+// (pełny przyrost wyświetleń jest już widoczny przy liczbie wyświetleń).
+function gainBadge(e) {
+  return `<span class="move up" title="+${nf.format(e.viewsDelta ?? 0)} wyświetleń w tym tygodniu">▲</span>`;
+}
+
+function row(e, badge) {
+  const badgeHtml = (badge || moveBadge)(e);
   const delta = e.viewsDelta !== null && e.viewsDelta > 0 ? `<small class="plus">+${nf.format(e.viewsDelta)} w tym tygodniu</small>` : '';
   const meta = [];
   if (e.weeks > 1) meta.push(`${e.weeks} tyg. w notowaniu`);
@@ -491,7 +499,7 @@ function row(e) {
   const tagCancelled = e.cancelled ? '<span class="tag-cancelled" title="Utwór anulowany">CANCELLED</span>' : '';
   return `<li class="row${e.pos <= 3 ? ' top' : ''}${e.cancelled ? ' is-cancelled' : ''}" style="--art:url('${esc(e.thumb)}')">
     <div class="pos">${e.pos}</div>
-    ${moveBadge(e)}
+    ${badgeHtml}
     <a class="thumb" href="${esc(e.url)}" target="_blank" rel="noopener" tabindex="-1"><img loading="lazy" src="${esc(e.thumb)}" alt=""></a>
     <div class="info">
       <div class="song${e.cancelled ? ' is-cancelled' : ''}" title="${esc(e.title)}">${esc(e.song)}${tagNew}${tagCancelled}</div>
@@ -506,9 +514,9 @@ function row(e) {
   </li>`;
 }
 
-function render(listId, entries, emptyMsg) {
+function render(listId, entries, emptyMsg, badge) {
   const el = document.getElementById(listId);
-  el.innerHTML = entries.length ? entries.map(row).join('') : `<li class="empty">${emptyMsg || 'Brak utworów w tym notowaniu.'}</li>`;
+  el.innerHTML = entries.length ? entries.map(e => row(e, badge)).join('') : `<li class="empty">${emptyMsg || 'Brak utworów w tym notowaniu.'}</li>`;
 }
 
 const laurel = '<svg viewBox="0 0 24 24" class="laurel" aria-hidden="true"><path d="M12 2c1.3 3.4 3.4 5.4 3.4 8.6a3.4 3.4 0 1 1-6.8 0C8.6 7.4 10.7 5.4 12 2z"/></svg>';
@@ -592,7 +600,7 @@ function init() {
   render('list-now', DATA.now);
   render('list-all', DATA.allTime);
   renderLatest(DATA.latest || []);
-  render('list-rising', DATA.rising || [], 'Za mało danych, żeby wyliczyć wzrosty – wróć jutro.');
+  render('list-rising', DATA.rising || [], 'Za mało danych, żeby wyliczyć wzrosty – wróć jutro.', gainBadge);
   renderArtists(DATA.artists || []);
 
   const totals = DATA.totals || { views: 0, songs: 0 };
