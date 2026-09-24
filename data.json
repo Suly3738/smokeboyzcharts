@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T13:13:18.596Z",
+  "generatedAt": "2026-09-24T13:21:59.406Z",
   "chartDate": "2026-09-24",
   "prevDate": "2026-09-17",
   "channel": {
@@ -387,7 +387,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7414,
+      "views": 7413,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -395,7 +395,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 42
+      "viewsDelta": 41
     },
     {
       "pos": 10,
@@ -1286,7 +1286,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60755,
+      "views": 60754,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1385,7 +1385,7 @@
     }
   ],
   "totals": {
-    "views": 314151,
+    "views": 314150,
     "songs": 189
   },
   "latest": [
