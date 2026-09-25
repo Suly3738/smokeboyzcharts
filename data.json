@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T11:20:21.217Z",
+  "generatedAt": "2026-09-25T12:25:30.436Z",
   "chartDate": "2026-09-25",
   "prevDate": "2026-09-18",
   "channel": {
@@ -131,6 +131,24 @@
     },
     {
       "pos": 5,
+      "id": "MyIL46VKAyM",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "ISY",
+      "song": "ZAZA",
+      "title": "ISY - ZAZA",
+      "views": 658,
+      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
+      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
+      "publishedText": "19 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 5,
+      "weeks": 1,
+      "viewsDelta": null
+    },
+    {
+      "pos": 6,
       "id": "K_PxyMNSgo4",
       "isLatest": false,
       "cancelled": false,
@@ -142,28 +160,10 @@
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
       "prevPos": 5,
-      "move": 0,
+      "move": -1,
       "peak": 5,
       "weeks": 2,
       "viewsDelta": 16
-    },
-    {
-      "pos": 6,
-      "id": "MyIL46VKAyM",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "ISY",
-      "song": "ZAZA",
-      "title": "ISY - ZAZA",
-      "views": 648,
-      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
-      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
-      "publishedText": "19 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 6,
-      "weeks": 1,
-      "viewsDelta": null
     },
     {
       "pos": 7,
@@ -191,7 +191,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 464,
+      "views": 465,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -199,10 +199,28 @@
       "move": -1,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 29
+      "viewsDelta": 30
     },
     {
       "pos": 9,
+      "id": "lR_vlC8uh8g",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "Tyr0ne",
+      "song": "Be Smokin crxBS",
+      "title": "Tyr0ne - Be Smokin crxBS",
+      "views": 429,
+      "url": "https://www.youtube.com/watch?v=lR_vlC8uh8g",
+      "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
+      "publishedText": "8 wrz 2026",
+      "prevPos": 8,
+      "move": -1,
+      "peak": 8,
+      "weeks": 2,
+      "viewsDelta": 31
+    },
+    {
+      "pos": 10,
       "id": "XZDzVAVCT8Y",
       "isLatest": false,
       "cancelled": false,
@@ -218,24 +236,6 @@
       "peak": 9,
       "weeks": 1,
       "viewsDelta": 318
-    },
-    {
-      "pos": 10,
-      "id": "lR_vlC8uh8g",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "Tyr0ne",
-      "song": "Be Smokin crxBS",
-      "title": "Tyr0ne - Be Smokin crxBS",
-      "views": 428,
-      "url": "https://www.youtube.com/watch?v=lR_vlC8uh8g",
-      "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
-      "publishedText": "8 wrz 2026",
-      "prevPos": 8,
-      "move": -2,
-      "peak": 8,
-      "weeks": 2,
-      "viewsDelta": 30
     }
   ],
   "allTime": [
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10886,
+      "views": 10887,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 59
+      "viewsDelta": 60
     },
     {
       "pos": 5,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9306,
+      "views": 9305,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 38
+      "viewsDelta": 37
     },
     {
       "pos": 7,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4184,
+      "views": 4185,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 2,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 20,
@@ -1257,7 +1257,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10886,
+      "views": 10887,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1265,7 +1265,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 59
+      "viewsDelta": 60
     },
     {
       "pos": 8,
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52595,
+      "views": 52596,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30340,
+      "views": 30341,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15900,
+      "views": 15899,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313374,
+    "views": 313389,
     "songs": 188
   },
   "latest": [
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 163,
+      "views": 164,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
