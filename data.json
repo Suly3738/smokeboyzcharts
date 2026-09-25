@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:25:37.815Z",
+  "generatedAt": "2026-09-25T07:21:19.970Z",
   "chartDate": "2026-09-25",
   "prevDate": "2026-09-18",
   "channel": {
@@ -65,7 +65,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2201,
+      "views": 2202,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 121
+      "viewsDelta": 122
     },
     {
       "pos": 2,
@@ -155,7 +155,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 637,
+      "views": 644,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -391,7 +391,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7421,
+      "views": 7420,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -399,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 45
+      "viewsDelta": 44
     },
     {
       "pos": 10,
@@ -553,7 +553,7 @@
       "artist": "88Dushane",
       "song": "NIE WIEM GDZIE WIDZE GRANICE",
       "title": "88Dushane - NIE WIEM GDZIE WIDZE GRANICE",
-      "views": 4280,
+      "views": 4279,
       "url": "https://www.youtube.com/watch?v=DvbbinQ6z44",
       "thumb": "https://i.ytimg.com/vi/DvbbinQ6z44/mqdefault.jpg",
       "publishedText": "10 sty 2024",
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 2,
-      "viewsDelta": 10
+      "viewsDelta": 9
     },
     {
       "pos": 19,
@@ -859,7 +859,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2201,
+      "views": 2202,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -867,7 +867,7 @@
       "move": 1,
       "peak": 35,
       "weeks": 2,
-      "viewsDelta": 121
+      "viewsDelta": 122
     },
     {
       "pos": 36,
@@ -1185,7 +1185,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2201,
+      "views": 2202,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1193,7 +1193,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 121
+      "viewsDelta": 122
     },
     {
       "pos": 4,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60781,
+      "views": 60779,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313320,
+    "views": 313333,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 331,
+      "views": 337,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
