@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T17:19:12.669Z",
+  "generatedAt": "2026-09-25T18:22:13.303Z",
   "chartDate": "2026-09-25",
   "prevDate": "2026-09-18",
   "channel": {
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9308,
+      "views": 9309,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 40
+      "viewsDelta": 41
     },
     {
       "pos": 7,
@@ -373,7 +373,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7928,
+      "views": 7929,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 2,
-      "viewsDelta": 58
+      "viewsDelta": 59
     },
     {
       "pos": 9,
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6802,
+      "views": 6803,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 46
+      "viewsDelta": 47
     },
     {
       "pos": 11,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6676,
+      "views": 6677,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 2,
-      "viewsDelta": 31
+      "viewsDelta": 32
     },
     {
       "pos": 13,
@@ -913,7 +913,7 @@
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2053,
+      "views": 2054,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
@@ -921,7 +921,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 2,
-      "viewsDelta": 13
+      "viewsDelta": 14
     },
     {
       "pos": 39,
@@ -1093,7 +1093,7 @@
       "artist": "SELENA",
       "song": "MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
       "title": "SELENA - MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
-      "views": 1669,
+      "views": 1670,
       "url": "https://www.youtube.com/watch?v=CWTlZqr-3Is",
       "thumb": "https://i.ytimg.com/vi/CWTlZqr-3Is/mqdefault.jpg",
       "publishedText": "5 lut 2024",
@@ -1101,7 +1101,7 @@
       "move": 0,
       "peak": 48,
       "weeks": 2,
-      "viewsDelta": 5
+      "viewsDelta": 6
     },
     {
       "pos": 49,
@@ -1275,7 +1275,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7928,
+      "views": 7929,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -1283,14 +1283,14 @@
       "move": "new",
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 58
+      "viewsDelta": 59
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60795,
+      "views": 60797,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40575,
+      "views": 40576,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15904,
+      "views": 15905,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313464,
+    "views": 313470,
     "songs": 188
   },
   "latest": [
