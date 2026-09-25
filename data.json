@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-25T21:19:45.808Z",
-  "chartDate": "2026-09-25",
-  "prevDate": "2026-09-18",
+  "generatedAt": "2026-09-25T22:19:32.187Z",
+  "chartDate": "2026-09-26",
+  "prevDate": "2026-09-19",
   "channel": {
     "title": "Pixa Roleplay",
     "url": "https://www.youtube.com/@PixaRoleplay"
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 126
+      "viewsDelta": 93
     },
     {
       "pos": 2,
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 43
+      "viewsDelta": 38
     },
     {
       "pos": 3,
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 65
+      "viewsDelta": 55
     },
     {
       "pos": 4,
@@ -127,7 +127,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 40
+      "viewsDelta": 30
     },
     {
       "pos": 5,
@@ -137,7 +137,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 704,
+      "views": 697,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -163,7 +163,7 @@
       "move": -1,
       "peak": 5,
       "weeks": 2,
-      "viewsDelta": 16
+      "viewsDelta": 14
     },
     {
       "pos": 7,
@@ -181,7 +181,7 @@
       "move": -1,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 28
+      "viewsDelta": 22
     },
     {
       "pos": 8,
@@ -199,7 +199,7 @@
       "move": -1,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 30
+      "viewsDelta": 24
     },
     {
       "pos": 9,
@@ -217,7 +217,7 @@
       "move": -1,
       "peak": 8,
       "weeks": 2,
-      "viewsDelta": 32
+      "viewsDelta": 33
     },
     {
       "pos": 10,
@@ -235,7 +235,7 @@
       "move": "new",
       "peak": 9,
       "weeks": 1,
-      "viewsDelta": 319
+      "viewsDelta": 136
     }
   ],
   "allTime": [
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 50
+      "viewsDelta": 44
     },
     {
       "pos": 2,
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 74
+      "viewsDelta": 68
     },
     {
       "pos": 3,
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 44
+      "viewsDelta": 41
     },
     {
       "pos": 4,
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 63
+      "viewsDelta": 54
     },
     {
       "pos": 5,
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 2,
-      "viewsDelta": 47
+      "viewsDelta": 41
     },
     {
       "pos": 6,
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 42
+      "viewsDelta": 37
     },
     {
       "pos": 7,
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 38
+      "viewsDelta": 33
     },
     {
       "pos": 8,
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 2,
-      "viewsDelta": 60
+      "viewsDelta": 57
     },
     {
       "pos": 9,
@@ -399,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 45
+      "viewsDelta": 41
     },
     {
       "pos": 10,
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 54
+      "viewsDelta": 52
     },
     {
       "pos": 11,
@@ -435,7 +435,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 2,
-      "viewsDelta": 25
+      "viewsDelta": 22
     },
     {
       "pos": 12,
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 2,
-      "viewsDelta": 32
+      "viewsDelta": 29
     },
     {
       "pos": 13,
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 2,
-      "viewsDelta": 41
+      "viewsDelta": 33
     },
     {
       "pos": 15,
@@ -507,7 +507,7 @@
       "move": 0,
       "peak": 15,
       "weeks": 2,
-      "viewsDelta": 4
+      "viewsDelta": 1
     },
     {
       "pos": 16,
@@ -525,7 +525,7 @@
       "move": 0,
       "peak": 16,
       "weeks": 2,
-      "viewsDelta": 3
+      "viewsDelta": 2
     },
     {
       "pos": 17,
@@ -543,7 +543,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 2,
-      "viewsDelta": 27
+      "viewsDelta": 25
     },
     {
       "pos": 18,
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 2,
-      "viewsDelta": 12
+      "viewsDelta": 11
     },
     {
       "pos": 19,
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 2,
-      "viewsDelta": 12
+      "viewsDelta": 5
     },
     {
       "pos": 20,
@@ -597,7 +597,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 2,
-      "viewsDelta": 15
+      "viewsDelta": 14
     },
     {
       "pos": 21,
@@ -615,7 +615,7 @@
       "move": 0,
       "peak": 21,
       "weeks": 2,
-      "viewsDelta": 8
+      "viewsDelta": 7
     },
     {
       "pos": 22,
@@ -651,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 2,
-      "viewsDelta": 10
+      "viewsDelta": 11
     },
     {
       "pos": 24,
@@ -669,7 +669,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 2,
-      "viewsDelta": 12
+      "viewsDelta": 9
     },
     {
       "pos": 25,
@@ -705,7 +705,7 @@
       "move": 0,
       "peak": 26,
       "weeks": 2,
-      "viewsDelta": 3
+      "viewsDelta": 1
     },
     {
       "pos": 27,
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 2,
-      "viewsDelta": 36
+      "viewsDelta": 33
     },
     {
       "pos": 29,
@@ -759,7 +759,7 @@
       "move": 0,
       "peak": 29,
       "weeks": 2,
-      "viewsDelta": 9
+      "viewsDelta": 6
     },
     {
       "pos": 30,
@@ -777,7 +777,7 @@
       "move": 0,
       "peak": 30,
       "weeks": 2,
-      "viewsDelta": 1
+      "viewsDelta": 0
     },
     {
       "pos": 31,
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 2,
-      "viewsDelta": 6
+      "viewsDelta": 7
     },
     {
       "pos": 34,
@@ -849,7 +849,7 @@
       "move": 0,
       "peak": 34,
       "weeks": 2,
-      "viewsDelta": 5
+      "viewsDelta": 2
     },
     {
       "pos": 35,
@@ -867,7 +867,7 @@
       "move": 1,
       "peak": 35,
       "weeks": 2,
-      "viewsDelta": 126
+      "viewsDelta": 93
     },
     {
       "pos": 36,
@@ -885,7 +885,7 @@
       "move": -1,
       "peak": 35,
       "weeks": 2,
-      "viewsDelta": 1
+      "viewsDelta": -1
     },
     {
       "pos": 37,
@@ -903,7 +903,7 @@
       "move": 2,
       "peak": 37,
       "weeks": 2,
-      "viewsDelta": 44
+      "viewsDelta": 32
     },
     {
       "pos": 38,
@@ -921,7 +921,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 2,
-      "viewsDelta": 14
+      "viewsDelta": 10
     },
     {
       "pos": 39,
@@ -1011,7 +1011,7 @@
       "move": 0,
       "peak": 43,
       "weeks": 2,
-      "viewsDelta": 2
+      "viewsDelta": 1
     },
     {
       "pos": 44,
@@ -1065,7 +1065,7 @@
       "move": -1,
       "peak": 45,
       "weeks": 2,
-      "viewsDelta": 1
+      "viewsDelta": 0
     },
     {
       "pos": 47,
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 319
+      "viewsDelta": 136
     },
     {
       "pos": 2,
@@ -1167,7 +1167,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 239,
+      "views": 240,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
@@ -1175,7 +1175,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 141
+      "viewsDelta": 97
     },
     {
       "pos": 3,
@@ -1193,28 +1193,10 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 126
+      "viewsDelta": 93
     },
     {
       "pos": 4,
-      "id": "FRgKuewHE98",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "Soto Brothers",
-      "song": "Daj To Głośniej",
-      "title": "Soto Brothers - Daj To Głośniej",
-      "views": 281,
-      "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
-      "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
-      "publishedText": "14 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 2,
-      "weeks": 1,
-      "viewsDelta": 74
-    },
-    {
-      "pos": 5,
       "id": "dXNQgu1agkg",
       "isLatest": false,
       "cancelled": false,
@@ -1229,7 +1211,25 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 74
+      "viewsDelta": 68
+    },
+    {
+      "pos": 5,
+      "id": "xRKgD_-BJQs",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "88Dushane",
+      "song": "GO GO",
+      "title": "88Dushane - GO GO [Oficial Music Video]",
+      "views": 7930,
+      "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
+      "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
+      "publishedText": "13 paź 2023",
+      "prevPos": null,
+      "move": "new",
+      "peak": 4,
+      "weeks": 1,
+      "viewsDelta": 57
     },
     {
       "pos": 6,
@@ -1247,7 +1247,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 65
+      "viewsDelta": 55
     },
     {
       "pos": 7,
@@ -1265,25 +1265,25 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 63
+      "viewsDelta": 54
     },
     {
       "pos": 8,
-      "id": "xRKgD_-BJQs",
+      "id": "lFAtuKc7Tz8",
       "isLatest": false,
       "cancelled": false,
       "artist": "88Dushane",
-      "song": "GO GO",
-      "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7930,
-      "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
-      "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
-      "publishedText": "13 paź 2023",
+      "song": "Femme Fatale",
+      "title": "88Dushane - Femme Fatale (Official Music Video)",
+      "views": 6810,
+      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
+      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
+      "publishedText": "24 lut 2024",
       "prevPos": null,
       "move": "new",
-      "peak": 4,
+      "peak": 8,
       "weeks": 1,
-      "viewsDelta": 60
+      "viewsDelta": 52
     }
   ],
   "artists": [
@@ -1370,7 +1370,7 @@
     {
       "pos": 9,
       "name": "PEDRO",
-      "views": 6952,
+      "views": 6953,
       "songs": 7,
       "bestSong": "DRIFT",
       "bestArtist": "PEDRO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313557,
+    "views": 313548,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 353,
+      "views": 350,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1426,7 +1426,7 @@
       "artist": "Soto Brothers",
       "song": "Who the fuck is sosa (SOSA DISS)",
       "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 124,
+      "views": 122,
       "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
       "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
