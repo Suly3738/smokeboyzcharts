@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T03:19:27.481Z",
+  "generatedAt": "2026-09-25T04:20:53.419Z",
   "chartDate": "2026-09-25",
   "prevDate": "2026-09-18",
   "channel": {
@@ -155,7 +155,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 637,
+      "views": 642,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -247,7 +247,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14262,
+      "views": 14263,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 2,
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10884,
+      "views": 10885,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 57
+      "viewsDelta": 58
     },
     {
       "pos": 5,
@@ -895,7 +895,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2054,
+      "views": 2058,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -903,7 +903,7 @@
       "move": 2,
       "peak": 37,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 43
     },
     {
       "pos": 38,
@@ -1251,6 +1251,24 @@
     },
     {
       "pos": 7,
+      "id": "GcFByoqlJgY",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "TONY LUGO",
+      "song": "ONE SHOT ONE KILL (WUJA DISS)",
+      "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
+      "views": 10885,
+      "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
+      "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
+      "publishedText": "29 sty 2024",
+      "prevPos": null,
+      "move": "new",
+      "peak": 3,
+      "weeks": 1,
+      "viewsDelta": 58
+    },
+    {
+      "pos": 8,
       "id": "xRKgD_-BJQs",
       "isLatest": false,
       "cancelled": false,
@@ -1266,24 +1284,6 @@
       "peak": 4,
       "weeks": 1,
       "viewsDelta": 58
-    },
-    {
-      "pos": 8,
-      "id": "GcFByoqlJgY",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "TONY LUGO",
-      "song": "ONE SHOT ONE KILL (WUJA DISS)",
-      "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10884,
-      "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
-      "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
-      "publishedText": "29 sty 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 3,
-      "weeks": 1,
-      "viewsDelta": 57
     }
   ],
   "artists": [
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52590,
+      "views": 52592,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313308,
+    "views": 313325,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 331,
+      "views": 335,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 158,
+      "views": 160,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
