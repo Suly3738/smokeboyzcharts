@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T16:21:57.271Z",
+  "generatedAt": "2026-09-25T17:19:12.669Z",
   "chartDate": "2026-09-25",
   "prevDate": "2026-09-18",
   "channel": {
@@ -137,7 +137,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 665,
+      "views": 677,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -247,7 +247,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14265,
+      "views": 14267,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 42
+      "viewsDelta": 44
     },
     {
       "pos": 2,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9945,
+      "views": 9946,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 2,
-      "viewsDelta": 44
+      "viewsDelta": 45
     },
     {
       "pos": 6,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9306,
+      "views": 9308,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 38
+      "viewsDelta": 40
     },
     {
       "pos": 7,
@@ -463,7 +463,7 @@
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
-      "views": 6594,
+      "views": 6596,
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 2,
-      "viewsDelta": 7
+      "viewsDelta": 9
     },
     {
       "pos": 14,
@@ -553,7 +553,7 @@
       "artist": "88Dushane",
       "song": "NIE WIEM GDZIE WIDZE GRANICE",
       "title": "88Dushane - NIE WIEM GDZIE WIDZE GRANICE",
-      "views": 4281,
+      "views": 4282,
       "url": "https://www.youtube.com/watch?v=DvbbinQ6z44",
       "thumb": "https://i.ytimg.com/vi/DvbbinQ6z44/mqdefault.jpg",
       "publishedText": "10 sty 2024",
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 2,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 19,
@@ -733,7 +733,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2776,
+      "views": 2777,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 2,
-      "viewsDelta": 34
+      "viewsDelta": 35
     },
     {
       "pos": 29,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2406,
+      "views": 2407,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 2,
-      "viewsDelta": 5
+      "viewsDelta": 6
     },
     {
       "pos": 34,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60793,
+      "views": 60795,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52611,
+      "views": 52613,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40573,
+      "views": 40575,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15900,
+      "views": 15904,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313442,
+    "views": 313464,
     "songs": 188
   },
   "latest": [
