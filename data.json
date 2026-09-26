@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T19:17:25.443Z",
+  "generatedAt": "2026-09-26T20:18:33.490Z",
   "chartDate": "2026-09-26",
   "prevDate": "2026-09-19",
   "channel": {
@@ -137,7 +137,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 827,
+      "views": 844,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -209,7 +209,7 @@
       "artist": "Tyr0ne",
       "song": "Be Smokin crxBS",
       "title": "Tyr0ne - Be Smokin crxBS",
-      "views": 431,
+      "views": 432,
       "url": "https://www.youtube.com/watch?v=lR_vlC8uh8g",
       "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -217,7 +217,7 @@
       "move": -1,
       "peak": 8,
       "weeks": 2,
-      "viewsDelta": 34
+      "viewsDelta": 35
     },
     {
       "pos": 10,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6163,
+      "views": 6164,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 15,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2411,
+      "views": 2412,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 2,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 34,
@@ -931,7 +931,7 @@
       "artist": "Lia's",
       "song": "始まり(Początek)",
       "title": "Lia's - 始まり(Początek)",
-      "views": 2051,
+      "views": 2052,
       "url": "https://www.youtube.com/watch?v=MlgzXmZMxVo",
       "thumb": "https://i.ytimg.com/vi/MlgzXmZMxVo/mqdefault.jpg",
       "publishedText": "12 sie 2024",
@@ -939,7 +939,7 @@
       "move": -2,
       "peak": 36,
       "weeks": 2,
-      "viewsDelta": 2
+      "viewsDelta": 3
     },
     {
       "pos": 40,
@@ -1039,7 +1039,7 @@
       "artist": "PEDRO",
       "song": "DRIFT",
       "title": "PEDRO - DRIFT",
-      "views": 1679,
+      "views": 1680,
       "url": "https://www.youtube.com/watch?v=7oWVQe1W2RE",
       "thumb": "https://i.ytimg.com/vi/7oWVQe1W2RE/mqdefault.jpg",
       "publishedText": "7 lut 2024",
@@ -1047,7 +1047,7 @@
       "move": 1,
       "peak": 45,
       "weeks": 2,
-      "viewsDelta": 3
+      "viewsDelta": 4
     },
     {
       "pos": 46,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60843,
+      "views": 60844,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40630,
+      "views": 40631,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1370,7 +1370,7 @@
     {
       "pos": 9,
       "name": "PEDRO",
-      "views": 6956,
+      "views": 6957,
       "songs": 7,
       "bestSong": "DRIFT",
       "bestArtist": "PEDRO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313954,
+    "views": 313978,
     "songs": 188
   },
   "latest": [
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 188,
+      "views": 190,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
