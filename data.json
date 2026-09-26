@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:18:14.404Z",
+  "generatedAt": "2026-09-26T12:23:11.286Z",
   "chartDate": "2026-09-26",
   "prevDate": "2026-09-19",
   "channel": {
@@ -137,7 +137,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 767,
+      "views": 775,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -391,7 +391,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7424,
+      "views": 7425,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -399,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 44
+      "viewsDelta": 45
     },
     {
       "pos": 10,
@@ -553,7 +553,7 @@
       "artist": "88Dushane",
       "song": "NIE WIEM GDZIE WIDZE GRANICE",
       "title": "88Dushane - NIE WIEM GDZIE WIDZE GRANICE",
-      "views": 4283,
+      "views": 4284,
       "url": "https://www.youtube.com/watch?v=DvbbinQ6z44",
       "thumb": "https://i.ytimg.com/vi/DvbbinQ6z44/mqdefault.jpg",
       "publishedText": "10 sty 2024",
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 2,
-      "viewsDelta": 12
+      "viewsDelta": 13
     },
     {
       "pos": 19,
@@ -733,7 +733,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2778,
+      "views": 2779,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 2,
-      "viewsDelta": 33
+      "viewsDelta": 34
     },
     {
       "pos": 29,
@@ -751,7 +751,7 @@
       "artist": "BABY FLAMESTA x DG SULLY",
       "song": "PORN$TAR",
       "title": "BABY FLAMESTA x DG SULLY - PORN$TAR (OFFICIAL VIDEO)",
-      "views": 2726,
+      "views": 2728,
       "url": "https://www.youtube.com/watch?v=bZuoIVpLLDE",
       "thumb": "https://i.ytimg.com/vi/bZuoIVpLLDE/mqdefault.jpg",
       "publishedText": "10 cze 2024",
@@ -759,7 +759,7 @@
       "move": 0,
       "peak": 29,
       "weeks": 2,
-      "viewsDelta": 8
+      "viewsDelta": 10
     },
     {
       "pos": 30,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60825,
+      "views": 60827,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40599,
+      "views": 40602,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313783,
+    "views": 313804,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 367,
+      "views": 372,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
