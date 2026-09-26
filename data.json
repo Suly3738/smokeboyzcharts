@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T22:18:40.958Z",
+  "generatedAt": "2026-09-26T23:17:52.718Z",
   "chartDate": "2026-09-27",
   "prevDate": "2026-09-20",
   "channel": {
@@ -65,7 +65,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2212,
+      "views": 2214,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 99
+      "viewsDelta": 101
     },
     {
       "pos": 2,
@@ -83,7 +83,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1297,
+      "views": 1296,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 46
+      "viewsDelta": 45
     },
     {
       "pos": 3,
@@ -119,7 +119,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 875,
+      "views": 877,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -127,7 +127,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 23
+      "viewsDelta": 25
     },
     {
       "pos": 5,
@@ -137,7 +137,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 844,
+      "views": 859,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -145,7 +145,7 @@
       "move": "new",
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 713
+      "viewsDelta": 728
     },
     {
       "pos": 6,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9322,
+      "views": 9321,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 42
+      "viewsDelta": 41
     },
     {
       "pos": 7,
@@ -355,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8244,
+      "views": 8245,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 41
+      "viewsDelta": 42
     },
     {
       "pos": 8,
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6818,
+      "views": 6815,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 59
+      "viewsDelta": 56
     },
     {
       "pos": 11,
@@ -427,7 +427,7 @@
       "artist": "TONY LUGO",
       "song": "88 (Snapmatic Video)",
       "title": "TONY LUGO - 88 (Snapmatic Video)",
-      "views": 6737,
+      "views": 6736,
       "url": "https://www.youtube.com/watch?v=Pun1oxeNjE8",
       "thumb": "https://i.ytimg.com/vi/Pun1oxeNjE8/mqdefault.jpg",
       "publishedText": "7 lut 2024",
@@ -435,7 +435,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 2,
-      "viewsDelta": 21
+      "viewsDelta": 20
     },
     {
       "pos": 12,
@@ -859,7 +859,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2212,
+      "views": 2214,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -867,7 +867,7 @@
       "move": 1,
       "peak": 35,
       "weeks": 2,
-      "viewsDelta": 99
+      "viewsDelta": 101
     },
     {
       "pos": 36,
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 844,
+      "views": 859,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 713
+      "viewsDelta": 728
     },
     {
       "pos": 2,
@@ -1167,7 +1167,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2212,
+      "views": 2214,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1175,7 +1175,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 99
+      "viewsDelta": 101
     },
     {
       "pos": 3,
@@ -1239,7 +1239,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6818,
+      "views": 6815,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -1247,7 +1247,7 @@
       "move": "new",
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 59
+      "viewsDelta": 56
     },
     {
       "pos": 7,
@@ -1275,7 +1275,7 @@
       "artist": "Soto Brothers",
       "song": "Daj To Głośniej",
       "title": "Soto Brothers - Daj To Głośniej",
-      "views": 288,
+      "views": 289,
       "url": "https://www.youtube.com/watch?v=FRgKuewHE98",
       "thumb": "https://i.ytimg.com/vi/FRgKuewHE98/mqdefault.jpg",
       "publishedText": "14 wrz 2026",
@@ -1283,14 +1283,14 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 46
+      "viewsDelta": 47
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60848,
+      "views": 60845,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52636,
+      "views": 52635,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40635,
+      "views": 40636,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15920,
+      "views": 15919,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 313996,
+    "views": 314019,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 386,
+      "views": 390,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 190,
+      "views": 194,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
