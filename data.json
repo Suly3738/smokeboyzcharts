@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:24:57.021Z",
+  "generatedAt": "2026-09-27T07:19:49.895Z",
   "chartDate": "2026-09-27",
   "prevDate": "2026-09-20",
   "channel": {
@@ -137,7 +137,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 872,
+      "views": 873,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -145,7 +145,7 @@
       "move": "new",
       "peak": 5,
       "weeks": 1,
-      "viewsDelta": 741
+      "viewsDelta": 742
     },
     {
       "pos": 6,
@@ -173,7 +173,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 480,
+      "views": 481,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -181,7 +181,7 @@
       "move": -1,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 17
+      "viewsDelta": 18
     },
     {
       "pos": 8,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9954,
+      "views": 9955,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 2,
-      "viewsDelta": 41
+      "viewsDelta": 42
     },
     {
       "pos": 6,
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 872,
+      "views": 873,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 741
+      "viewsDelta": 742
     },
     {
       "pos": 2,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60861,
+      "views": 60862,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314127,
+    "views": 314133,
     "songs": 188
   },
   "latest": [
