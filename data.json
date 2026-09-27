@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T15:18:57.197Z",
+  "generatedAt": "2026-09-27T16:20:17.524Z",
   "chartDate": "2026-09-27",
   "prevDate": "2026-09-20",
   "channel": {
@@ -83,7 +83,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1298,
+      "views": 1299,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 47
+      "viewsDelta": 48
     },
     {
       "pos": 3,
@@ -101,7 +101,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1009,
+      "views": 1010,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 50
+      "viewsDelta": 51
     },
     {
       "pos": 4,
@@ -119,7 +119,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 882,
+      "views": 886,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -127,7 +127,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 751
+      "viewsDelta": 755
     },
     {
       "pos": 5,
@@ -137,7 +137,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 880,
+      "views": 881,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -145,7 +145,7 @@
       "move": -1,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 28
+      "viewsDelta": 29
     },
     {
       "pos": 6,
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10903,
+      "views": 10902,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 48
+      "viewsDelta": 47
     },
     {
       "pos": 5,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9326,
+      "views": 9327,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 46
+      "viewsDelta": 47
     },
     {
       "pos": 7,
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6824,
+      "views": 6823,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 2,
-      "viewsDelta": 65
+      "viewsDelta": 64
     },
     {
       "pos": 11,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6168,
+      "views": 6169,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 2,
-      "viewsDelta": 33
+      "viewsDelta": 34
     },
     {
       "pos": 15,
@@ -1093,7 +1093,7 @@
       "artist": "SELENA",
       "song": "MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
       "title": "SELENA - MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
-      "views": 1674,
+      "views": 1673,
       "url": "https://www.youtube.com/watch?v=CWTlZqr-3Is",
       "thumb": "https://i.ytimg.com/vi/CWTlZqr-3Is/mqdefault.jpg",
       "publishedText": "5 lut 2024",
@@ -1101,7 +1101,7 @@
       "move": 0,
       "peak": 48,
       "weeks": 2,
-      "viewsDelta": 10
+      "viewsDelta": 9
     },
     {
       "pos": 49,
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 882,
+      "views": 886,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 751
+      "viewsDelta": 755
     },
     {
       "pos": 2,
@@ -1239,7 +1239,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6824,
+      "views": 6823,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -1247,7 +1247,7 @@
       "move": "new",
       "peak": 6,
       "weeks": 1,
-      "viewsDelta": 65
+      "viewsDelta": 64
     },
     {
       "pos": 7,
@@ -1257,7 +1257,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1009,
+      "views": 1010,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1265,7 +1265,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 1,
-      "viewsDelta": 50
+      "viewsDelta": 51
     },
     {
       "pos": 8,
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52651,
+      "views": 52650,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15925,
+      "views": 15926,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1380,7 +1380,7 @@
     {
       "pos": 10,
       "name": "Nieznany",
-      "views": 5473,
+      "views": 5474,
       "songs": 11,
       "bestSong": "SPACE TRIP | Official Movie",
       "bestArtist": "",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314190,
+    "views": 314205,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 400,
+      "views": 405,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 198,
+      "views": 200,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
