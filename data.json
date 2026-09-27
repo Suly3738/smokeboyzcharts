@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T05:19:01.701Z",
+  "generatedAt": "2026-09-27T06:24:57.021Z",
   "chartDate": "2026-09-27",
   "prevDate": "2026-09-20",
   "channel": {
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9955,
+      "views": 9954,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 2,
-      "viewsDelta": 42
+      "viewsDelta": 41
     },
     {
       "pos": 6,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60862,
+      "views": 60861,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314131,
+    "views": 314127,
     "songs": 188
   },
   "latest": [
