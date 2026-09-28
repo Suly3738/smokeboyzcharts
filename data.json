@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:24:40.351Z",
+  "generatedAt": "2026-09-28T17:21:03.834Z",
   "chartDate": "2026-09-28",
   "prevDate": "2026-09-21",
   "channel": {
@@ -119,7 +119,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1001,
+      "views": 1009,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -127,7 +127,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 641
+      "viewsDelta": 649
     },
     {
       "pos": 5,
@@ -137,7 +137,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 888,
+      "views": 889,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -145,7 +145,7 @@
       "move": -1,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 32
+      "viewsDelta": 33
     },
     {
       "pos": 6,
@@ -209,7 +209,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 442,
+      "views": 444,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -265,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13281,
+      "views": 13285,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 81
+      "viewsDelta": 85
     },
     {
       "pos": 3,
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10914,
+      "views": 10918,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 46
+      "viewsDelta": 50
     },
     {
       "pos": 5,
@@ -355,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8259,
+      "views": 8260,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 50
+      "viewsDelta": 51
     },
     {
       "pos": 8,
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6830,
+      "views": 6831,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 3,
-      "viewsDelta": 64
+      "viewsDelta": 65
     },
     {
       "pos": 11,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6179,
+      "views": 6180,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 3,
-      "viewsDelta": 35
+      "viewsDelta": 36
     },
     {
       "pos": 15,
@@ -805,7 +805,7 @@
       "artist": "TONY LUGO",
       "song": "WIĘCEJ NIŻ MAM",
       "title": "TONY LUGO - WIĘCEJ NIŻ MAM (official video)",
-      "views": 2458,
+      "views": 2460,
       "url": "https://www.youtube.com/watch?v=Pz6uIhTaHwc",
       "thumb": "https://i.ytimg.com/vi/Pz6uIhTaHwc/mqdefault.jpg",
       "publishedText": "7 mar 2024",
@@ -813,7 +813,7 @@
       "move": 0,
       "peak": 32,
       "weeks": 3,
-      "viewsDelta": 4
+      "viewsDelta": 6
     },
     {
       "pos": 33,
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1001,
+      "views": 1009,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 641
+      "viewsDelta": 649
     },
     {
       "pos": 2,
@@ -1203,7 +1203,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13281,
+      "views": 13285,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1211,7 +1211,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 81
+      "viewsDelta": 85
     },
     {
       "pos": 5,
@@ -1233,6 +1233,24 @@
     },
     {
       "pos": 6,
+      "id": "lFAtuKc7Tz8",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "88Dushane",
+      "song": "Femme Fatale",
+      "title": "88Dushane - Femme Fatale (Official Music Video)",
+      "views": 6831,
+      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
+      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
+      "publishedText": "24 lut 2024",
+      "prevPos": null,
+      "move": "new",
+      "peak": 6,
+      "weeks": 2,
+      "viewsDelta": 65
+    },
+    {
+      "pos": 7,
       "id": "XZDzVAVCT8Y",
       "isLatest": false,
       "cancelled": false,
@@ -1246,24 +1264,6 @@
       "prevPos": null,
       "move": "new",
       "peak": 1,
-      "weeks": 2,
-      "viewsDelta": 64
-    },
-    {
-      "pos": 7,
-      "id": "lFAtuKc7Tz8",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "88Dushane",
-      "song": "Femme Fatale",
-      "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6830,
-      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
-      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
-      "publishedText": "24 lut 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 6,
       "weeks": 2,
       "viewsDelta": 64
     },
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60900,
+      "views": 60902,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52680,
+      "views": 52686,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40683,
+      "views": 40688,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30402,
+      "views": 30406,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1350,7 +1350,7 @@
     {
       "pos": 7,
       "name": "ST",
-      "views": 8460,
+      "views": 8461,
       "songs": 15,
       "bestSong": "Actin Crazy",
       "bestArtist": "ST",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314552,
+    "views": 314578,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 442,
+      "views": 444,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 209,
+      "views": 210,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
