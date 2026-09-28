@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:20:00.392Z",
+  "generatedAt": "2026-09-28T02:20:56.252Z",
   "chartDate": "2026-09-28",
   "prevDate": "2026-09-21",
   "channel": {
@@ -733,7 +733,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2787,
+      "views": 2788,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 3,
-      "viewsDelta": 38
+      "viewsDelta": 39
     },
     {
       "pos": 29,
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40675,
+      "views": 40676,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314381,
+    "views": 314384,
     "songs": 188
   },
   "latest": [
