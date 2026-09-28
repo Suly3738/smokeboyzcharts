@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:22:31.879Z",
+  "generatedAt": "2026-09-28T14:24:45.784Z",
   "chartDate": "2026-09-28",
   "prevDate": "2026-09-21",
   "channel": {
@@ -209,7 +209,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 436,
+      "views": 438,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9332,
+      "views": 9333,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 46
+      "viewsDelta": 47
     },
     {
       "pos": 7,
@@ -373,7 +373,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7931,
+      "views": 7933,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 3,
-      "viewsDelta": 17
+      "viewsDelta": 19
     },
     {
       "pos": 9,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60897,
+      "views": 60899,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15931,
+      "views": 15932,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314496,
+    "views": 314503,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 436,
+      "views": 438,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
