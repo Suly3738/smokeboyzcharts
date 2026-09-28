@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:24:45.784Z",
+  "generatedAt": "2026-09-28T15:23:45.829Z",
   "chartDate": "2026-09-28",
   "prevDate": "2026-09-21",
   "channel": {
@@ -101,7 +101,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1016,
+      "views": 1019,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 48
+      "viewsDelta": 51
     },
     {
       "pos": 4,
@@ -119,7 +119,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 981,
+      "views": 993,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -127,7 +127,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 621
+      "viewsDelta": 633
     },
     {
       "pos": 5,
@@ -463,7 +463,7 @@
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
-      "views": 6599,
+      "views": 6600,
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 3,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 14,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4193,
+      "views": 4198,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 3,
-      "viewsDelta": 13
+      "viewsDelta": 18
     },
     {
       "pos": 20,
@@ -913,7 +913,7 @@
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2057,
+      "views": 2060,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
@@ -921,7 +921,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 10
+      "viewsDelta": 13
     },
     {
       "pos": 39,
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 981,
+      "views": 993,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 621
+      "viewsDelta": 633
     },
     {
       "pos": 2,
@@ -1221,7 +1221,7 @@
       "artist": "WSAD",
       "song": "WELCOME",
       "title": "WSAD - WELCOME",
-      "views": 243,
+      "views": 244,
       "url": "https://www.youtube.com/watch?v=K9Y9PF1sqWQ",
       "thumb": "https://i.ytimg.com/vi/K9Y9PF1sqWQ/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
@@ -1229,7 +1229,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 65
+      "viewsDelta": 66
     },
     {
       "pos": 6,
@@ -1269,21 +1269,21 @@
     },
     {
       "pos": 8,
-      "id": "A7fYhekJU-I",
+      "id": "_yAfcKGcz7Y",
       "isLatest": false,
       "cancelled": false,
-      "artist": "BABY FLAMESTA",
-      "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8259,
-      "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
-      "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
-      "publishedText": "23 mar 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 8,
-      "weeks": 1,
-      "viewsDelta": 50
+      "artist": "Tiny Shuj",
+      "song": "Nowy cali G",
+      "title": "Tiny Shuj - Nowy cali G",
+      "views": 1019,
+      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
+      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
+      "publishedText": "17 sie 2026",
+      "prevPos": 5,
+      "move": -3,
+      "peak": 4,
+      "weeks": 2,
+      "viewsDelta": 51
     }
   ],
   "artists": [
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30397,
+      "views": 30402,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15932,
+      "views": 15933,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1370,7 +1370,7 @@
     {
       "pos": 9,
       "name": "PEDRO",
-      "views": 6962,
+      "views": 6963,
       "songs": 7,
       "bestSong": "DRIFT",
       "bestArtist": "PEDRO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314503,
+    "views": 314530,
     "songs": 188
   },
   "latest": [
