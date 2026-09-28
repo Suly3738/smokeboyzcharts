@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:19:36.764Z",
+  "generatedAt": "2026-09-28T21:20:32.889Z",
   "chartDate": "2026-09-28",
   "prevDate": "2026-09-21",
   "channel": {
@@ -173,7 +173,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 484,
+      "views": 485,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -181,7 +181,7 @@
       "move": -1,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 13
+      "viewsDelta": 14
     },
     {
       "pos": 8,
@@ -209,7 +209,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 445,
+      "views": 451,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -265,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13287,
+      "views": 13288,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 87
+      "viewsDelta": 88
     },
     {
       "pos": 3,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6685,
+      "views": 6686,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 3,
-      "viewsDelta": 23
+      "viewsDelta": 24
     },
     {
       "pos": 13,
@@ -895,7 +895,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2066,
+      "views": 2069,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -903,7 +903,7 @@
       "move": 2,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 25
+      "viewsDelta": 28
     },
     {
       "pos": 38,
@@ -1203,7 +1203,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13287,
+      "views": 13288,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1211,7 +1211,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 87
+      "viewsDelta": 88
     },
     {
       "pos": 5,
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40691,
+      "views": 40693,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30409,
+      "views": 30410,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314617,
+    "views": 314630,
     "songs": 188
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 445,
+      "views": 451,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 210,
+      "views": 211,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
