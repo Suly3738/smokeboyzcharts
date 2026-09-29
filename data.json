@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T07:22:40.563Z",
+  "generatedAt": "2026-09-29T08:23:56.421Z",
   "chartDate": "2026-09-29",
   "prevDate": "2026-09-22",
   "channel": {
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10925,
+      "views": 10926,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 55
+      "viewsDelta": 56
     },
     {
       "pos": 5,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9965,
+      "views": 9966,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 36
+      "viewsDelta": 37
     },
     {
       "pos": 6,
@@ -535,7 +535,7 @@
       "artist": "WUJA",
       "song": "ALL ALONE",
       "title": "WUJA - ALL ALONE",
-      "views": 4625,
+      "views": 4626,
       "url": "https://www.youtube.com/watch?v=4k7sgidRPDI",
       "thumb": "https://i.ytimg.com/vi/4k7sgidRPDI/mqdefault.jpg",
       "publishedText": "9 cze 2024",
@@ -543,7 +543,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 3,
-      "viewsDelta": 27
+      "viewsDelta": 28
     },
     {
       "pos": 18,
@@ -661,7 +661,7 @@
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
-      "views": 3598,
+      "views": 3599,
       "url": "https://www.youtube.com/watch?v=Lap3gXlJk1Q",
       "thumb": "https://i.ytimg.com/vi/Lap3gXlJk1Q/mqdefault.jpg",
       "publishedText": "4 kwi 2024",
@@ -669,7 +669,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 3,
-      "viewsDelta": 8
+      "viewsDelta": 9
     },
     {
       "pos": 25,
@@ -751,7 +751,7 @@
       "artist": "BABY FLAMESTA x DG SULLY",
       "song": "PORN$TAR",
       "title": "BABY FLAMESTA x DG SULLY - PORN$TAR (OFFICIAL VIDEO)",
-      "views": 2732,
+      "views": 2733,
       "url": "https://www.youtube.com/watch?v=bZuoIVpLLDE",
       "thumb": "https://i.ytimg.com/vi/bZuoIVpLLDE/mqdefault.jpg",
       "publishedText": "10 cze 2024",
@@ -759,7 +759,7 @@
       "move": 0,
       "peak": 29,
       "weeks": 3,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 30,
@@ -913,7 +913,7 @@
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2063,
+      "views": 2064,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
@@ -921,7 +921,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 16
+      "viewsDelta": 17
     },
     {
       "pos": 39,
@@ -1257,7 +1257,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10925,
+      "views": 10926,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1265,7 +1265,7 @@
       "move": -4,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 55
+      "viewsDelta": 56
     },
     {
       "pos": 8,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60917,
+      "views": 60918,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52700,
+      "views": 52701,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40714,
+      "views": 40715,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30422,
+      "views": 30424,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1380,7 +1380,7 @@
     {
       "pos": 10,
       "name": "Nieznany",
-      "views": 5476,
+      "views": 5478,
       "songs": 11,
       "bestSong": "SPACE TRIP | Official Movie",
       "bestArtist": "",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314782,
+    "views": 314790,
     "songs": 188
   },
   "latest": [
