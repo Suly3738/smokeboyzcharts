@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:19:37.725Z",
+  "generatedAt": "2026-09-29T00:28:04.783Z",
   "chartDate": "2026-09-29",
   "prevDate": "2026-09-22",
   "channel": {
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9333,
+      "views": 9334,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 45
+      "viewsDelta": 46
     },
     {
       "pos": 7,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6686,
+      "views": 6687,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 3,
-      "viewsDelta": 20
+      "viewsDelta": 21
     },
     {
       "pos": 13,
@@ -589,7 +589,7 @@
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
-      "views": 3856,
+      "views": 3857,
       "url": "https://www.youtube.com/watch?v=5qM3_rAl8-8",
       "thumb": "https://i.ytimg.com/vi/5qM3_rAl8-8/mqdefault.jpg",
       "publishedText": "11 lip 2024",
@@ -597,7 +597,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 3,
-      "viewsDelta": 10
+      "viewsDelta": 11
     },
     {
       "pos": 21,
@@ -625,7 +625,7 @@
       "artist": "88Dushane",
       "song": "GRR POW",
       "title": "88Dushane - GRR POW (Official Music Video)",
-      "views": 3833,
+      "views": 3835,
       "url": "https://www.youtube.com/watch?v=CCAtfc3uu18",
       "thumb": "https://i.ytimg.com/vi/CCAtfc3uu18/mqdefault.jpg",
       "publishedText": "1 lut 2024",
@@ -633,7 +633,7 @@
       "move": 0,
       "peak": 22,
       "weeks": 3,
-      "viewsDelta": 4
+      "viewsDelta": 6
     },
     {
       "pos": 23,
@@ -805,7 +805,7 @@
       "artist": "TONY LUGO",
       "song": "WIĘCEJ NIŻ MAM",
       "title": "TONY LUGO - WIĘCEJ NIŻ MAM (official video)",
-      "views": 2460,
+      "views": 2461,
       "url": "https://www.youtube.com/watch?v=Pz6uIhTaHwc",
       "thumb": "https://i.ytimg.com/vi/Pz6uIhTaHwc/mqdefault.jpg",
       "publishedText": "7 mar 2024",
@@ -813,7 +813,7 @@
       "move": 0,
       "peak": 32,
       "weeks": 3,
-      "viewsDelta": 6
+      "viewsDelta": 7
     },
     {
       "pos": 33,
@@ -895,7 +895,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2071,
+      "views": 2073,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -903,7 +903,7 @@
       "move": 2,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 27
+      "viewsDelta": 29
     },
     {
       "pos": 38,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60909,
+      "views": 60911,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52692,
+      "views": 52693,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40702,
+      "views": 40704,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15933,
+      "views": 15934,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314693,
+    "views": 314702,
     "songs": 188
   },
   "latest": [
