@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T17:20:51.144Z",
+  "generatedAt": "2026-09-29T18:25:46.106Z",
   "chartDate": "2026-09-29",
   "prevDate": "2026-09-22",
   "channel": {
@@ -265,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13305,
+      "views": 13308,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 98
+      "viewsDelta": 101
     },
     {
       "pos": 3,
@@ -355,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8268,
+      "views": 8270,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 54
+      "viewsDelta": 56
     },
     {
       "pos": 8,
@@ -895,7 +895,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2075,
+      "views": 2076,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -903,7 +903,7 @@
       "move": 2,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 31
+      "viewsDelta": 32
     },
     {
       "pos": 38,
@@ -1129,7 +1129,7 @@
       "artist": "KAYDY BABY",
       "song": "SMOKE",
       "title": "KAYDY BABY - SMOKE",
-      "views": 1397,
+      "views": 1396,
       "url": "https://www.youtube.com/watch?v=qk-xdGeJmMU",
       "thumb": "https://i.ytimg.com/vi/qk-xdGeJmMU/mqdefault.jpg",
       "publishedText": "2 sie 2024",
@@ -1137,7 +1137,7 @@
       "move": 0,
       "peak": 50,
       "weeks": 3,
-      "viewsDelta": 4
+      "viewsDelta": 3
     }
   ],
   "rising": [
@@ -1167,7 +1167,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13305,
+      "views": 13308,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1175,7 +1175,7 @@
       "move": 5,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 98
+      "viewsDelta": 101
     },
     {
       "pos": 3,
@@ -1269,21 +1269,21 @@
     },
     {
       "pos": 8,
-      "id": "_yAfcKGcz7Y",
+      "id": "A7fYhekJU-I",
       "isLatest": false,
       "cancelled": false,
-      "artist": "Tiny Shuj",
-      "song": "Nowy cali G",
-      "title": "Tiny Shuj - Nowy cali G",
-      "views": 1025,
-      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
-      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
-      "publishedText": "17 sie 2026",
-      "prevPos": 4,
-      "move": -4,
-      "peak": 4,
-      "weeks": 2,
-      "viewsDelta": 55
+      "artist": "BABY FLAMESTA",
+      "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
+      "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
+      "views": 8270,
+      "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
+      "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
+      "publishedText": "23 mar 2024",
+      "prevPos": null,
+      "move": "new",
+      "peak": 8,
+      "weeks": 1,
+      "viewsDelta": 56
     }
   ],
   "artists": [
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40735,
+      "views": 40740,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30440,
+      "views": 30443,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1370,7 +1370,7 @@
     {
       "pos": 9,
       "name": "PEDRO",
-      "views": 6964,
+      "views": 6965,
       "songs": 7,
       "bestSong": "DRIFT",
       "bestArtist": "PEDRO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314878,
+    "views": 314884,
     "songs": 188
   },
   "latest": [
