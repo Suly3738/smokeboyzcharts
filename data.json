@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T19:22:11.382Z",
+  "generatedAt": "2026-09-29T20:22:10.712Z",
   "chartDate": "2026-09-29",
   "prevDate": "2026-09-22",
   "channel": {
@@ -137,7 +137,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 891,
+      "views": 892,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -145,7 +145,7 @@
       "move": -1,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 31
+      "viewsDelta": 32
     },
     {
       "pos": 6,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9969,
+      "views": 9972,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 40
+      "viewsDelta": 43
     },
     {
       "pos": 6,
@@ -553,7 +553,7 @@
       "artist": "88Dushane",
       "song": "NIE WIEM GDZIE WIDZE GRANICE",
       "title": "88Dushane - NIE WIEM GDZIE WIDZE GRANICE",
-      "views": 4287,
+      "views": 4289,
       "url": "https://www.youtube.com/watch?v=DvbbinQ6z44",
       "thumb": "https://i.ytimg.com/vi/DvbbinQ6z44/mqdefault.jpg",
       "publishedText": "10 sty 2024",
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 3,
-      "viewsDelta": 12
+      "viewsDelta": 14
     },
     {
       "pos": 19,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4202,
+      "views": 4203,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 3,
-      "viewsDelta": 21
+      "viewsDelta": 22
     },
     {
       "pos": 20,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60927,
+      "views": 60932,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30443,
+      "views": 30444,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314913,
+    "views": 314920,
     "songs": 188
   },
   "latest": [
