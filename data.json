@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T04:21:49.132Z",
+  "generatedAt": "2026-09-29T05:20:55.673Z",
   "chartDate": "2026-09-29",
   "prevDate": "2026-09-22",
   "channel": {
@@ -265,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13293,
+      "views": 13295,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 86
+      "viewsDelta": 88
     },
     {
       "pos": 3,
@@ -283,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12427,
+      "views": 12428,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 26
+      "viewsDelta": 27
     },
     {
       "pos": 4,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9960,
+      "views": 9963,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 31
+      "viewsDelta": 34
     },
     {
       "pos": 6,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4200,
+      "views": 4201,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 3,
-      "viewsDelta": 19
+      "viewsDelta": 20
     },
     {
       "pos": 20,
@@ -1167,7 +1167,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13293,
+      "views": 13295,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1175,7 +1175,7 @@
       "move": 5,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 86
+      "viewsDelta": 88
     },
     {
       "pos": 3,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60912,
+      "views": 60915,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52699,
+      "views": 52700,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40712,
+      "views": 40714,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30419,
+      "views": 30422,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314768,
+    "views": 314775,
     "songs": 188
   },
   "latest": [
