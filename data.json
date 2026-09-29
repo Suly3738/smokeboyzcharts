@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:24:35.191Z",
+  "generatedAt": "2026-09-29T17:20:51.144Z",
   "chartDate": "2026-09-29",
   "prevDate": "2026-09-22",
   "channel": {
@@ -247,7 +247,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14288,
+      "views": 14291,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 39
+      "viewsDelta": 42
     },
     {
       "pos": 2,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9335,
+      "views": 9336,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 47
+      "viewsDelta": 48
     },
     {
       "pos": 7,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6689,
+      "views": 6691,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 3,
-      "viewsDelta": 23
+      "viewsDelta": 25
     },
     {
       "pos": 13,
@@ -463,7 +463,7 @@
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
-      "views": 6600,
+      "views": 6601,
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 3,
-      "viewsDelta": 12
+      "viewsDelta": 13
     },
     {
       "pos": 14,
@@ -661,7 +661,7 @@
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
-      "views": 3601,
+      "views": 3602,
       "url": "https://www.youtube.com/watch?v=Lap3gXlJk1Q",
       "thumb": "https://i.ytimg.com/vi/Lap3gXlJk1Q/mqdefault.jpg",
       "publishedText": "4 kwi 2024",
@@ -669,7 +669,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 3,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 25,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2420,
+      "views": 2421,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 3,
-      "viewsDelta": 17
+      "viewsDelta": 18
     },
     {
       "pos": 34,
@@ -1129,7 +1129,7 @@
       "artist": "KAYDY BABY",
       "song": "SMOKE",
       "title": "KAYDY BABY - SMOKE",
-      "views": 1396,
+      "views": 1397,
       "url": "https://www.youtube.com/watch?v=qk-xdGeJmMU",
       "thumb": "https://i.ytimg.com/vi/qk-xdGeJmMU/mqdefault.jpg",
       "publishedText": "2 sie 2024",
@@ -1137,7 +1137,7 @@
       "move": 0,
       "peak": 50,
       "weeks": 3,
-      "viewsDelta": 3
+      "viewsDelta": 4
     }
   ],
   "rising": [
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52710,
+      "views": 52713,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40732,
+      "views": 40735,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30439,
+      "views": 30440,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15935,
+      "views": 15937,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 314868,
+    "views": 314878,
     "songs": 188
   },
   "latest": [
