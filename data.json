@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:21:37.043Z",
+  "generatedAt": "2026-09-30T02:20:19.263Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -137,7 +137,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 896,
+      "views": 897,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -145,7 +145,7 @@
       "move": -1,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 27
+      "viewsDelta": 28
     },
     {
       "pos": 6,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2423,
+      "views": 2424,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 3,
-      "viewsDelta": 19
+      "viewsDelta": 20
     },
     {
       "pos": 34,
@@ -1111,7 +1111,7 @@
       "artist": "88TRAY",
       "song": "WYJAŚNIENIE",
       "title": "88TRAY - WYJAŚNIENIE",
-      "views": 1539,
+      "views": 1540,
       "url": "https://www.youtube.com/watch?v=F3wUp8JkMTU",
       "thumb": "https://i.ytimg.com/vi/F3wUp8JkMTU/mqdefault.jpg",
       "publishedText": "19 sty 2024",
@@ -1119,7 +1119,7 @@
       "move": 0,
       "peak": 49,
       "weeks": 3,
-      "viewsDelta": 4
+      "viewsDelta": 5
     },
     {
       "pos": 50,
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40749,
+      "views": 40750,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1360,7 +1360,7 @@
     {
       "pos": 8,
       "name": "88TRAY",
-      "views": 7355,
+      "views": 7356,
       "songs": 4,
       "bestSong": "4 A.M.",
       "bestArtist": "88TRAY",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315014,
+    "views": 315018,
     "songs": 188
   },
   "latest": [
