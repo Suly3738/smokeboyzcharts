@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T10:23:20.602Z",
+  "generatedAt": "2026-09-30T11:20:32.324Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -65,7 +65,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2252,
+      "views": 2254,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 82
+      "viewsDelta": 84
     },
     {
       "pos": 2,
@@ -83,7 +83,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1314,
+      "views": 1315,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 46
+      "viewsDelta": 47
     },
     {
       "pos": 3,
@@ -137,7 +137,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 897,
+      "views": 898,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -145,7 +145,7 @@
       "move": -1,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 28
+      "viewsDelta": 29
     },
     {
       "pos": 6,
@@ -167,24 +167,6 @@
     },
     {
       "pos": 7,
-      "id": "MQXUotiTsWU",
-      "isLatest": true,
-      "cancelled": false,
-      "artist": "TINY SHUJ SWANFACE",
-      "song": "ciągle nam mało",
-      "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 495,
-      "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
-      "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
-      "publishedText": "23 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 7,
-      "weeks": 1,
-      "viewsDelta": 446
-    },
-    {
-      "pos": 8,
       "id": "Vu98RAuH5xk",
       "isLatest": false,
       "cancelled": false,
@@ -196,10 +178,28 @@
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
       "prevPos": 7,
-      "move": -1,
+      "move": 0,
       "peak": 6,
       "weeks": 3,
       "viewsDelta": 20
+    },
+    {
+      "pos": 8,
+      "id": "MQXUotiTsWU",
+      "isLatest": true,
+      "cancelled": false,
+      "artist": "TINY SHUJ SWANFACE",
+      "song": "ciągle nam mało",
+      "title": "TINY SHUJ SWANFACE - ciągle nam mało",
+      "views": 492,
+      "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
+      "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
+      "publishedText": "23 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 8,
+      "weeks": 1,
+      "viewsDelta": 443
     },
     {
       "pos": 9,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9337,
+      "views": 9338,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 45
+      "viewsDelta": 46
     },
     {
       "pos": 7,
@@ -607,7 +607,7 @@
       "artist": "88Dushane",
       "song": "PIONKI (PAPA DISS) (DAM CI RÓŻNICĘ)",
       "title": "88Dushane - PIONKI (PAPA DISS) (DAM CI RÓŻNICĘ)",
-      "views": 3854,
+      "views": 3855,
       "url": "https://www.youtube.com/watch?v=OoLXI8k5kYc",
       "thumb": "https://i.ytimg.com/vi/OoLXI8k5kYc/mqdefault.jpg",
       "publishedText": "11 lis 2023",
@@ -615,7 +615,7 @@
       "move": 0,
       "peak": 21,
       "weeks": 3,
-      "viewsDelta": 16
+      "viewsDelta": 17
     },
     {
       "pos": 22,
@@ -859,7 +859,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2252,
+      "views": 2254,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -867,7 +867,7 @@
       "move": 1,
       "peak": 35,
       "weeks": 3,
-      "viewsDelta": 82
+      "viewsDelta": 84
     },
     {
       "pos": 36,
@@ -1167,7 +1167,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 495,
+      "views": 492,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1175,7 +1175,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 446
+      "viewsDelta": 443
     },
     {
       "pos": 3,
@@ -1221,7 +1221,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2252,
+      "views": 2254,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1229,7 +1229,7 @@
       "move": -4,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 82
+      "viewsDelta": 84
     },
     {
       "pos": 6,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60940,
+      "views": 60941,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15939,
+      "views": 15940,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315135,
+    "views": 315141,
     "songs": 188
   },
   "latest": [
@@ -1398,14 +1398,14 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 495,
+      "views": 492,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
       "publishedAt": "2026-09-23T19:00:05Z",
       "publishedText": "23 wrz 2026",
       "isNew": true,
-      "viewsDelta": 446
+      "viewsDelta": 443
     },
     {
       "id": "tqf-3o0PhxM",
