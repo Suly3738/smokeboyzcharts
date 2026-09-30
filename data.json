@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:30:46.666Z",
+  "generatedAt": "2026-09-30T13:24:30.667Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -167,6 +167,24 @@
     },
     {
       "pos": 7,
+      "id": "MQXUotiTsWU",
+      "isLatest": true,
+      "cancelled": false,
+      "artist": "TINY SHUJ SWANFACE",
+      "song": "ciągle nam mało",
+      "title": "TINY SHUJ SWANFACE - ciągle nam mało",
+      "views": 498,
+      "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
+      "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
+      "publishedText": "23 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 7,
+      "weeks": 1,
+      "viewsDelta": 449
+    },
+    {
+      "pos": 8,
       "id": "Vu98RAuH5xk",
       "isLatest": false,
       "cancelled": false,
@@ -178,28 +196,10 @@
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
       "prevPos": 7,
-      "move": 0,
+      "move": -1,
       "peak": 6,
       "weeks": 3,
       "viewsDelta": 20
-    },
-    {
-      "pos": 8,
-      "id": "MQXUotiTsWU",
-      "isLatest": true,
-      "cancelled": false,
-      "artist": "TINY SHUJ SWANFACE",
-      "song": "ciągle nam mało",
-      "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 492,
-      "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
-      "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
-      "publishedText": "23 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 8,
-      "weeks": 1,
-      "viewsDelta": 443
     },
     {
       "pos": 9,
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10934,
+      "views": 10935,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 56
+      "viewsDelta": 57
     },
     {
       "pos": 5,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9977,
+      "views": 9978,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 6,
@@ -373,7 +373,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 7935,
+      "views": 7936,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 3,
-      "viewsDelta": 15
+      "viewsDelta": 16
     },
     {
       "pos": 9,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6182,
+      "views": 6183,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 3,
-      "viewsDelta": 33
+      "viewsDelta": 34
     },
     {
       "pos": 15,
@@ -553,7 +553,7 @@
       "artist": "88Dushane",
       "song": "NIE WIEM GDZIE WIDZE GRANICE",
       "title": "88Dushane - NIE WIEM GDZIE WIDZE GRANICE",
-      "views": 4289,
+      "views": 4290,
       "url": "https://www.youtube.com/watch?v=DvbbinQ6z44",
       "thumb": "https://i.ytimg.com/vi/DvbbinQ6z44/mqdefault.jpg",
       "publishedText": "10 sty 2024",
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 3,
-      "viewsDelta": 14
+      "viewsDelta": 15
     },
     {
       "pos": 19,
@@ -1167,7 +1167,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 492,
+      "views": 498,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1175,7 +1175,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 443
+      "viewsDelta": 449
     },
     {
       "pos": 3,
@@ -1257,7 +1257,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10934,
+      "views": 10935,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1265,7 +1265,7 @@
       "move": -4,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 56
+      "viewsDelta": 57
     },
     {
       "pos": 8,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60942,
+      "views": 60946,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52723,
+      "views": 52724,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315143,
+    "views": 315154,
     "songs": 188
   },
   "latest": [
@@ -1398,14 +1398,14 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 492,
+      "views": 498,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
       "publishedAt": "2026-09-23T19:00:05Z",
       "publishedText": "23 wrz 2026",
       "isNew": true,
-      "viewsDelta": 443
+      "viewsDelta": 449
     },
     {
       "id": "tqf-3o0PhxM",
