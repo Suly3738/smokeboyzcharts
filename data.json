@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T06:27:13.701Z",
+  "generatedAt": "2026-09-30T07:24:04.162Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -119,7 +119,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1034,
+      "views": 1035,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -127,7 +127,7 @@
       "move": -1,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 57
+      "viewsDelta": 58
     },
     {
       "pos": 5,
@@ -227,7 +227,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 445,
+      "views": 446,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
@@ -235,7 +235,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 41
+      "viewsDelta": 42
     }
   ],
   "allTime": [
@@ -247,7 +247,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14293,
+      "views": 14294,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 2,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6691,
+      "views": 6692,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 3,
-      "viewsDelta": 22
+      "viewsDelta": 23
     },
     {
       "pos": 13,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2424,
+      "views": 2425,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 3,
-      "viewsDelta": 20
+      "viewsDelta": 21
     },
     {
       "pos": 34,
@@ -1185,7 +1185,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 234,
+      "views": 238,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1193,7 +1193,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 219
+      "viewsDelta": 223
     },
     {
       "pos": 4,
@@ -1239,7 +1239,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1034,
+      "views": 1035,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1247,7 +1247,7 @@
       "move": -2,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 57
+      "viewsDelta": 58
     },
     {
       "pos": 7,
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52720,
+      "views": 52721,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40753,
+      "views": 40755,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315089,
+    "views": 315101,
     "songs": 188
   },
   "latest": [
@@ -1412,14 +1412,14 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 234,
+      "views": 238,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
       "publishedAt": "2026-09-23T18:00:22Z",
       "publishedText": "23 wrz 2026",
       "isNew": true,
-      "viewsDelta": 219
+      "viewsDelta": 223
     },
     {
       "id": "7VY0otyAwi4",
