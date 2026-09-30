@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T14:24:57.680Z",
+  "generatedAt": "2026-09-30T15:25:05.950Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -283,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12429,
+      "views": 12432,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 21
+      "viewsDelta": 24
     },
     {
       "pos": 4,
@@ -625,7 +625,7 @@
       "artist": "88Dushane",
       "song": "GRR POW",
       "title": "88Dushane - GRR POW (Official Music Video)",
-      "views": 3835,
+      "views": 3836,
       "url": "https://www.youtube.com/watch?v=CCAtfc3uu18",
       "thumb": "https://i.ytimg.com/vi/CCAtfc3uu18/mqdefault.jpg",
       "publishedText": "1 lut 2024",
@@ -633,7 +633,7 @@
       "move": 0,
       "peak": 22,
       "weeks": 3,
-      "viewsDelta": 5
+      "viewsDelta": 6
     },
     {
       "pos": 23,
@@ -697,7 +697,7 @@
       "artist": "BibbyOG",
       "song": "DZIECIORÓB [DISS TONY LUGO]",
       "title": "BibbyOG - DZIECIORÓB [DISS TONY LUGO]",
-      "views": 3115,
+      "views": 3116,
       "url": "https://www.youtube.com/watch?v=IM1RJ_GZbww",
       "thumb": "https://i.ytimg.com/vi/IM1RJ_GZbww/mqdefault.jpg",
       "publishedText": "19 cze 2024",
@@ -705,7 +705,7 @@
       "move": 0,
       "peak": 26,
       "weeks": 3,
-      "viewsDelta": 6
+      "viewsDelta": 7
     },
     {
       "pos": 27,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2426,
+      "views": 2425,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 3,
-      "viewsDelta": 22
+      "viewsDelta": 21
     },
     {
       "pos": 34,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60946,
+      "views": 60947,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52726,
+      "views": 52729,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40759,
+      "views": 40758,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1330,7 +1330,7 @@
     {
       "pos": 5,
       "name": "BibbyOG",
-      "views": 16175,
+      "views": 16176,
       "songs": 9,
       "bestSong": "BULLET TIME",
       "bestArtist": "BibbyOG",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315170,
+    "views": 315175,
     "songs": 188
   },
   "latest": [
