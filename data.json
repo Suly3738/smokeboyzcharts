@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T03:22:10.824Z",
+  "generatedAt": "2026-09-30T04:23:01.729Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -733,7 +733,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2792,
+      "views": 2793,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 3,
-      "viewsDelta": 34
+      "viewsDelta": 35
     },
     {
       "pos": 29,
@@ -1185,7 +1185,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 230,
+      "views": 234,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1193,7 +1193,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 215
+      "viewsDelta": 219
     },
     {
       "pos": 4,
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40752,
+      "views": 40753,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30452,
+      "views": 30453,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1370,7 +1370,7 @@
     {
       "pos": 9,
       "name": "PEDRO",
-      "views": 6967,
+      "views": 6968,
       "songs": 7,
       "bestSong": "DRIFT",
       "bestArtist": "PEDRO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315048,
+    "views": 315055,
     "songs": 188
   },
   "latest": [
@@ -1412,14 +1412,14 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 230,
+      "views": 234,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
       "publishedAt": "2026-09-23T18:00:22Z",
       "publishedText": "23 wrz 2026",
       "isNew": true,
-      "viewsDelta": 215
+      "viewsDelta": 219
     },
     {
       "id": "7VY0otyAwi4",
