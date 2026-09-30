@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T15:25:05.950Z",
+  "generatedAt": "2026-09-30T16:25:36.591Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -18,7 +18,7 @@
   "stats": {
     "source": "YouTube Data API",
     "inexact": 0,
-    "totalVideos": 196,
+    "totalVideos": 197,
     "excluded": [
       {
         "id": "JJ0LXk7V220",
@@ -53,8 +53,8 @@
         "title": "Los Santos Drift | S01E01 | PILOT"
       }
     ],
-    "nowPoolSize": 28,
-    "allTimePoolSize": 188
+    "nowPoolSize": 29,
+    "allTimePoolSize": 189
   },
   "now": [
     {
@@ -265,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13315,
+      "views": 13316,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 93
+      "viewsDelta": 94
     },
     {
       "pos": 3,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9977,
+      "views": 9979,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 39
+      "viewsDelta": 41
     },
     {
       "pos": 6,
@@ -355,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8270,
+      "views": 8271,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 51
+      "viewsDelta": 52
     },
     {
       "pos": 8,
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6836,
+      "views": 6837,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 3,
-      "viewsDelta": 54
+      "viewsDelta": 55
     },
     {
       "pos": 11,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6183,
+      "views": 6184,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 3,
-      "viewsDelta": 34
+      "viewsDelta": 35
     },
     {
       "pos": 15,
@@ -643,7 +643,7 @@
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
-      "views": 3671,
+      "views": 3672,
       "url": "https://www.youtube.com/watch?v=UpFIrX-aWEw",
       "thumb": "https://i.ytimg.com/vi/UpFIrX-aWEw/mqdefault.jpg",
       "publishedText": "4 maj 2024",
@@ -651,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 3,
-      "viewsDelta": 9
+      "viewsDelta": 10
     },
     {
       "pos": 24,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2425,
+      "views": 2426,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 3,
-      "viewsDelta": 21
+      "viewsDelta": 22
     },
     {
       "pos": 34,
@@ -1203,7 +1203,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13315,
+      "views": 13316,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1211,7 +1211,7 @@
       "move": 2,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 93
+      "viewsDelta": 94
     },
     {
       "pos": 5,
@@ -1275,7 +1275,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6836,
+      "views": 6837,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -1283,14 +1283,14 @@
       "move": "new",
       "peak": 6,
       "weeks": 2,
-      "viewsDelta": 54
+      "viewsDelta": 55
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60947,
+      "views": 60951,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52729,
+      "views": 52730,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40758,
+      "views": 40761,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30457,
+      "views": 30458,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,10 +1389,24 @@
     }
   ],
   "totals": {
-    "views": 315175,
-    "songs": 188
+    "views": 315184,
+    "songs": 189
   },
   "latest": [
+    {
+      "id": "wVJGtmgWihY",
+      "artist": "LuCKy",
+      "song": "W moich ramionach",
+      "title": "LuCKy - W moich ramionach",
+      "views": 0,
+      "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
+      "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
+      "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
+      "publishedAt": "2026-09-30T15:38:24Z",
+      "publishedText": "30 wrz 2026",
+      "isNew": true,
+      "viewsDelta": null
+    },
     {
       "id": "MQXUotiTsWU",
       "artist": "TINY SHUJ SWANFACE",
@@ -1420,20 +1434,6 @@
       "publishedText": "23 wrz 2026",
       "isNew": true,
       "viewsDelta": 224
-    },
-    {
-      "id": "7VY0otyAwi4",
-      "artist": "Soto Brothers",
-      "song": "Who the fuck is sosa (SOSA DISS)",
-      "title": "Soto Brothers - Who the fuck is sosa (SOSA DISS)",
-      "views": 143,
-      "url": "https://www.youtube.com/watch?v=7VY0otyAwi4",
-      "thumb": "https://i.ytimg.com/vi/7VY0otyAwi4/mqdefault.jpg",
-      "thumbLarge": "https://i.ytimg.com/vi/7VY0otyAwi4/hqdefault.jpg",
-      "publishedAt": "2026-09-21T18:00:05Z",
-      "publishedText": "21 wrz 2026",
-      "isNew": false,
-      "viewsDelta": 46
     }
   ]
 }
