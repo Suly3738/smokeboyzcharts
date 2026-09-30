@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:22:03.850Z",
+  "generatedAt": "2026-09-30T20:22:08.137Z",
   "chartDate": "2026-09-30",
   "prevDate": "2026-09-23",
   "channel": {
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6840,
+      "views": 6841,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 3,
-      "viewsDelta": 58
+      "viewsDelta": 59
     },
     {
       "pos": 11,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4205,
+      "views": 4204,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 3,
-      "viewsDelta": 22
+      "viewsDelta": 21
     },
     {
       "pos": 20,
@@ -589,7 +589,7 @@
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
-      "views": 3862,
+      "views": 3863,
       "url": "https://www.youtube.com/watch?v=5qM3_rAl8-8",
       "thumb": "https://i.ytimg.com/vi/5qM3_rAl8-8/mqdefault.jpg",
       "publishedText": "11 lip 2024",
@@ -597,7 +597,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 3,
-      "viewsDelta": 15
+      "viewsDelta": 16
     },
     {
       "pos": 21,
@@ -625,7 +625,7 @@
       "artist": "88Dushane",
       "song": "GRR POW",
       "title": "88Dushane - GRR POW (Official Music Video)",
-      "views": 3837,
+      "views": 3838,
       "url": "https://www.youtube.com/watch?v=CCAtfc3uu18",
       "thumb": "https://i.ytimg.com/vi/CCAtfc3uu18/mqdefault.jpg",
       "publishedText": "1 lut 2024",
@@ -633,7 +633,7 @@
       "move": 0,
       "peak": 22,
       "weeks": 3,
-      "viewsDelta": 7
+      "viewsDelta": 8
     },
     {
       "pos": 23,
@@ -1251,6 +1251,24 @@
     },
     {
       "pos": 7,
+      "id": "lFAtuKc7Tz8",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "88Dushane",
+      "song": "Femme Fatale",
+      "title": "88Dushane - Femme Fatale (Official Music Video)",
+      "views": 6841,
+      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
+      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
+      "publishedText": "24 lut 2024",
+      "prevPos": null,
+      "move": "new",
+      "peak": 6,
+      "weeks": 2,
+      "viewsDelta": 59
+    },
+    {
+      "pos": 8,
       "id": "GcFByoqlJgY",
       "isLatest": false,
       "cancelled": false,
@@ -1262,35 +1280,17 @@
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
       "prevPos": 3,
-      "move": -4,
+      "move": -5,
       "peak": 3,
       "weeks": 2,
       "viewsDelta": 59
-    },
-    {
-      "pos": 8,
-      "id": "lFAtuKc7Tz8",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "88Dushane",
-      "song": "Femme Fatale",
-      "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6840,
-      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
-      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
-      "publishedText": "24 lut 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 6,
-      "weeks": 2,
-      "viewsDelta": 58
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60963,
+      "views": 60965,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40762,
+      "views": 40763,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30460,
+      "views": 30459,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315293,
+    "views": 315296,
     "songs": 189
   },
   "latest": [
