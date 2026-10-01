@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-01T21:21:17.245Z",
-  "chartDate": "2026-10-01",
-  "prevDate": "2026-09-24",
+  "generatedAt": "2026-10-01T22:19:39.236Z",
+  "chartDate": "2026-10-02",
+  "prevDate": "2026-09-25",
   "channel": {
     "title": "Pixa Roleplay",
     "url": "https://www.youtube.com/@PixaRoleplay"
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 74
+      "viewsDelta": 66
     },
     {
       "pos": 2,
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 46
+      "viewsDelta": 42
     },
     {
       "pos": 3,
@@ -105,11 +105,11 @@
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
-      "prevPos": 6,
-      "move": 3,
+      "prevPos": 5,
+      "move": 2,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 480
+      "viewsDelta": 387
     },
     {
       "pos": 4,
@@ -127,7 +127,7 @@
       "move": -1,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 57
+      "viewsDelta": 48
     },
     {
       "pos": 5,
@@ -145,7 +145,7 @@
       "move": -1,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 31
+      "viewsDelta": 29
     },
     {
       "pos": 6,
@@ -159,11 +159,11 @@
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
-      "prevPos": 5,
-      "move": -1,
+      "prevPos": 6,
+      "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 14
+      "viewsDelta": 12
     },
     {
       "pos": 7,
@@ -181,7 +181,7 @@
       "move": "new",
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 213
+      "viewsDelta": 166
     },
     {
       "pos": 8,
@@ -199,7 +199,7 @@
       "move": -1,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 19
+      "viewsDelta": 18
     },
     {
       "pos": 9,
@@ -217,7 +217,7 @@
       "move": -1,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 23
+      "viewsDelta": 21
     },
     {
       "pos": 10,
@@ -231,11 +231,11 @@
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
-      "prevPos": 9,
-      "move": -1,
+      "prevPos": 10,
+      "move": 0,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 24
+      "viewsDelta": 22
     }
   ],
   "allTime": [
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 38
+      "viewsDelta": 25
     },
     {
       "pos": 2,
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 89
+      "viewsDelta": 78
     },
     {
       "pos": 3,
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 21
+      "viewsDelta": 15
     },
     {
       "pos": 4,
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 67
+      "viewsDelta": 58
     },
     {
       "pos": 5,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9997,
+      "views": 9996,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 52
+      "viewsDelta": 48
     },
     {
       "pos": 6,
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 43
+      "viewsDelta": 35
     },
     {
       "pos": 7,
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 50
+      "viewsDelta": 43
     },
     {
       "pos": 8,
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 3,
-      "viewsDelta": 13
+      "viewsDelta": 11
     },
     {
       "pos": 9,
@@ -399,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 3,
-      "viewsDelta": 21
+      "viewsDelta": 19
     },
     {
       "pos": 10,
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 3,
-      "viewsDelta": 56
+      "viewsDelta": 41
     },
     {
       "pos": 11,
@@ -435,7 +435,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 3,
-      "viewsDelta": 28
+      "viewsDelta": 19
     },
     {
       "pos": 12,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6699,
+      "views": 6702,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 3,
-      "viewsDelta": 26
+      "viewsDelta": 25
     },
     {
       "pos": 13,
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 3,
-      "viewsDelta": 19
+      "viewsDelta": 17
     },
     {
       "pos": 14,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6191,
+      "views": 6192,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 3,
-      "viewsDelta": 38
+      "viewsDelta": 35
     },
     {
       "pos": 15,
@@ -543,7 +543,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 3,
-      "viewsDelta": 22
+      "viewsDelta": 17
     },
     {
       "pos": 18,
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 3,
-      "viewsDelta": 15
+      "viewsDelta": 11
     },
     {
       "pos": 19,
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 3,
-      "viewsDelta": 26
+      "viewsDelta": 25
     },
     {
       "pos": 20,
@@ -597,7 +597,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 3,
-      "viewsDelta": 17
+      "viewsDelta": 15
     },
     {
       "pos": 21,
@@ -615,7 +615,7 @@
       "move": 0,
       "peak": 21,
       "weeks": 3,
-      "viewsDelta": 21
+      "viewsDelta": 20
     },
     {
       "pos": 22,
@@ -633,7 +633,7 @@
       "move": 0,
       "peak": 22,
       "weeks": 3,
-      "viewsDelta": 13
+      "viewsDelta": 11
     },
     {
       "pos": 23,
@@ -651,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 3,
-      "viewsDelta": 11
+      "viewsDelta": 9
     },
     {
       "pos": 24,
@@ -669,7 +669,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 3,
-      "viewsDelta": 15
+      "viewsDelta": 13
     },
     {
       "pos": 25,
@@ -687,7 +687,7 @@
       "move": 0,
       "peak": 25,
       "weeks": 3,
-      "viewsDelta": 4
+      "viewsDelta": 3
     },
     {
       "pos": 26,
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 3,
-      "viewsDelta": 26
+      "viewsDelta": 18
     },
     {
       "pos": 29,
@@ -759,7 +759,7 @@
       "move": 0,
       "peak": 29,
       "weeks": 3,
-      "viewsDelta": 11
+      "viewsDelta": 10
     },
     {
       "pos": 30,
@@ -795,7 +795,7 @@
       "move": 0,
       "peak": 31,
       "weeks": 3,
-      "viewsDelta": 8
+      "viewsDelta": 4
     },
     {
       "pos": 32,
@@ -813,7 +813,7 @@
       "move": 0,
       "peak": 32,
       "weeks": 3,
-      "viewsDelta": 11
+      "viewsDelta": 9
     },
     {
       "pos": 33,
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 3,
-      "viewsDelta": 27
+      "viewsDelta": 25
     },
     {
       "pos": 34,
@@ -867,7 +867,7 @@
       "move": 0,
       "peak": 35,
       "weeks": 3,
-      "viewsDelta": 74
+      "viewsDelta": 66
     },
     {
       "pos": 36,
@@ -899,11 +899,11 @@
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
-      "prevPos": 38,
-      "move": 1,
+      "prevPos": 37,
+      "move": 0,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 38
+      "viewsDelta": 30
     },
     {
       "pos": 38,
@@ -917,11 +917,11 @@
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
-      "prevPos": 37,
-      "move": -1,
+      "prevPos": 38,
+      "move": 0,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 19
+      "viewsDelta": 18
     },
     {
       "pos": 39,
@@ -1065,7 +1065,7 @@
       "move": 2,
       "peak": 46,
       "weeks": 3,
-      "viewsDelta": 9
+      "viewsDelta": 8
     },
     {
       "pos": 47,
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 480
+      "viewsDelta": 387
     },
     {
       "pos": 2,
@@ -1175,7 +1175,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 213
+      "viewsDelta": 166
     },
     {
       "pos": 3,
@@ -1193,7 +1193,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 108
+      "viewsDelta": 82
     },
     {
       "pos": 4,
@@ -1207,11 +1207,11 @@
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
-      "prevPos": 3,
-      "move": -1,
+      "prevPos": 5,
+      "move": 1,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 89
+      "viewsDelta": 78
     },
     {
       "pos": 5,
@@ -1225,11 +1225,11 @@
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
-      "prevPos": 1,
-      "move": -4,
+      "prevPos": 3,
+      "move": -2,
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 74
+      "viewsDelta": 66
     },
     {
       "pos": 6,
@@ -1243,11 +1243,11 @@
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
-      "prevPos": 4,
-      "move": -2,
+      "prevPos": 7,
+      "move": 1,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 67
+      "viewsDelta": 58
     },
     {
       "pos": 7,
@@ -1261,29 +1261,29 @@
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
-      "prevPos": 5,
-      "move": -2,
+      "prevPos": 6,
+      "move": -1,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 57
+      "viewsDelta": 48
     },
     {
       "pos": 8,
-      "id": "lFAtuKc7Tz8",
+      "id": "IJXt-qAG-2Q",
       "isLatest": false,
       "cancelled": false,
       "artist": "88Dushane",
-      "song": "Femme Fatale",
-      "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6851,
-      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
-      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
-      "publishedText": "24 lut 2024",
+      "song": "Slowly Dying",
+      "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
+      "views": 9996,
+      "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
+      "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
+      "publishedText": "24 sty 2024",
       "prevPos": null,
       "move": "new",
-      "peak": 6,
+      "peak": 8,
       "weeks": 2,
-      "viewsDelta": 56
+      "viewsDelta": 48
     }
   ],
   "artists": [
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40805,
+      "views": 40808,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1360,7 +1360,7 @@
     {
       "pos": 8,
       "name": "88TRAY",
-      "views": 7361,
+      "views": 7360,
       "songs": 4,
       "bestSong": "4 A.M.",
       "bestArtist": "88TRAY",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315813,
+    "views": 315873,
     "songs": 190
   },
   "latest": [
@@ -1412,7 +1412,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 240,
+      "views": 296,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
@@ -1433,7 +1433,7 @@
       "publishedAt": "2026-09-23T19:00:05Z",
       "publishedText": "23 wrz 2026",
       "isNew": false,
-      "viewsDelta": 213
+      "viewsDelta": 166
     }
   ]
 }
