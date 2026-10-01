@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:21:12.623Z",
+  "generatedAt": "2026-10-01T03:22:40.734Z",
   "chartDate": "2026-10-01",
   "prevDate": "2026-09-24",
   "channel": {
@@ -155,7 +155,7 @@
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
-      "views": 662,
+      "views": 663,
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
@@ -163,7 +163,7 @@
       "move": -1,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 11
+      "viewsDelta": 12
     },
     {
       "pos": 7,
@@ -355,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8274,
+      "views": 8275,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 47
+      "viewsDelta": 48
     },
     {
       "pos": 8,
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6842,
+      "views": 6844,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 3,
-      "viewsDelta": 47
+      "viewsDelta": 49
     },
     {
       "pos": 11,
@@ -1269,28 +1269,28 @@
     },
     {
       "pos": 8,
-      "id": "A7fYhekJU-I",
+      "id": "lFAtuKc7Tz8",
       "isLatest": false,
       "cancelled": false,
-      "artist": "BABY FLAMESTA",
-      "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8274,
-      "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
-      "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
-      "publishedText": "23 mar 2024",
+      "artist": "88Dushane",
+      "song": "Femme Fatale",
+      "title": "88Dushane - Femme Fatale (Official Music Video)",
+      "views": 6844,
+      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
+      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
+      "publishedText": "24 lut 2024",
       "prevPos": null,
       "move": "new",
-      "peak": 8,
-      "weeks": 1,
-      "viewsDelta": 47
+      "peak": 6,
+      "weeks": 2,
+      "viewsDelta": 49
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60981,
+      "views": 60983,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40776,
+      "views": 40777,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1350,7 +1350,7 @@
     {
       "pos": 7,
       "name": "ST",
-      "views": 8461,
+      "views": 8462,
       "songs": 15,
       "bestSong": "Actin Crazy",
       "bestArtist": "ST",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315482,
+    "views": 315487,
     "songs": 189
   },
   "latest": [
