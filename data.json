@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T16:22:16.069Z",
+  "generatedAt": "2026-10-01T17:21:57.596Z",
   "chartDate": "2026-10-01",
   "prevDate": "2026-09-24",
   "channel": {
@@ -83,7 +83,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1325,
+      "views": 1326,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 3,
-      "viewsDelta": 45
+      "viewsDelta": 46
     },
     {
       "pos": 3,
@@ -101,7 +101,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1088,
+      "views": 1089,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -109,7 +109,7 @@
       "move": 3,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 477
+      "viewsDelta": 478
     },
     {
       "pos": 4,
@@ -119,7 +119,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1043,
+      "views": 1046,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -127,7 +127,7 @@
       "move": -1,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 54
+      "viewsDelta": 57
     },
     {
       "pos": 5,
@@ -137,7 +137,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 901,
+      "views": 902,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -145,7 +145,7 @@
       "move": -1,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 30
+      "viewsDelta": 31
     },
     {
       "pos": 6,
@@ -209,7 +209,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 482,
+      "views": 484,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -217,7 +217,7 @@
       "move": -1,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 19
+      "viewsDelta": 21
     },
     {
       "pos": 10,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6698,
+      "views": 6699,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 3,
-      "viewsDelta": 25
+      "viewsDelta": 26
     },
     {
       "pos": 13,
@@ -463,7 +463,7 @@
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
-      "views": 6611,
+      "views": 6612,
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 3,
-      "viewsDelta": 17
+      "viewsDelta": 18
     },
     {
       "pos": 14,
@@ -913,7 +913,7 @@
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2070,
+      "views": 2071,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
@@ -921,7 +921,7 @@
       "move": -1,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 17
+      "viewsDelta": 18
     },
     {
       "pos": 39,
@@ -1051,24 +1051,6 @@
     },
     {
       "pos": 46,
-      "id": "CWTlZqr-3Is",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "SELENA",
-      "song": "MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
-      "title": "SELENA - MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
-      "views": 1678,
-      "url": "https://www.youtube.com/watch?v=CWTlZqr-3Is",
-      "thumb": "https://i.ytimg.com/vi/CWTlZqr-3Is/mqdefault.jpg",
-      "publishedText": "5 lut 2024",
-      "prevPos": 48,
-      "move": 2,
-      "peak": 46,
-      "weeks": 3,
-      "viewsDelta": 9
-    },
-    {
-      "pos": 47,
       "id": "_me1SfLaZCo",
       "isLatest": false,
       "cancelled": false,
@@ -1080,13 +1062,13 @@
       "thumb": "https://i.ytimg.com/vi/_me1SfLaZCo/mqdefault.jpg",
       "publishedText": "1 lut 2024",
       "prevPos": 46,
-      "move": -1,
+      "move": 0,
       "peak": 45,
       "weeks": 3,
       "viewsDelta": 0
     },
     {
-      "pos": 48,
+      "pos": 47,
       "id": "6F01QNtqlO0",
       "isLatest": false,
       "cancelled": false,
@@ -1098,10 +1080,28 @@
       "thumb": "https://i.ytimg.com/vi/6F01QNtqlO0/mqdefault.jpg",
       "publishedText": "1 lis 2023",
       "prevPos": 47,
-      "move": -1,
+      "move": 0,
       "peak": 47,
       "weeks": 3,
       "viewsDelta": 1
+    },
+    {
+      "pos": 48,
+      "id": "CWTlZqr-3Is",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "SELENA",
+      "song": "MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
+      "title": "SELENA - MIASTO LOS SANTOS (OSAMU KANEKI Remix)",
+      "views": 1677,
+      "url": "https://www.youtube.com/watch?v=CWTlZqr-3Is",
+      "thumb": "https://i.ytimg.com/vi/CWTlZqr-3Is/mqdefault.jpg",
+      "publishedText": "5 lut 2024",
+      "prevPos": 48,
+      "move": 0,
+      "peak": 48,
+      "weeks": 3,
+      "viewsDelta": 8
     },
     {
       "pos": 49,
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1088,
+      "views": 1089,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 477
+      "viewsDelta": 478
     },
     {
       "pos": 2,
@@ -1257,7 +1257,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1043,
+      "views": 1046,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -1265,7 +1265,7 @@
       "move": -2,
       "peak": 4,
       "weeks": 2,
-      "viewsDelta": 54
+      "viewsDelta": 57
     },
     {
       "pos": 8,
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40797,
+      "views": 40798,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1340,7 +1340,7 @@
     {
       "pos": 6,
       "name": "G SMOOTH",
-      "views": 15956,
+      "views": 15957,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315646,
+    "views": 315656,
     "songs": 189
   },
   "latest": [
