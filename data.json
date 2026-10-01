@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T10:23:35.168Z",
+  "generatedAt": "2026-10-01T11:22:10.099Z",
   "chartDate": "2026-10-01",
   "prevDate": "2026-09-24",
   "channel": {
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10942,
+      "views": 10941,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 61
+      "viewsDelta": 60
     },
     {
       "pos": 5,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 9988,
+      "views": 9987,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 43
+      "viewsDelta": 42
     },
     {
       "pos": 6,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6188,
+      "views": 6190,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 3,
-      "viewsDelta": 35
+      "viewsDelta": 37
     },
     {
       "pos": 15,
@@ -1239,7 +1239,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10942,
+      "views": 10941,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1247,7 +1247,7 @@
       "move": -2,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 61
+      "viewsDelta": 60
     },
     {
       "pos": 7,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 60987,
+      "views": 60988,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52744,
+      "views": 52743,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
