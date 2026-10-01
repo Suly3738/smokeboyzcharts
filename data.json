@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T03:22:40.734Z",
+  "generatedAt": "2026-10-01T04:23:19.452Z",
   "chartDate": "2026-10-01",
   "prevDate": "2026-09-24",
   "channel": {
@@ -101,7 +101,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1084,
+      "views": 1085,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -109,7 +109,7 @@
       "move": 3,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 473
+      "viewsDelta": 474
     },
     {
       "pos": 4,
@@ -173,7 +173,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 503,
+      "views": 505,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -181,7 +181,7 @@
       "move": "new",
       "peak": 7,
       "weeks": 1,
-      "viewsDelta": 197
+      "viewsDelta": 199
     },
     {
       "pos": 8,
@@ -209,7 +209,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 481,
+      "views": 482,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -217,7 +217,7 @@
       "move": -1,
       "peak": 7,
       "weeks": 3,
-      "viewsDelta": 18
+      "viewsDelta": 19
     },
     {
       "pos": 10,
@@ -227,7 +227,7 @@
       "artist": "Tyr0ne",
       "song": "Biegnij",
       "title": "Tyr0ne - Biegnij",
-      "views": 448,
+      "views": 449,
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
@@ -235,7 +235,7 @@
       "move": -1,
       "peak": 9,
       "weeks": 2,
-      "viewsDelta": 21
+      "viewsDelta": 22
     }
   ],
   "allTime": [
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1084,
+      "views": 1085,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 473
+      "viewsDelta": 474
     },
     {
       "pos": 2,
@@ -1167,7 +1167,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 503,
+      "views": 505,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1175,7 +1175,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 1,
-      "viewsDelta": 197
+      "viewsDelta": 199
     },
     {
       "pos": 3,
@@ -1185,7 +1185,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 246,
+      "views": 247,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1193,7 +1193,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 1,
-      "viewsDelta": 103
+      "viewsDelta": 104
     },
     {
       "pos": 4,
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315487,
+    "views": 315518,
     "songs": 189
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 135,
+      "views": 157,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
@@ -1412,28 +1412,28 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 503,
+      "views": 505,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/MQXUotiTsWU/hqdefault.jpg",
       "publishedAt": "2026-09-23T19:00:05Z",
       "publishedText": "23 wrz 2026",
       "isNew": false,
-      "viewsDelta": 197
+      "viewsDelta": 199
     },
     {
       "id": "tqf-3o0PhxM",
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 246,
+      "views": 247,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/tqf-3o0PhxM/hqdefault.jpg",
       "publishedAt": "2026-09-23T18:00:22Z",
       "publishedText": "23 wrz 2026",
       "isNew": false,
-      "viewsDelta": 103
+      "viewsDelta": 104
     }
   ]
 }
