@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T05:21:50.486Z",
+  "generatedAt": "2026-10-01T06:29:21.100Z",
   "chartDate": "2026-10-01",
   "prevDate": "2026-09-24",
   "channel": {
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4207,
+      "views": 4208,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 3,
-      "viewsDelta": 23
+      "viewsDelta": 24
     },
     {
       "pos": 20,
@@ -913,7 +913,7 @@
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2068,
+      "views": 2069,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
@@ -921,7 +921,7 @@
       "move": -1,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 15
+      "viewsDelta": 16
     },
     {
       "pos": 39,
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30473,
+      "views": 30474,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 315527,
+    "views": 315538,
     "songs": 189
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 153,
+      "views": 160,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
