@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T03:21:54.262Z",
+  "generatedAt": "2026-10-02T04:22:34.010Z",
   "chartDate": "2026-10-02",
   "prevDate": "2026-09-25",
   "channel": {
@@ -101,7 +101,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1097,
+      "views": 1101,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -109,7 +109,7 @@
       "move": 2,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 393
+      "viewsDelta": 397
     },
     {
       "pos": 4,
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10951,
+      "views": 10953,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 61
+      "viewsDelta": 63
     },
     {
       "pos": 5,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2432,
+      "views": 2433,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 3,
-      "viewsDelta": 25
+      "viewsDelta": 26
     },
     {
       "pos": 34,
@@ -895,7 +895,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2090,
+      "views": 2091,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -903,7 +903,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 3,
-      "viewsDelta": 31
+      "viewsDelta": 32
     },
     {
       "pos": 38,
@@ -1149,7 +1149,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1097,
+      "views": 1101,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 2,
-      "viewsDelta": 393
+      "viewsDelta": 397
     },
     {
       "pos": 2,
@@ -1239,7 +1239,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 10951,
+      "views": 10953,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -1247,7 +1247,7 @@
       "move": 1,
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 61
+      "viewsDelta": 63
     },
     {
       "pos": 7,
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52766,
+      "views": 52768,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40814,
+      "views": 40815,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1370,7 +1370,7 @@
     {
       "pos": 9,
       "name": "PEDRO",
-      "views": 6968,
+      "views": 6969,
       "songs": 7,
       "bestSong": "DRIFT",
       "bestArtist": "PEDRO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 316001,
+    "views": 316026,
     "songs": 190
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "Pablo Soto",
       "song": "3 A.M Freestyle",
       "title": "Pablo Soto - 3 A.M Freestyle",
-      "views": 49,
+      "views": 60,
       "url": "https://www.youtube.com/watch?v=0klHc62i0sc",
       "thumb": "https://i.ytimg.com/vi/0klHc62i0sc/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/0klHc62i0sc/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 327,
+      "views": 329,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
