@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T21:24:57.660Z",
-  "chartDate": "2026-10-04",
-  "prevDate": "2026-09-27",
+  "generatedAt": "2026-10-04T22:21:05.334Z",
+  "chartDate": "2026-10-05",
+  "prevDate": "2026-09-28",
   "channel": {
     "title": "Pixa Roleplay",
     "url": "https://www.youtube.com/@PixaRoleplay"
@@ -72,8 +72,8 @@
       "prevPos": 1,
       "move": 0,
       "peak": 1,
-      "weeks": 3,
-      "viewsDelta": 81
+      "weeks": 4,
+      "viewsDelta": 78
     },
     {
       "pos": 2,
@@ -83,15 +83,15 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1336,
+      "views": 1337,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
       "prevPos": 2,
       "move": 0,
       "peak": 2,
-      "weeks": 3,
-      "viewsDelta": 37
+      "weeks": 4,
+      "viewsDelta": 36
     },
     {
       "pos": 3,
@@ -105,11 +105,11 @@
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
-      "prevPos": 4,
-      "move": 1,
+      "prevPos": 3,
+      "move": 0,
       "peak": 3,
-      "weeks": 2,
-      "viewsDelta": 219
+      "weeks": 3,
+      "viewsDelta": 86
     },
     {
       "pos": 4,
@@ -123,11 +123,11 @@
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
-      "prevPos": 3,
-      "move": -1,
+      "prevPos": 4,
+      "move": 0,
       "peak": 3,
-      "weeks": 3,
-      "viewsDelta": 42
+      "weeks": 4,
+      "viewsDelta": 34
     },
     {
       "pos": 5,
@@ -137,15 +137,15 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 913,
+      "views": 914,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
       "prevPos": 5,
       "move": 0,
       "peak": 4,
-      "weeks": 3,
-      "viewsDelta": 31
+      "weeks": 4,
+      "viewsDelta": 25
     },
     {
       "pos": 6,
@@ -162,8 +162,8 @@
       "prevPos": 6,
       "move": 0,
       "peak": 5,
-      "weeks": 3,
-      "viewsDelta": 16
+      "weeks": 4,
+      "viewsDelta": 15
     },
     {
       "pos": 7,
@@ -177,11 +177,11 @@
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
-      "prevPos": null,
-      "move": "new",
+      "prevPos": 9,
+      "move": 2,
       "peak": 7,
-      "weeks": 1,
-      "viewsDelta": 135
+      "weeks": 2,
+      "viewsDelta": 98
     },
     {
       "pos": 8,
@@ -191,14 +191,14 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 499,
+      "views": 500,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
       "prevPos": 7,
       "move": -1,
       "peak": 6,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 15
     },
     {
@@ -209,14 +209,14 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 493,
+      "views": 494,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
       "prevPos": 8,
       "move": -1,
       "peak": 7,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 23
     },
     {
@@ -231,11 +231,11 @@
       "url": "https://www.youtube.com/watch?v=XZDzVAVCT8Y",
       "thumb": "https://i.ytimg.com/vi/XZDzVAVCT8Y/mqdefault.jpg",
       "publishedText": "17 wrz 2026",
-      "prevPos": 9,
-      "move": -1,
+      "prevPos": 10,
+      "move": 0,
       "peak": 9,
-      "weeks": 2,
-      "viewsDelta": 21
+      "weeks": 3,
+      "viewsDelta": 19
     }
   ],
   "allTime": [
@@ -247,15 +247,15 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14313,
+      "views": 14314,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
       "prevPos": 1,
       "move": 0,
       "peak": 1,
-      "weeks": 3,
-      "viewsDelta": 33
+      "weeks": 4,
+      "viewsDelta": 32
     },
     {
       "pos": 2,
@@ -272,8 +272,8 @@
       "prevPos": 2,
       "move": 0,
       "peak": 2,
-      "weeks": 3,
-      "viewsDelta": 108
+      "weeks": 4,
+      "viewsDelta": 98
     },
     {
       "pos": 3,
@@ -290,8 +290,8 @@
       "prevPos": 3,
       "move": 0,
       "peak": 3,
-      "weeks": 3,
-      "viewsDelta": 29
+      "weeks": 4,
+      "viewsDelta": 28
     },
     {
       "pos": 4,
@@ -308,8 +308,8 @@
       "prevPos": 4,
       "move": 0,
       "peak": 4,
-      "weeks": 3,
-      "viewsDelta": 65
+      "weeks": 4,
+      "viewsDelta": 51
     },
     {
       "pos": 5,
@@ -326,7 +326,7 @@
       "prevPos": 5,
       "move": 0,
       "peak": 5,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 68
     },
     {
@@ -344,8 +344,8 @@
       "prevPos": 6,
       "move": 0,
       "peak": 6,
-      "weeks": 3,
-      "viewsDelta": 28
+      "weeks": 4,
+      "viewsDelta": 23
     },
     {
       "pos": 7,
@@ -362,8 +362,8 @@
       "prevPos": 7,
       "move": 0,
       "peak": 7,
-      "weeks": 3,
-      "viewsDelta": 38
+      "weeks": 4,
+      "viewsDelta": 30
     },
     {
       "pos": 8,
@@ -380,8 +380,8 @@
       "prevPos": 8,
       "move": 0,
       "peak": 8,
-      "weeks": 3,
-      "viewsDelta": 16
+      "weeks": 4,
+      "viewsDelta": 14
     },
     {
       "pos": 9,
@@ -398,8 +398,8 @@
       "prevPos": 9,
       "move": 0,
       "peak": 9,
-      "weeks": 3,
-      "viewsDelta": 21
+      "weeks": 4,
+      "viewsDelta": 17
     },
     {
       "pos": 10,
@@ -416,8 +416,8 @@
       "prevPos": 10,
       "move": 0,
       "peak": 10,
-      "weeks": 3,
-      "viewsDelta": 39
+      "weeks": 4,
+      "viewsDelta": 34
     },
     {
       "pos": 11,
@@ -434,8 +434,8 @@
       "prevPos": 11,
       "move": 0,
       "peak": 11,
-      "weeks": 3,
-      "viewsDelta": 24
+      "weeks": 4,
+      "viewsDelta": 20
     },
     {
       "pos": 12,
@@ -452,8 +452,8 @@
       "prevPos": 12,
       "move": 0,
       "peak": 12,
-      "weeks": 3,
-      "viewsDelta": 26
+      "weeks": 4,
+      "viewsDelta": 25
     },
     {
       "pos": 13,
@@ -470,8 +470,8 @@
       "prevPos": 13,
       "move": 0,
       "peak": 13,
-      "weeks": 3,
-      "viewsDelta": 16
+      "weeks": 4,
+      "viewsDelta": 15
     },
     {
       "pos": 14,
@@ -488,8 +488,8 @@
       "prevPos": 14,
       "move": 0,
       "peak": 14,
-      "weeks": 3,
-      "viewsDelta": 28
+      "weeks": 4,
+      "viewsDelta": 22
     },
     {
       "pos": 15,
@@ -506,7 +506,7 @@
       "prevPos": 15,
       "move": 0,
       "peak": 15,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 3
     },
     {
@@ -524,7 +524,7 @@
       "prevPos": 16,
       "move": 0,
       "peak": 16,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 2
     },
     {
@@ -542,8 +542,8 @@
       "prevPos": 17,
       "move": 0,
       "peak": 17,
-      "weeks": 3,
-      "viewsDelta": 18
+      "weeks": 4,
+      "viewsDelta": 16
     },
     {
       "pos": 18,
@@ -560,8 +560,8 @@
       "prevPos": 18,
       "move": 0,
       "peak": 18,
-      "weeks": 3,
-      "viewsDelta": 8
+      "weeks": 4,
+      "viewsDelta": 6
     },
     {
       "pos": 19,
@@ -578,8 +578,8 @@
       "prevPos": 19,
       "move": 0,
       "peak": 19,
-      "weeks": 3,
-      "viewsDelta": 20
+      "weeks": 4,
+      "viewsDelta": 14
     },
     {
       "pos": 20,
@@ -596,7 +596,7 @@
       "prevPos": 20,
       "move": 0,
       "peak": 20,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 16
     },
     {
@@ -614,8 +614,8 @@
       "prevPos": 21,
       "move": 0,
       "peak": 21,
-      "weeks": 3,
-      "viewsDelta": 9
+      "weeks": 4,
+      "viewsDelta": 7
     },
     {
       "pos": 22,
@@ -632,8 +632,8 @@
       "prevPos": 22,
       "move": 0,
       "peak": 22,
-      "weeks": 3,
-      "viewsDelta": 12
+      "weeks": 4,
+      "viewsDelta": 11
     },
     {
       "pos": 23,
@@ -650,8 +650,8 @@
       "prevPos": 23,
       "move": 0,
       "peak": 23,
-      "weeks": 3,
-      "viewsDelta": 17
+      "weeks": 4,
+      "viewsDelta": 16
     },
     {
       "pos": 24,
@@ -668,8 +668,8 @@
       "prevPos": 24,
       "move": 0,
       "peak": 24,
-      "weeks": 3,
-      "viewsDelta": 15
+      "weeks": 4,
+      "viewsDelta": 14
     },
     {
       "pos": 25,
@@ -686,7 +686,7 @@
       "prevPos": 25,
       "move": 0,
       "peak": 25,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 3
     },
     {
@@ -704,7 +704,7 @@
       "prevPos": 26,
       "move": 0,
       "peak": 26,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 8
     },
     {
@@ -722,7 +722,7 @@
       "prevPos": 27,
       "move": 0,
       "peak": 27,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 6
     },
     {
@@ -740,8 +740,8 @@
       "prevPos": 28,
       "move": 0,
       "peak": 28,
-      "weeks": 3,
-      "viewsDelta": 15
+      "weeks": 4,
+      "viewsDelta": 14
     },
     {
       "pos": 29,
@@ -758,8 +758,8 @@
       "prevPos": 29,
       "move": 0,
       "peak": 29,
-      "weeks": 3,
-      "viewsDelta": 5
+      "weeks": 4,
+      "viewsDelta": 3
     },
     {
       "pos": 30,
@@ -776,7 +776,7 @@
       "prevPos": 30,
       "move": 0,
       "peak": 30,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 1
     },
     {
@@ -794,7 +794,7 @@
       "prevPos": 31,
       "move": 0,
       "peak": 31,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 1
     },
     {
@@ -812,8 +812,8 @@
       "prevPos": 32,
       "move": 0,
       "peak": 32,
-      "weeks": 3,
-      "viewsDelta": 9
+      "weeks": 4,
+      "viewsDelta": 7
     },
     {
       "pos": 33,
@@ -830,8 +830,8 @@
       "prevPos": 33,
       "move": 0,
       "peak": 33,
-      "weeks": 3,
-      "viewsDelta": 26
+      "weeks": 4,
+      "viewsDelta": 25
     },
     {
       "pos": 34,
@@ -848,8 +848,8 @@
       "prevPos": 35,
       "move": 1,
       "peak": 34,
-      "weeks": 3,
-      "viewsDelta": 81
+      "weeks": 4,
+      "viewsDelta": 78
     },
     {
       "pos": 35,
@@ -866,8 +866,8 @@
       "prevPos": 34,
       "move": -1,
       "peak": 34,
-      "weeks": 3,
-      "viewsDelta": 4
+      "weeks": 4,
+      "viewsDelta": 3
     },
     {
       "pos": 36,
@@ -884,7 +884,7 @@
       "prevPos": 36,
       "move": 0,
       "peak": 35,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 6
     },
     {
@@ -895,15 +895,15 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2103,
+      "views": 2105,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
       "prevPos": 37,
       "move": 0,
       "peak": 37,
-      "weeks": 3,
-      "viewsDelta": 37
+      "weeks": 4,
+      "viewsDelta": 36
     },
     {
       "pos": 38,
@@ -920,8 +920,8 @@
       "prevPos": 38,
       "move": 0,
       "peak": 37,
-      "weeks": 3,
-      "viewsDelta": 22
+      "weeks": 4,
+      "viewsDelta": 17
     },
     {
       "pos": 39,
@@ -938,7 +938,7 @@
       "prevPos": 39,
       "move": 0,
       "peak": 36,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 0
     },
     {
@@ -956,7 +956,7 @@
       "prevPos": 40,
       "move": 0,
       "peak": 39,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 1
     },
     {
@@ -967,14 +967,14 @@
       "artist": "BIBBY OG",
       "song": "KAPITAN ULICY (Feat - Ana)",
       "title": "BIBBY OG - KAPITAN ULICY (Feat - Ana) (Official Music Video)",
-      "views": 1940,
+      "views": 1941,
       "url": "https://www.youtube.com/watch?v=qAzNpFEe6-k",
       "thumb": "https://i.ytimg.com/vi/qAzNpFEe6-k/mqdefault.jpg",
       "publishedText": "15 sty 2024",
       "prevPos": 41,
       "move": 0,
       "peak": 41,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 2
     },
     {
@@ -992,7 +992,7 @@
       "prevPos": 42,
       "move": 0,
       "peak": 42,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 0
     },
     {
@@ -1010,7 +1010,7 @@
       "prevPos": 43,
       "move": 0,
       "peak": 43,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 0
     },
     {
@@ -1028,7 +1028,7 @@
       "prevPos": 44,
       "move": 0,
       "peak": 44,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 1
     },
     {
@@ -1046,8 +1046,8 @@
       "prevPos": 48,
       "move": 3,
       "peak": 45,
-      "weeks": 3,
-      "viewsDelta": 18
+      "weeks": 4,
+      "viewsDelta": 17
     },
     {
       "pos": 46,
@@ -1064,7 +1064,7 @@
       "prevPos": 45,
       "move": -1,
       "peak": 45,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 1
     },
     {
@@ -1082,7 +1082,7 @@
       "prevPos": 46,
       "move": -1,
       "peak": 45,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 0
     },
     {
@@ -1100,7 +1100,7 @@
       "prevPos": 47,
       "move": -1,
       "peak": 47,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 0
     },
     {
@@ -1118,8 +1118,8 @@
       "prevPos": 49,
       "move": 0,
       "peak": 49,
-      "weeks": 3,
-      "viewsDelta": 9
+      "weeks": 4,
+      "viewsDelta": 8
     },
     {
       "pos": 50,
@@ -1136,31 +1136,13 @@
       "prevPos": 50,
       "move": 0,
       "peak": 50,
-      "weeks": 3,
+      "weeks": 4,
       "viewsDelta": 5
     }
   ],
   "rising": [
     {
       "pos": 1,
-      "id": "MyIL46VKAyM",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "ISY",
-      "song": "ZAZA",
-      "title": "ISY - ZAZA",
-      "views": 1118,
-      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
-      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
-      "publishedText": "19 wrz 2026",
-      "prevPos": 1,
-      "move": 0,
-      "peak": 1,
-      "weeks": 2,
-      "viewsDelta": 219
-    },
-    {
-      "pos": 2,
       "id": "MQXUotiTsWU",
       "isLatest": false,
       "cancelled": false,
@@ -1173,12 +1155,12 @@
       "publishedText": "23 wrz 2026",
       "prevPos": null,
       "move": "new",
-      "peak": 2,
-      "weeks": 1,
-      "viewsDelta": 135
+      "peak": 1,
+      "weeks": 2,
+      "viewsDelta": 98
     },
     {
-      "pos": 3,
+      "pos": 2,
       "id": "dXNQgu1agkg",
       "isLatest": false,
       "cancelled": false,
@@ -1190,10 +1172,28 @@
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
       "prevPos": 4,
-      "move": 1,
+      "move": 2,
       "peak": 2,
-      "weeks": 2,
-      "viewsDelta": 108
+      "weeks": 3,
+      "viewsDelta": 98
+    },
+    {
+      "pos": 3,
+      "id": "MyIL46VKAyM",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "ISY",
+      "song": "ZAZA",
+      "title": "ISY - ZAZA",
+      "views": 1118,
+      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
+      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
+      "publishedText": "19 wrz 2026",
+      "prevPos": 1,
+      "move": -2,
+      "peak": 1,
+      "weeks": 3,
+      "viewsDelta": 86
     },
     {
       "pos": 4,
@@ -1207,11 +1207,11 @@
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
-      "prevPos": 2,
-      "move": -2,
+      "prevPos": 3,
+      "move": -1,
       "peak": 1,
-      "weeks": 2,
-      "viewsDelta": 81
+      "weeks": 3,
+      "viewsDelta": 78
     },
     {
       "pos": 5,
@@ -1228,7 +1228,7 @@
       "prevPos": null,
       "move": "new",
       "peak": 5,
-      "weeks": 2,
+      "weeks": 3,
       "viewsDelta": 68
     },
     {
@@ -1246,8 +1246,8 @@
       "prevPos": null,
       "move": "new",
       "peak": 3,
-      "weeks": 1,
-      "viewsDelta": 67
+      "weeks": 2,
+      "viewsDelta": 59
     },
     {
       "pos": 7,
@@ -1264,26 +1264,26 @@
       "prevPos": null,
       "move": "new",
       "peak": 3,
-      "weeks": 2,
-      "viewsDelta": 65
+      "weeks": 3,
+      "viewsDelta": 51
     },
     {
       "pos": 8,
-      "id": "_yAfcKGcz7Y",
+      "id": "6tY7P4J8UZo",
       "isLatest": false,
       "cancelled": false,
-      "artist": "Tiny Shuj",
-      "song": "Nowy cali G",
-      "title": "Tiny Shuj - Nowy cali G",
-      "views": 1055,
-      "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
-      "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
-      "publishedText": "17 sie 2026",
-      "prevPos": 7,
-      "move": -1,
-      "peak": 4,
+      "artist": "Tyr0ne",
+      "song": "We Tap Heads",
+      "title": "Tyr0ne - We Tap Heads",
+      "views": 1337,
+      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
+      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
+      "publishedText": "20 sie 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 7,
       "weeks": 2,
-      "viewsDelta": 42
+      "viewsDelta": 36
     }
   ],
   "artists": [
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52845,
+      "views": 52846,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 316901,
+    "views": 316953,
     "songs": 191
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "GRAMY ZA TRIO",
       "title": "TINY SHUJ SWANFACE - GRAMY ZA TRIO",
-      "views": 91,
+      "views": 123,
       "url": "https://www.youtube.com/watch?v=LJIbzlacU9o",
       "thumb": "https://i.ytimg.com/vi/LJIbzlacU9o/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/LJIbzlacU9o/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto",
       "song": "3 A.M Freestyle",
       "title": "Pablo Soto - 3 A.M Freestyle",
-      "views": 246,
+      "views": 251,
       "url": "https://www.youtube.com/watch?v=0klHc62i0sc",
       "thumb": "https://i.ytimg.com/vi/0klHc62i0sc/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/0klHc62i0sc/hqdefault.jpg",
@@ -1426,7 +1426,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 412,
+      "views": 413,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
