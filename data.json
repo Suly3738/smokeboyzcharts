@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T22:21:05.334Z",
+  "generatedAt": "2026-10-04T23:18:38.519Z",
   "chartDate": "2026-10-05",
   "prevDate": "2026-09-28",
   "channel": {
@@ -247,7 +247,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14314,
+      "views": 14315,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 4,
-      "viewsDelta": 32
+      "viewsDelta": 33
     },
     {
       "pos": 2,
@@ -733,7 +733,7 @@
       "artist": "BABY FLAMESTA x kathrin",
       "song": "BAD THINGS",
       "title": "BABY FLAMESTA x kathrin - BAD THINGS",
-      "views": 2802,
+      "views": 2803,
       "url": "https://www.youtube.com/watch?v=j_MO8oMt-Xo",
       "thumb": "https://i.ytimg.com/vi/j_MO8oMt-Xo/mqdefault.jpg",
       "publishedText": "22 sty 2026",
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 4,
-      "viewsDelta": 14
+      "viewsDelta": 15
     },
     {
       "pos": 29,
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52846,
+      "views": 52847,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40911,
+      "views": 40912,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1380,7 +1380,7 @@
     {
       "pos": 10,
       "name": "Nieznany",
-      "views": 5498,
+      "views": 5499,
       "songs": 11,
       "bestSong": "SPACE TRIP | Official Movie",
       "bestArtist": "",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 316953,
+    "views": 316957,
     "songs": 191
   },
   "latest": [
