@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T10:24:31.483Z",
+  "generatedAt": "2026-10-05T11:22:50.426Z",
   "chartDate": "2026-10-05",
   "prevDate": "2026-09-28",
   "channel": {
@@ -65,7 +65,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2307,
+      "views": 2308,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 4,
-      "viewsDelta": 83
+      "viewsDelta": 84
     },
     {
       "pos": 2,
@@ -137,7 +137,7 @@
       "artist": "Tiny Shuj",
       "song": "TERROR",
       "title": "Tiny Shuj - TERROR",
-      "views": 916,
+      "views": 917,
       "url": "https://www.youtube.com/watch?v=ZiwMRxTF6vw",
       "thumb": "https://i.ytimg.com/vi/ZiwMRxTF6vw/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -145,7 +145,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 4,
-      "viewsDelta": 27
+      "viewsDelta": 28
     },
     {
       "pos": 6,
@@ -191,7 +191,7 @@
       "artist": "T-Roc",
       "song": "Plan",
       "title": "T-Roc - Plan",
-      "views": 501,
+      "views": 502,
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
@@ -199,7 +199,7 @@
       "move": -1,
       "peak": 6,
       "weeks": 4,
-      "viewsDelta": 16
+      "viewsDelta": 17
     },
     {
       "pos": 9,
@@ -209,7 +209,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 494,
+      "views": 496,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -217,7 +217,7 @@
       "move": -1,
       "peak": 7,
       "weeks": 4,
-      "viewsDelta": 23
+      "viewsDelta": 25
     },
     {
       "pos": 10,
@@ -391,7 +391,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7456,
+      "views": 7458,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -399,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 4,
-      "viewsDelta": 20
+      "viewsDelta": 22
     },
     {
       "pos": 10,
@@ -823,7 +823,7 @@
       "artist": "BABY FLAMESTA",
       "song": "OneTake Challenge",
       "title": "BABY FLAMESTA - OneTake Challenge",
-      "views": 2445,
+      "views": 2446,
       "url": "https://www.youtube.com/watch?v=FB7JWDz-S30",
       "thumb": "https://i.ytimg.com/vi/FB7JWDz-S30/mqdefault.jpg",
       "publishedText": "24 gru 2025",
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 4,
-      "viewsDelta": 29
+      "viewsDelta": 30
     },
     {
       "pos": 34,
@@ -841,7 +841,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2307,
+      "views": 2308,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -849,7 +849,7 @@
       "move": 1,
       "peak": 34,
       "weeks": 4,
-      "viewsDelta": 83
+      "viewsDelta": 84
     },
     {
       "pos": 35,
@@ -1203,7 +1203,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2307,
+      "views": 2308,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1211,7 +1211,7 @@
       "move": -1,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 83
+      "viewsDelta": 84
     },
     {
       "pos": 5,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 61100,
+      "views": 61102,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40933,
+      "views": 40934,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317071,
+    "views": 317087,
     "songs": 191
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "GRAMY ZA TRIO",
       "title": "TINY SHUJ SWANFACE - GRAMY ZA TRIO",
-      "views": 137,
+      "views": 138,
       "url": "https://www.youtube.com/watch?v=LJIbzlacU9o",
       "thumb": "https://i.ytimg.com/vi/LJIbzlacU9o/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/LJIbzlacU9o/hqdefault.jpg",
