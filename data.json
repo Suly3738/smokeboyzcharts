@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T14:27:13.423Z",
+  "generatedAt": "2026-10-05T15:24:49.876Z",
   "chartDate": "2026-10-05",
   "prevDate": "2026-09-28",
   "channel": {
@@ -101,7 +101,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1119,
+      "views": 1123,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 87
+      "viewsDelta": 91
     },
     {
       "pos": 4,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10026,
+      "views": 10027,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 4,
-      "viewsDelta": 70
+      "viewsDelta": 71
     },
     {
       "pos": 6,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4212,
+      "views": 4214,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 4,
-      "viewsDelta": 14
+      "viewsDelta": 16
     },
     {
       "pos": 20,
@@ -1185,7 +1185,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1119,
+      "views": 1123,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1193,7 +1193,7 @@
       "move": -2,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 87
+      "viewsDelta": 91
     },
     {
       "pos": 4,
@@ -1221,7 +1221,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10026,
+      "views": 10027,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -1229,7 +1229,7 @@
       "move": "new",
       "peak": 5,
       "weeks": 3,
-      "viewsDelta": 70
+      "viewsDelta": 71
     },
     {
       "pos": 6,
@@ -1239,7 +1239,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 272,
+      "views": 273,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1247,7 +1247,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 61
+      "viewsDelta": 62
     },
     {
       "pos": 7,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 61109,
+      "views": 61110,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30573,
+      "views": 30575,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317114,
+    "views": 317124,
     "songs": 191
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "GRAMY ZA TRIO",
       "title": "TINY SHUJ SWANFACE - GRAMY ZA TRIO",
-      "views": 138,
+      "views": 140,
       "url": "https://www.youtube.com/watch?v=LJIbzlacU9o",
       "thumb": "https://i.ytimg.com/vi/LJIbzlacU9o/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/LJIbzlacU9o/hqdefault.jpg",
