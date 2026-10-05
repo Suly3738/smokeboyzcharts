@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-05T21:32:18.624Z",
-  "chartDate": "2026-10-05",
-  "prevDate": "2026-09-28",
+  "generatedAt": "2026-10-05T22:20:58.795Z",
+  "chartDate": "2026-10-06",
+  "prevDate": "2026-09-29",
   "channel": {
     "title": "Pixa Roleplay",
     "url": "https://www.youtube.com/@PixaRoleplay"
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 4,
-      "viewsDelta": 86
+      "viewsDelta": 72
     },
     {
       "pos": 2,
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 4,
-      "viewsDelta": 39
+      "viewsDelta": 36
     },
     {
       "pos": 3,
@@ -101,7 +101,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1123,
+      "views": 1125,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 91
+      "viewsDelta": 58
     },
     {
       "pos": 4,
@@ -127,7 +127,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 4,
-      "viewsDelta": 36
+      "viewsDelta": 28
     },
     {
       "pos": 5,
@@ -145,7 +145,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 4,
-      "viewsDelta": 31
+      "viewsDelta": 27
     },
     {
       "pos": 6,
@@ -155,7 +155,7 @@
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
-      "views": 675,
+      "views": 676,
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
@@ -163,7 +163,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 4,
-      "viewsDelta": 17
+      "viewsDelta": 18
     },
     {
       "pos": 7,
@@ -177,11 +177,11 @@
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
-      "prevPos": 9,
-      "move": 2,
+      "prevPos": 8,
+      "move": 1,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 104
+      "viewsDelta": 80
     },
     {
       "pos": 8,
@@ -199,7 +199,7 @@
       "move": -1,
       "peak": 6,
       "weeks": 4,
-      "viewsDelta": 17
+      "viewsDelta": 13
     },
     {
       "pos": 9,
@@ -209,15 +209,15 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 497,
+      "views": 498,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
-      "prevPos": 8,
-      "move": -1,
+      "prevPos": 9,
+      "move": 0,
       "peak": 7,
       "weeks": 4,
-      "viewsDelta": 26
+      "viewsDelta": 23
     },
     {
       "pos": 10,
@@ -235,7 +235,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 3,
-      "viewsDelta": 20
+      "viewsDelta": 17
     }
   ],
   "allTime": [
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 4,
-      "viewsDelta": 35
+      "viewsDelta": 26
     },
     {
       "pos": 2,
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 4,
-      "viewsDelta": 116
+      "viewsDelta": 95
     },
     {
       "pos": 3,
@@ -283,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12460,
+      "views": 12461,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 4,
-      "viewsDelta": 33
+      "viewsDelta": 32
     },
     {
       "pos": 4,
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 4,
-      "viewsDelta": 58
+      "viewsDelta": 44
     },
     {
       "pos": 5,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10033,
+      "views": 10035,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 4,
-      "viewsDelta": 77
+      "viewsDelta": 62
     },
     {
       "pos": 6,
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 4,
-      "viewsDelta": 28
+      "viewsDelta": 25
     },
     {
       "pos": 7,
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 4,
-      "viewsDelta": 34
+      "viewsDelta": 24
     },
     {
       "pos": 8,
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 4,
-      "viewsDelta": 18
+      "viewsDelta": 16
     },
     {
       "pos": 9,
@@ -399,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 4,
-      "viewsDelta": 25
+      "viewsDelta": 22
     },
     {
       "pos": 10,
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 4,
-      "viewsDelta": 38
+      "viewsDelta": 35
     },
     {
       "pos": 11,
@@ -435,7 +435,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 4,
-      "viewsDelta": 23
+      "viewsDelta": 22
     },
     {
       "pos": 12,
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 4,
-      "viewsDelta": 31
+      "viewsDelta": 26
     },
     {
       "pos": 13,
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 4,
-      "viewsDelta": 16
+      "viewsDelta": 14
     },
     {
       "pos": 14,
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 4,
-      "viewsDelta": 26
+      "viewsDelta": 24
     },
     {
       "pos": 15,
@@ -507,7 +507,7 @@
       "move": 0,
       "peak": 15,
       "weeks": 4,
-      "viewsDelta": 3
+      "viewsDelta": 2
     },
     {
       "pos": 16,
@@ -543,7 +543,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 4,
-      "viewsDelta": 19
+      "viewsDelta": 14
     },
     {
       "pos": 18,
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 4,
-      "viewsDelta": 6
+      "viewsDelta": 4
     },
     {
       "pos": 19,
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 4,
-      "viewsDelta": 17
+      "viewsDelta": 12
     },
     {
       "pos": 20,
@@ -597,7 +597,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 4,
-      "viewsDelta": 18
+      "viewsDelta": 17
     },
     {
       "pos": 21,
@@ -633,7 +633,7 @@
       "move": 0,
       "peak": 22,
       "weeks": 4,
-      "viewsDelta": 11
+      "viewsDelta": 9
     },
     {
       "pos": 23,
@@ -651,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 4,
-      "viewsDelta": 16
+      "viewsDelta": 14
     },
     {
       "pos": 24,
@@ -669,7 +669,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 4,
-      "viewsDelta": 17
+      "viewsDelta": 11
     },
     {
       "pos": 25,
@@ -705,7 +705,7 @@
       "move": 0,
       "peak": 26,
       "weeks": 4,
-      "viewsDelta": 8
+      "viewsDelta": 6
     },
     {
       "pos": 27,
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 4,
-      "viewsDelta": 18
+      "viewsDelta": 15
     },
     {
       "pos": 29,
@@ -759,7 +759,7 @@
       "move": 0,
       "peak": 29,
       "weeks": 4,
-      "viewsDelta": 3
+      "viewsDelta": 1
     },
     {
       "pos": 30,
@@ -813,7 +813,7 @@
       "move": 0,
       "peak": 32,
       "weeks": 4,
-      "viewsDelta": 7
+      "viewsDelta": 6
     },
     {
       "pos": 33,
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 4,
-      "viewsDelta": 31
+      "viewsDelta": 25
     },
     {
       "pos": 34,
@@ -849,7 +849,7 @@
       "move": 1,
       "peak": 34,
       "weeks": 4,
-      "viewsDelta": 86
+      "viewsDelta": 72
     },
     {
       "pos": 35,
@@ -885,7 +885,7 @@
       "move": 0,
       "peak": 35,
       "weeks": 4,
-      "viewsDelta": 6
+      "viewsDelta": 5
     },
     {
       "pos": 37,
@@ -903,7 +903,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 4,
-      "viewsDelta": 41
+      "viewsDelta": 34
     },
     {
       "pos": 38,
@@ -921,7 +921,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 4,
-      "viewsDelta": 18
+      "viewsDelta": 13
     },
     {
       "pos": 39,
@@ -1137,7 +1137,7 @@
       "move": 0,
       "peak": 50,
       "weeks": 4,
-      "viewsDelta": 5
+      "viewsDelta": 2
     }
   ],
   "rising": [
@@ -1153,11 +1153,11 @@
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
-      "prevPos": 4,
-      "move": 3,
+      "prevPos": 2,
+      "move": 1,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 116
+      "viewsDelta": 95
     },
     {
       "pos": 2,
@@ -1175,28 +1175,10 @@
       "move": "new",
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 104
+      "viewsDelta": 80
     },
     {
       "pos": 3,
-      "id": "MyIL46VKAyM",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "ISY",
-      "song": "ZAZA",
-      "title": "ISY - ZAZA",
-      "views": 1123,
-      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
-      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
-      "publishedText": "19 wrz 2026",
-      "prevPos": 1,
-      "move": -2,
-      "peak": 1,
-      "weeks": 3,
-      "viewsDelta": 91
-    },
-    {
-      "pos": 4,
       "id": "ouxZnv13bN8",
       "isLatest": false,
       "cancelled": false,
@@ -1208,28 +1190,46 @@
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
       "prevPos": 3,
-      "move": -1,
+      "move": 0,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 86
+      "viewsDelta": 72
     },
     {
-      "pos": 5,
+      "pos": 4,
       "id": "IJXt-qAG-2Q",
       "isLatest": false,
       "cancelled": false,
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10033,
+      "views": 10035,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
       "prevPos": null,
       "move": "new",
-      "peak": 5,
+      "peak": 4,
       "weeks": 3,
-      "viewsDelta": 77
+      "viewsDelta": 62
+    },
+    {
+      "pos": 5,
+      "id": "MyIL46VKAyM",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "ISY",
+      "song": "ZAZA",
+      "title": "ISY - ZAZA",
+      "views": 1125,
+      "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
+      "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
+      "publishedText": "19 wrz 2026",
+      "prevPos": 1,
+      "move": -4,
+      "peak": 1,
+      "weeks": 3,
+      "viewsDelta": 58
     },
     {
       "pos": 6,
@@ -1239,7 +1239,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 274,
+      "views": 275,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1247,7 +1247,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 63
+      "viewsDelta": 51
     },
     {
       "pos": 7,
@@ -1261,36 +1261,36 @@
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
-      "prevPos": null,
-      "move": "new",
+      "prevPos": 7,
+      "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 58
+      "viewsDelta": 44
     },
     {
       "pos": 8,
-      "id": "Txsb4t6nBE4",
+      "id": "6tY7P4J8UZo",
       "isLatest": false,
       "cancelled": false,
-      "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
-      "song": "Te Quiero Mucho",
-      "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2110,
-      "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
-      "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
-      "publishedText": "30 sty 2026",
+      "artist": "Tyr0ne",
+      "song": "We Tap Heads",
+      "title": "Tyr0ne - We Tap Heads",
+      "views": 1340,
+      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
+      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
+      "publishedText": "20 sie 2026",
       "prevPos": null,
       "move": "new",
-      "peak": 8,
-      "weeks": 1,
-      "viewsDelta": 41
+      "peak": 7,
+      "weeks": 2,
+      "viewsDelta": 36
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 61122,
+      "views": 61124,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52864,
+      "views": 52865,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317212,
+    "views": 317232,
     "songs": 191
   },
   "latest": [
@@ -1398,7 +1398,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "GRAMY ZA TRIO",
       "title": "TINY SHUJ SWANFACE - GRAMY ZA TRIO",
-      "views": 145,
+      "views": 146,
       "url": "https://www.youtube.com/watch?v=LJIbzlacU9o",
       "thumb": "https://i.ytimg.com/vi/LJIbzlacU9o/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/LJIbzlacU9o/hqdefault.jpg",
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto",
       "song": "3 A.M Freestyle",
       "title": "Pablo Soto - 3 A.M Freestyle",
-      "views": 271,
+      "views": 272,
       "url": "https://www.youtube.com/watch?v=0klHc62i0sc",
       "thumb": "https://i.ytimg.com/vi/0klHc62i0sc/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/0klHc62i0sc/hqdefault.jpg",
@@ -1426,7 +1426,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 426,
+      "views": 429,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
