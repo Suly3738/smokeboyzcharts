@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T22:21:14.067Z",
+  "generatedAt": "2026-10-06T23:20:00.659Z",
   "chartDate": "2026-10-07",
   "prevDate": "2026-09-30",
   "channel": {
@@ -101,7 +101,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1127,
+      "views": 1128,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 47
+      "viewsDelta": 48
     },
     {
       "pos": 4,
@@ -173,7 +173,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 564,
+      "views": 566,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -181,7 +181,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 64
+      "viewsDelta": 66
     },
     {
       "pos": 8,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10042,
+      "views": 10045,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 4,
-      "viewsDelta": 60
+      "viewsDelta": 63
     },
     {
       "pos": 6,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4220,
+      "views": 4222,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 4,
-      "viewsDelta": 15
+      "viewsDelta": 17
     },
     {
       "pos": 20,
@@ -1149,7 +1149,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 437,
+      "views": 439,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "publishedText": "30 wrz 2026",
@@ -1157,7 +1157,7 @@
       "move": "new",
       "peak": 1,
       "weeks": 1,
-      "viewsDelta": 381
+      "viewsDelta": 383
     },
     {
       "pos": 2,
@@ -1185,7 +1185,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 564,
+      "views": 566,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1193,7 +1193,7 @@
       "move": -1,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 64
+      "viewsDelta": 66
     },
     {
       "pos": 4,
@@ -1203,7 +1203,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10042,
+      "views": 10045,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -1211,7 +1211,7 @@
       "move": "new",
       "peak": 4,
       "weeks": 3,
-      "viewsDelta": 60
+      "viewsDelta": 63
     },
     {
       "pos": 5,
@@ -1239,7 +1239,7 @@
       "artist": "ISY",
       "song": "ZAZA",
       "title": "ISY - ZAZA",
-      "views": 1127,
+      "views": 1128,
       "url": "https://www.youtube.com/watch?v=MyIL46VKAyM",
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
@@ -1247,7 +1247,7 @@
       "move": -5,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 47
+      "viewsDelta": 48
     },
     {
       "pos": 7,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 61154,
+      "views": 61157,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30616,
+      "views": 30618,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317475,
+    "views": 317487,
     "songs": 191
   },
   "latest": [
@@ -1426,14 +1426,14 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 437,
+      "views": 439,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
       "publishedAt": "2026-09-30T16:30:10Z",
       "publishedText": "30 wrz 2026",
       "isNew": true,
-      "viewsDelta": 381
+      "viewsDelta": 383
     }
   ]
 }
