@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:21:54.829Z",
+  "generatedAt": "2026-10-06T04:23:11.862Z",
   "chartDate": "2026-10-06",
   "prevDate": "2026-09-29",
   "channel": {
@@ -391,7 +391,7 @@
       "artist": "88Dushane",
       "song": "BIG MONEY MOVES",
       "title": "88Dushane - BIG MONEY MOVES [Official Music Video]",
-      "views": 7461,
+      "views": 7462,
       "url": "https://www.youtube.com/watch?v=MBXLnCzPBX0",
       "thumb": "https://i.ytimg.com/vi/MBXLnCzPBX0/mqdefault.jpg",
       "publishedText": "4 lis 2023",
@@ -399,7 +399,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 4,
-      "viewsDelta": 22
+      "viewsDelta": 23
     },
     {
       "pos": 10,
@@ -409,7 +409,7 @@
       "artist": "88Dushane",
       "song": "Femme Fatale",
       "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6871,
+      "views": 6872,
       "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
       "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
       "publishedText": "24 lut 2024",
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 4,
-      "viewsDelta": 37
+      "viewsDelta": 38
     },
     {
       "pos": 11,
@@ -535,7 +535,7 @@
       "artist": "WUJA",
       "song": "ALL ALONE",
       "title": "WUJA - ALL ALONE",
-      "views": 4643,
+      "views": 4644,
       "url": "https://www.youtube.com/watch?v=4k7sgidRPDI",
       "thumb": "https://i.ytimg.com/vi/4k7sgidRPDI/mqdefault.jpg",
       "publishedText": "9 cze 2024",
@@ -543,7 +543,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 4,
-      "viewsDelta": 14
+      "viewsDelta": 15
     },
     {
       "pos": 18,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4216,
+      "views": 4217,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 4,
-      "viewsDelta": 13
+      "viewsDelta": 14
     },
     {
       "pos": 20,
@@ -625,7 +625,7 @@
       "artist": "88Dushane",
       "song": "GRR POW",
       "title": "88Dushane - GRR POW (Official Music Video)",
-      "views": 3844,
+      "views": 3845,
       "url": "https://www.youtube.com/watch?v=CCAtfc3uu18",
       "thumb": "https://i.ytimg.com/vi/CCAtfc3uu18/mqdefault.jpg",
       "publishedText": "1 lut 2024",
@@ -633,7 +633,7 @@
       "move": 0,
       "peak": 22,
       "weeks": 4,
-      "viewsDelta": 9
+      "viewsDelta": 10
     },
     {
       "pos": 23,
@@ -643,7 +643,7 @@
       "artist": "TONY LUGO",
       "song": "JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
       "title": "TONY LUGO - JUŻ NIE BRZYDZĘ SIĘ TĄ BRANŻĄ",
-      "views": 3686,
+      "views": 3687,
       "url": "https://www.youtube.com/watch?v=UpFIrX-aWEw",
       "thumb": "https://i.ytimg.com/vi/UpFIrX-aWEw/mqdefault.jpg",
       "publishedText": "4 maj 2024",
@@ -651,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 4,
-      "viewsDelta": 15
+      "viewsDelta": 16
     },
     {
       "pos": 24,
@@ -1111,7 +1111,7 @@
       "artist": "88TRAY",
       "song": "WYJAŚNIENIE",
       "title": "88TRAY - WYJAŚNIENIE",
-      "views": 1545,
+      "views": 1546,
       "url": "https://www.youtube.com/watch?v=F3wUp8JkMTU",
       "thumb": "https://i.ytimg.com/vi/F3wUp8JkMTU/mqdefault.jpg",
       "publishedText": "19 sty 2024",
@@ -1119,7 +1119,7 @@
       "move": 0,
       "peak": 49,
       "weeks": 4,
-      "viewsDelta": 8
+      "viewsDelta": 9
     },
     {
       "pos": 50,
@@ -1290,7 +1290,7 @@
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 61132,
+      "views": 61135,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52874,
+      "views": 52875,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30589,
+      "views": 30591,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1360,7 +1360,7 @@
     {
       "pos": 8,
       "name": "88TRAY",
-      "views": 7368,
+      "views": 7369,
       "songs": 4,
       "bestSong": "4 A.M.",
       "bestArtist": "88TRAY",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317293,
+    "views": 317304,
     "songs": 191
   },
   "latest": [
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto",
       "song": "3 A.M Freestyle",
       "title": "Pablo Soto - 3 A.M Freestyle",
-      "views": 274,
+      "views": 276,
       "url": "https://www.youtube.com/watch?v=0klHc62i0sc",
       "thumb": "https://i.ytimg.com/vi/0klHc62i0sc/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/0klHc62i0sc/hqdefault.jpg",
@@ -1426,7 +1426,7 @@
       "artist": "LuCKy",
       "song": "W moich ramionach",
       "title": "LuCKy - W moich ramionach",
-      "views": 430,
+      "views": 431,
       "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
       "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/wVJGtmgWihY/hqdefault.jpg",
