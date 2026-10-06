@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-06T21:20:46.359Z",
-  "chartDate": "2026-10-06",
-  "prevDate": "2026-09-29",
+  "generatedAt": "2026-10-06T22:21:14.067Z",
+  "chartDate": "2026-10-07",
+  "prevDate": "2026-09-30",
   "channel": {
     "title": "Pixa Roleplay",
     "url": "https://www.youtube.com/@PixaRoleplay"
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 4,
-      "viewsDelta": 76
+      "viewsDelta": 56
     },
     {
       "pos": 2,
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 4,
-      "viewsDelta": 46
+      "viewsDelta": 31
     },
     {
       "pos": 3,
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 60
+      "viewsDelta": 47
     },
     {
       "pos": 4,
@@ -127,7 +127,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 4,
-      "viewsDelta": 32
+      "viewsDelta": 21
     },
     {
       "pos": 5,
@@ -145,7 +145,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 4,
-      "viewsDelta": 29
+      "viewsDelta": 24
     },
     {
       "pos": 6,
@@ -163,7 +163,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 4,
-      "viewsDelta": 21
+      "viewsDelta": 18
     },
     {
       "pos": 7,
@@ -177,11 +177,11 @@
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
-      "prevPos": 8,
-      "move": 1,
+      "prevPos": 7,
+      "move": 0,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 89
+      "viewsDelta": 64
     },
     {
       "pos": 8,
@@ -195,11 +195,11 @@
       "url": "https://www.youtube.com/watch?v=Vu98RAuH5xk",
       "thumb": "https://i.ytimg.com/vi/Vu98RAuH5xk/mqdefault.jpg",
       "publishedText": "9 wrz 2026",
-      "prevPos": 7,
-      "move": -1,
+      "prevPos": 8,
+      "move": 0,
       "peak": 6,
       "weeks": 4,
-      "viewsDelta": 14
+      "viewsDelta": 7
     },
     {
       "pos": 9,
@@ -217,7 +217,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 4,
-      "viewsDelta": 28
+      "viewsDelta": 24
     },
     {
       "pos": 10,
@@ -235,7 +235,7 @@
       "move": 0,
       "peak": 9,
       "weeks": 3,
-      "viewsDelta": 18
+      "viewsDelta": 10
     }
   ],
   "allTime": [
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 4,
-      "viewsDelta": 34
+      "viewsDelta": 29
     },
     {
       "pos": 2,
@@ -265,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13418,
+      "views": 13420,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 4,
-      "viewsDelta": 109
+      "viewsDelta": 104
     },
     {
       "pos": 3,
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 4,
-      "viewsDelta": 35
+      "viewsDelta": 31
     },
     {
       "pos": 4,
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 4,
-      "viewsDelta": 48
+      "viewsDelta": 42
     },
     {
       "pos": 5,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10043,
+      "views": 10042,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 4,
-      "viewsDelta": 70
+      "viewsDelta": 60
     },
     {
       "pos": 6,
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 4,
-      "viewsDelta": 26
+      "viewsDelta": 21
     },
     {
       "pos": 7,
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 4,
-      "viewsDelta": 34
+      "viewsDelta": 33
     },
     {
       "pos": 8,
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 4,
-      "viewsDelta": 19
+      "viewsDelta": 16
     },
     {
       "pos": 9,
@@ -417,7 +417,7 @@
       "move": 0,
       "peak": 10,
       "weeks": 4,
-      "viewsDelta": 44
+      "viewsDelta": 37
     },
     {
       "pos": 11,
@@ -435,7 +435,7 @@
       "move": 0,
       "peak": 11,
       "weeks": 4,
-      "viewsDelta": 28
+      "viewsDelta": 26
     },
     {
       "pos": 12,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6727,
+      "views": 6728,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 4,
-      "viewsDelta": 14
+      "viewsDelta": 6
     },
     {
       "pos": 14,
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 4,
-      "viewsDelta": 28
+      "viewsDelta": 24
     },
     {
       "pos": 15,
@@ -535,7 +535,7 @@
       "artist": "WUJA",
       "song": "ALL ALONE",
       "title": "WUJA - ALL ALONE",
-      "views": 4644,
+      "views": 4647,
       "url": "https://www.youtube.com/watch?v=4k7sgidRPDI",
       "thumb": "https://i.ytimg.com/vi/4k7sgidRPDI/mqdefault.jpg",
       "publishedText": "9 cze 2024",
@@ -543,7 +543,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 4,
-      "viewsDelta": 15
+      "viewsDelta": 17
     },
     {
       "pos": 18,
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 4,
-      "viewsDelta": 5
+      "viewsDelta": 3
     },
     {
       "pos": 19,
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 4,
-      "viewsDelta": 17
+      "viewsDelta": 15
     },
     {
       "pos": 20,
@@ -589,7 +589,7 @@
       "artist": "BABY FLAMESTA",
       "song": "DLA FORMALNOŚCI (TONY LUGO DISS)",
       "title": "BABY FLAMESTA - DLA FORMALNOŚCI (TONY LUGO DISS)",
-      "views": 3875,
+      "views": 3876,
       "url": "https://www.youtube.com/watch?v=5qM3_rAl8-8",
       "thumb": "https://i.ytimg.com/vi/5qM3_rAl8-8/mqdefault.jpg",
       "publishedText": "11 lip 2024",
@@ -597,7 +597,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 4,
-      "viewsDelta": 18
+      "viewsDelta": 14
     },
     {
       "pos": 21,
@@ -615,7 +615,7 @@
       "move": 0,
       "peak": 21,
       "weeks": 4,
-      "viewsDelta": 9
+      "viewsDelta": 7
     },
     {
       "pos": 22,
@@ -633,7 +633,7 @@
       "move": 0,
       "peak": 22,
       "weeks": 4,
-      "viewsDelta": 10
+      "viewsDelta": 8
     },
     {
       "pos": 23,
@@ -651,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 4,
-      "viewsDelta": 16
+      "viewsDelta": 15
     },
     {
       "pos": 24,
@@ -661,7 +661,7 @@
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
-      "views": 3617,
+      "views": 3618,
       "url": "https://www.youtube.com/watch?v=Lap3gXlJk1Q",
       "thumb": "https://i.ytimg.com/vi/Lap3gXlJk1Q/mqdefault.jpg",
       "publishedText": "4 kwi 2024",
@@ -705,7 +705,7 @@
       "move": 0,
       "peak": 26,
       "weeks": 4,
-      "viewsDelta": 6
+      "viewsDelta": 3
     },
     {
       "pos": 27,
@@ -723,7 +723,7 @@
       "move": 0,
       "peak": 27,
       "weeks": 4,
-      "viewsDelta": 7
+      "viewsDelta": 6
     },
     {
       "pos": 28,
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 28,
       "weeks": 4,
-      "viewsDelta": 16
+      "viewsDelta": 14
     },
     {
       "pos": 29,
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 33,
       "weeks": 4,
-      "viewsDelta": 26
+      "viewsDelta": 21
     },
     {
       "pos": 34,
@@ -849,7 +849,7 @@
       "move": 1,
       "peak": 34,
       "weeks": 4,
-      "viewsDelta": 76
+      "viewsDelta": 56
     },
     {
       "pos": 35,
@@ -867,7 +867,7 @@
       "move": -1,
       "peak": 34,
       "weeks": 4,
-      "viewsDelta": 4
+      "viewsDelta": 3
     },
     {
       "pos": 36,
@@ -885,7 +885,7 @@
       "move": 0,
       "peak": 35,
       "weeks": 4,
-      "viewsDelta": 6
+      "viewsDelta": 5
     },
     {
       "pos": 37,
@@ -903,7 +903,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 4,
-      "viewsDelta": 37
+      "viewsDelta": 26
     },
     {
       "pos": 38,
@@ -921,7 +921,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 4,
-      "viewsDelta": 16
+      "viewsDelta": 14
     },
     {
       "pos": 39,
@@ -1047,7 +1047,7 @@
       "move": 3,
       "peak": 45,
       "weeks": 4,
-      "viewsDelta": 18
+      "viewsDelta": 16
     },
     {
       "pos": 46,
@@ -1119,7 +1119,7 @@
       "move": 0,
       "peak": 49,
       "weeks": 4,
-      "viewsDelta": 9
+      "viewsDelta": 5
     },
     {
       "pos": 50,
@@ -1137,30 +1137,48 @@
       "move": 0,
       "peak": 50,
       "weeks": 4,
-      "viewsDelta": 2
+      "viewsDelta": 1
     }
   ],
   "rising": [
     {
       "pos": 1,
+      "id": "wVJGtmgWihY",
+      "isLatest": true,
+      "cancelled": false,
+      "artist": "LuCKy",
+      "song": "W moich ramionach",
+      "title": "LuCKy - W moich ramionach",
+      "views": 437,
+      "url": "https://www.youtube.com/watch?v=wVJGtmgWihY",
+      "thumb": "https://i.ytimg.com/vi/wVJGtmgWihY/mqdefault.jpg",
+      "publishedText": "30 wrz 2026",
+      "prevPos": null,
+      "move": "new",
+      "peak": 1,
+      "weeks": 1,
+      "viewsDelta": 381
+    },
+    {
+      "pos": 2,
       "id": "dXNQgu1agkg",
       "isLatest": false,
       "cancelled": false,
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13418,
+      "views": 13420,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
-      "prevPos": 2,
-      "move": 1,
+      "prevPos": 4,
+      "move": 2,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 109
+      "viewsDelta": 104
     },
     {
-      "pos": 2,
+      "pos": 3,
       "id": "MQXUotiTsWU",
       "isLatest": false,
       "cancelled": false,
@@ -1171,14 +1189,32 @@
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
-      "prevPos": null,
-      "move": "new",
+      "prevPos": 2,
+      "move": -1,
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 89
+      "viewsDelta": 64
     },
     {
-      "pos": 3,
+      "pos": 4,
+      "id": "IJXt-qAG-2Q",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "88Dushane",
+      "song": "Slowly Dying",
+      "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
+      "views": 10042,
+      "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
+      "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
+      "publishedText": "24 sty 2024",
+      "prevPos": null,
+      "move": "new",
+      "peak": 4,
+      "weeks": 3,
+      "viewsDelta": 60
+    },
+    {
+      "pos": 5,
       "id": "ouxZnv13bN8",
       "isLatest": false,
       "cancelled": false,
@@ -1189,32 +1225,14 @@
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
-      "prevPos": 3,
+      "prevPos": 5,
       "move": 0,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 76
+      "viewsDelta": 56
     },
     {
-      "pos": 4,
-      "id": "IJXt-qAG-2Q",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "88Dushane",
-      "song": "Slowly Dying",
-      "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10043,
-      "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
-      "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
-      "publishedText": "24 sty 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 4,
-      "weeks": 3,
-      "viewsDelta": 70
-    },
-    {
-      "pos": 5,
+      "pos": 6,
       "id": "MyIL46VKAyM",
       "isLatest": false,
       "cancelled": false,
@@ -1226,28 +1244,10 @@
       "thumb": "https://i.ytimg.com/vi/MyIL46VKAyM/mqdefault.jpg",
       "publishedText": "19 wrz 2026",
       "prevPos": 1,
-      "move": -4,
+      "move": -5,
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 60
-    },
-    {
-      "pos": 6,
-      "id": "tqf-3o0PhxM",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "Pablo Soto & D.G",
-      "song": "Z nami",
-      "title": "Pablo Soto & D.G - Z nami",
-      "views": 279,
-      "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
-      "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
-      "publishedText": "23 wrz 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 3,
-      "weeks": 2,
-      "viewsDelta": 55
+      "viewsDelta": 47
     },
     {
       "pos": 7,
@@ -1265,32 +1265,32 @@
       "move": 0,
       "peak": 3,
       "weeks": 3,
-      "viewsDelta": 48
+      "viewsDelta": 42
     },
     {
       "pos": 8,
-      "id": "6tY7P4J8UZo",
+      "id": "lFAtuKc7Tz8",
       "isLatest": false,
       "cancelled": false,
-      "artist": "Tyr0ne",
-      "song": "We Tap Heads",
-      "title": "Tyr0ne - We Tap Heads",
-      "views": 1350,
-      "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
-      "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
-      "publishedText": "20 sie 2026",
-      "prevPos": null,
-      "move": "new",
-      "peak": 7,
-      "weeks": 2,
-      "viewsDelta": 46
+      "artist": "88Dushane",
+      "song": "Femme Fatale",
+      "title": "88Dushane - Femme Fatale (Official Music Video)",
+      "views": 6878,
+      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
+      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
+      "publishedText": "24 lut 2024",
+      "prevPos": 8,
+      "move": 0,
+      "peak": 6,
+      "weeks": 3,
+      "viewsDelta": 37
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 61155,
+      "views": 61154,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 40993,
+      "views": 40997,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30610,
+      "views": 30616,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317468,
+    "views": 317475,
     "songs": 191
   },
   "latest": [
@@ -1433,7 +1433,7 @@
       "publishedAt": "2026-09-30T16:30:10Z",
       "publishedText": "30 wrz 2026",
       "isNew": true,
-      "viewsDelta": null
+      "viewsDelta": 381
     }
   ]
 }
