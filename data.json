@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:23:41.122Z",
+  "generatedAt": "2026-10-06T10:22:39.151Z",
   "chartDate": "2026-10-06",
   "prevDate": "2026-09-29",
   "channel": {
@@ -83,7 +83,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1343,
+      "views": 1344,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 4,
-      "viewsDelta": 39
+      "viewsDelta": 40
     },
     {
       "pos": 3,
@@ -283,7 +283,7 @@
       "artist": "TONY LUGO",
       "song": "BRZYDZI MNIE BRANŻA",
       "title": "TONY LUGO - BRZYDZI MNIE BRANŻA (official video)",
-      "views": 12462,
+      "views": 12464,
       "url": "https://www.youtube.com/watch?v=hI--EHIVO8w",
       "thumb": "https://i.ytimg.com/vi/hI--EHIVO8w/mqdefault.jpg",
       "publishedText": "18 lut 2024",
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 4,
-      "viewsDelta": 33
+      "viewsDelta": 35
     },
     {
       "pos": 4,
@@ -481,7 +481,7 @@
       "artist": "88Dushane",
       "song": "JAK TRZEBA TO ZGINE ZA SET",
       "title": "88Dushane - JAK TRZEBA TO ZGINE ZA SET",
-      "views": 6206,
+      "views": 6207,
       "url": "https://www.youtube.com/watch?v=gC0bmMqaRp0",
       "thumb": "https://i.ytimg.com/vi/gC0bmMqaRp0/mqdefault.jpg",
       "publishedText": "16 lut 2024",
@@ -489,7 +489,7 @@
       "move": 0,
       "peak": 14,
       "weeks": 4,
-      "viewsDelta": 24
+      "viewsDelta": 25
     },
     {
       "pos": 15,
@@ -895,7 +895,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2111,
+      "views": 2112,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -903,7 +903,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 4,
-      "viewsDelta": 35
+      "viewsDelta": 36
     },
     {
       "pos": 38,
@@ -1239,7 +1239,7 @@
       "artist": "Pablo Soto & D.G",
       "song": "Z nami",
       "title": "Pablo Soto & D.G - Z nami",
-      "views": 277,
+      "views": 279,
       "url": "https://www.youtube.com/watch?v=tqf-3o0PhxM",
       "thumb": "https://i.ytimg.com/vi/tqf-3o0PhxM/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1247,7 +1247,7 @@
       "move": "new",
       "peak": 3,
       "weeks": 2,
-      "viewsDelta": 53
+      "viewsDelta": 55
     },
     {
       "pos": 7,
@@ -1275,7 +1275,7 @@
       "artist": "Tyr0ne",
       "song": "We Tap Heads",
       "title": "Tyr0ne - We Tap Heads",
-      "views": 1343,
+      "views": 1344,
       "url": "https://www.youtube.com/watch?v=6tY7P4J8UZo",
       "thumb": "https://i.ytimg.com/vi/6tY7P4J8UZo/mqdefault.jpg",
       "publishedText": "20 sie 2026",
@@ -1283,14 +1283,14 @@
       "move": "new",
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 39
+      "viewsDelta": 40
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 61135,
+      "views": 61136,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52877,
+      "views": 52879,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317313,
+    "views": 317322,
     "songs": 191
   },
   "latest": [
