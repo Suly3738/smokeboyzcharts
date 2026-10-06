@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:24:12.110Z",
+  "generatedAt": "2026-10-06T09:23:41.122Z",
   "chartDate": "2026-10-06",
   "prevDate": "2026-09-29",
   "channel": {
@@ -155,7 +155,7 @@
       "artist": "txnyuchkiechkaser",
       "song": "KMS",
       "title": "txnyuchkiechkaser - KMS",
-      "views": 676,
+      "views": 677,
       "url": "https://www.youtube.com/watch?v=K_PxyMNSgo4",
       "thumb": "https://i.ytimg.com/vi/K_PxyMNSgo4/mqdefault.jpg",
       "publishedText": "1 wrz 2026",
@@ -163,7 +163,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 4,
-      "viewsDelta": 18
+      "viewsDelta": 19
     },
     {
       "pos": 7,
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317310,
+    "views": 317313,
     "songs": 191
   },
   "latest": [
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto",
       "song": "3 A.M Freestyle",
       "title": "Pablo Soto - 3 A.M Freestyle",
-      "views": 277,
+      "views": 278,
       "url": "https://www.youtube.com/watch?v=0klHc62i0sc",
       "thumb": "https://i.ytimg.com/vi/0klHc62i0sc/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/0klHc62i0sc/hqdefault.jpg",
