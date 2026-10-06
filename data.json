@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T05:22:03.600Z",
+  "generatedAt": "2026-10-06T06:27:18.636Z",
   "chartDate": "2026-10-06",
   "prevDate": "2026-09-29",
   "channel": {
@@ -173,7 +173,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 556,
+      "views": 557,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -181,7 +181,7 @@
       "move": 1,
       "peak": 7,
       "weeks": 2,
-      "viewsDelta": 81
+      "viewsDelta": 82
     },
     {
       "pos": 8,
@@ -247,7 +247,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14321,
+      "views": 14320,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 4,
-      "viewsDelta": 30
+      "viewsDelta": 29
     },
     {
       "pos": 2,
@@ -571,7 +571,7 @@
       "artist": "WUJA",
       "song": "TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
       "title": "WUJA - TRIPLE KILL [DISS C-G/LUCKY/TONY LUGO]",
-      "views": 4217,
+      "views": 4218,
       "url": "https://www.youtube.com/watch?v=ERhCZ8EvFq0",
       "thumb": "https://i.ytimg.com/vi/ERhCZ8EvFq0/mqdefault.jpg",
       "publishedText": "28 sty 2024",
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 4,
-      "viewsDelta": 14
+      "viewsDelta": 15
     },
     {
       "pos": 20,
@@ -913,7 +913,7 @@
       "artist": "Drippy x Wuja",
       "song": "FRANCHISE",
       "title": "Drippy x Wuja - FRANCHISE [Oficial Music Video]",
-      "views": 2079,
+      "views": 2080,
       "url": "https://www.youtube.com/watch?v=FNXj91Sz0oY",
       "thumb": "https://i.ytimg.com/vi/FNXj91Sz0oY/mqdefault.jpg",
       "publishedText": "22 sie 2023",
@@ -921,7 +921,7 @@
       "move": 0,
       "peak": 37,
       "weeks": 4,
-      "viewsDelta": 13
+      "viewsDelta": 14
     },
     {
       "pos": 39,
@@ -1167,7 +1167,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 556,
+      "views": 557,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1175,7 +1175,7 @@
       "move": "new",
       "peak": 2,
       "weeks": 2,
-      "viewsDelta": 81
+      "viewsDelta": 82
     },
     {
       "pos": 3,
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 52876,
+      "views": 52875,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 30591,
+      "views": 30592,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 317302,
+    "views": 317308,
     "songs": 191
   },
   "latest": [
@@ -1412,7 +1412,7 @@
       "artist": "Pablo Soto",
       "song": "3 A.M Freestyle",
       "title": "Pablo Soto - 3 A.M Freestyle",
-      "views": 274,
+      "views": 277,
       "url": "https://www.youtube.com/watch?v=0klHc62i0sc",
       "thumb": "https://i.ytimg.com/vi/0klHc62i0sc/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/0klHc62i0sc/hqdefault.jpg",
