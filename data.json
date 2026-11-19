@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-18T21:49:54.391Z",
-  "chartDate": "2026-11-18",
-  "prevDate": "2026-11-11",
+  "generatedAt": "2026-11-19T03:13:41.033Z",
+  "chartDate": "2026-11-19",
+  "prevDate": "2026-11-12",
   "channel": {
     "title": "Pixa Roleplay",
     "url": "https://www.youtube.com/@PixaRoleplay"
@@ -65,7 +65,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2460,
+      "views": 2461,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -73,7 +73,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 7,
-      "viewsDelta": 26
+      "viewsDelta": 25
     },
     {
       "pos": 2,
@@ -91,7 +91,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 7,
-      "viewsDelta": 5
+      "viewsDelta": 4
     },
     {
       "pos": 3,
@@ -109,7 +109,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 6,
-      "viewsDelta": 5
+      "viewsDelta": 4
     },
     {
       "pos": 4,
@@ -119,7 +119,7 @@
       "artist": "Tiny Shuj",
       "song": "Nowy cali G",
       "title": "Tiny Shuj - Nowy cali G",
-      "views": 1160,
+      "views": 1162,
       "url": "https://www.youtube.com/watch?v=_yAfcKGcz7Y",
       "thumb": "https://i.ytimg.com/vi/_yAfcKGcz7Y/mqdefault.jpg",
       "publishedText": "17 sie 2026",
@@ -127,7 +127,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 7,
-      "viewsDelta": 11
+      "viewsDelta": 13
     },
     {
       "pos": 5,
@@ -145,7 +145,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 7,
-      "viewsDelta": 44
+      "viewsDelta": 37
     },
     {
       "pos": 6,
@@ -155,7 +155,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 764,
+      "views": 767,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -163,7 +163,7 @@
       "move": 1,
       "peak": 6,
       "weeks": 5,
-      "viewsDelta": 30
+      "viewsDelta": 32
     },
     {
       "pos": 7,
@@ -191,7 +191,7 @@
       "artist": "bkluesatan",
       "song": "6paec",
       "title": "bkluesatan - 6paec",
-      "views": 561,
+      "views": 565,
       "url": "https://www.youtube.com/watch?v=eniF9nmftFQ",
       "thumb": "https://i.ytimg.com/vi/eniF9nmftFQ/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
@@ -199,7 +199,7 @@
       "move": 1,
       "peak": 7,
       "weeks": 7,
-      "viewsDelta": 9
+      "viewsDelta": 12
     },
     {
       "pos": 9,
@@ -217,7 +217,7 @@
       "move": -1,
       "peak": 8,
       "weeks": 3,
-      "viewsDelta": 4
+      "viewsDelta": 2
     },
     {
       "pos": 10,
@@ -231,11 +231,11 @@
       "url": "https://www.youtube.com/watch?v=lR_vlC8uh8g",
       "thumb": "https://i.ytimg.com/vi/lR_vlC8uh8g/mqdefault.jpg",
       "publishedText": "8 wrz 2026",
-      "prevPos": null,
-      "move": "new",
+      "prevPos": 10,
+      "move": 0,
       "peak": 8,
       "weeks": 4,
-      "viewsDelta": 6
+      "viewsDelta": 4
     }
   ],
   "allTime": [
@@ -247,7 +247,7 @@
       "artist": "TONY LUGO",
       "song": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "title": "TONY LUGO - MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
-      "views": 14622,
+      "views": 14625,
       "url": "https://www.youtube.com/watch?v=N6ZIMdfZZmI",
       "thumb": "https://i.ytimg.com/vi/N6ZIMdfZZmI/mqdefault.jpg",
       "publishedText": "8 sie 2024",
@@ -255,7 +255,7 @@
       "move": 0,
       "peak": 1,
       "weeks": 7,
-      "viewsDelta": 26
+      "viewsDelta": 23
     },
     {
       "pos": 2,
@@ -265,7 +265,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13796,
+      "views": 13801,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -273,7 +273,7 @@
       "move": 0,
       "peak": 2,
       "weeks": 7,
-      "viewsDelta": 45
+      "viewsDelta": 41
     },
     {
       "pos": 3,
@@ -291,7 +291,7 @@
       "move": 0,
       "peak": 3,
       "weeks": 7,
-      "viewsDelta": 25
+      "viewsDelta": 24
     },
     {
       "pos": 4,
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 11226,
+      "views": 11229,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 7,
-      "viewsDelta": 40
+      "viewsDelta": 37
     },
     {
       "pos": 5,
@@ -319,7 +319,7 @@
       "artist": "88Dushane",
       "song": "Slowly Dying",
       "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10247,
+      "views": 10251,
       "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
@@ -327,7 +327,7 @@
       "move": 0,
       "peak": 5,
       "weeks": 7,
-      "viewsDelta": 33
+      "viewsDelta": 30
     },
     {
       "pos": 6,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9604,
+      "views": 9610,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 7,
-      "viewsDelta": 38
+      "viewsDelta": 39
     },
     {
       "pos": 7,
@@ -355,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8506,
+      "views": 8507,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 7,
-      "viewsDelta": 17
+      "viewsDelta": 16
     },
     {
       "pos": 8,
@@ -373,7 +373,7 @@
       "artist": "88Dushane",
       "song": "GO GO",
       "title": "88Dushane - GO GO [Oficial Music Video]",
-      "views": 8079,
+      "views": 8081,
       "url": "https://www.youtube.com/watch?v=xRKgD_-BJQs",
       "thumb": "https://i.ytimg.com/vi/xRKgD_-BJQs/mqdefault.jpg",
       "publishedText": "13 paź 2023",
@@ -381,7 +381,7 @@
       "move": 0,
       "peak": 8,
       "weeks": 7,
-      "viewsDelta": 17
+      "viewsDelta": 16
     },
     {
       "pos": 9,
@@ -399,10 +399,28 @@
       "move": 0,
       "peak": 9,
       "weeks": 7,
-      "viewsDelta": 22
+      "viewsDelta": 20
     },
     {
       "pos": 10,
+      "id": "lFAtuKc7Tz8",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "88Dushane",
+      "song": "Femme Fatale",
+      "title": "88Dushane - Femme Fatale (Official Music Video)",
+      "views": 6982,
+      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
+      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
+      "publishedText": "24 lut 2024",
+      "prevPos": 10,
+      "move": 0,
+      "peak": 10,
+      "weeks": 7,
+      "viewsDelta": 19
+    },
+    {
+      "pos": 11,
       "id": "Pun1oxeNjE8",
       "isLatest": false,
       "cancelled": false,
@@ -414,28 +432,10 @@
       "thumb": "https://i.ytimg.com/vi/Pun1oxeNjE8/mqdefault.jpg",
       "publishedText": "7 lut 2024",
       "prevPos": 11,
-      "move": 1,
+      "move": 0,
       "peak": 10,
       "weeks": 7,
-      "viewsDelta": 29
-    },
-    {
-      "pos": 11,
-      "id": "lFAtuKc7Tz8",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "88Dushane",
-      "song": "Femme Fatale",
-      "title": "88Dushane - Femme Fatale (Official Music Video)",
-      "views": 6978,
-      "url": "https://www.youtube.com/watch?v=lFAtuKc7Tz8",
-      "thumb": "https://i.ytimg.com/vi/lFAtuKc7Tz8/mqdefault.jpg",
-      "publishedText": "24 lut 2024",
-      "prevPos": 10,
-      "move": -1,
-      "peak": 10,
-      "weeks": 7,
-      "viewsDelta": 16
+      "viewsDelta": 28
     },
     {
       "pos": 12,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6907,
+      "views": 6908,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 7,
-      "viewsDelta": 25
+      "viewsDelta": 21
     },
     {
       "pos": 13,
@@ -463,7 +463,7 @@
       "artist": "G SMOOTH",
       "song": "TROUBLE",
       "title": "G SMOOTH - TROUBLE",
-      "views": 6672,
+      "views": 6676,
       "url": "https://www.youtube.com/watch?v=dcbSyridlM8",
       "thumb": "https://i.ytimg.com/vi/dcbSyridlM8/mqdefault.jpg",
       "publishedText": "27 lip 2024",
@@ -471,7 +471,7 @@
       "move": 0,
       "peak": 13,
       "weeks": 7,
-      "viewsDelta": 7
+      "viewsDelta": 10
     },
     {
       "pos": 14,
@@ -543,7 +543,7 @@
       "move": 0,
       "peak": 17,
       "weeks": 7,
-      "viewsDelta": 8
+      "viewsDelta": 5
     },
     {
       "pos": 18,
@@ -561,7 +561,7 @@
       "move": 0,
       "peak": 18,
       "weeks": 7,
-      "viewsDelta": 13
+      "viewsDelta": 9
     },
     {
       "pos": 19,
@@ -579,7 +579,7 @@
       "move": 0,
       "peak": 19,
       "weeks": 7,
-      "viewsDelta": 3
+      "viewsDelta": 2
     },
     {
       "pos": 20,
@@ -597,7 +597,7 @@
       "move": 0,
       "peak": 20,
       "weeks": 7,
-      "viewsDelta": 7
+      "viewsDelta": 6
     },
     {
       "pos": 21,
@@ -651,7 +651,7 @@
       "move": 0,
       "peak": 23,
       "weeks": 7,
-      "viewsDelta": 14
+      "viewsDelta": 12
     },
     {
       "pos": 24,
@@ -661,7 +661,7 @@
       "artist": "WUJA",
       "song": "OVERDOSE",
       "title": "WUJA - OVERDOSE",
-      "views": 3681,
+      "views": 3682,
       "url": "https://www.youtube.com/watch?v=Lap3gXlJk1Q",
       "thumb": "https://i.ytimg.com/vi/Lap3gXlJk1Q/mqdefault.jpg",
       "publishedText": "4 kwi 2024",
@@ -669,7 +669,7 @@
       "move": 0,
       "peak": 24,
       "weeks": 7,
-      "viewsDelta": 1
+      "viewsDelta": 2
     },
     {
       "pos": 25,
@@ -687,7 +687,7 @@
       "move": 0,
       "peak": 25,
       "weeks": 7,
-      "viewsDelta": 4
+      "viewsDelta": 3
     },
     {
       "pos": 26,
@@ -723,7 +723,7 @@
       "move": 0,
       "peak": 27,
       "weeks": 7,
-      "viewsDelta": 22
+      "viewsDelta": 19
     },
     {
       "pos": 28,
@@ -741,7 +741,7 @@
       "move": 0,
       "peak": 27,
       "weeks": 7,
-      "viewsDelta": 5
+      "viewsDelta": 4
     },
     {
       "pos": 29,
@@ -751,7 +751,7 @@
       "artist": "BABY FLAMESTA x DG SULLY",
       "song": "PORN$TAR",
       "title": "BABY FLAMESTA x DG SULLY - PORN$TAR (OFFICIAL VIDEO)",
-      "views": 2771,
+      "views": 2773,
       "url": "https://www.youtube.com/watch?v=bZuoIVpLLDE",
       "thumb": "https://i.ytimg.com/vi/bZuoIVpLLDE/mqdefault.jpg",
       "publishedText": "10 cze 2024",
@@ -759,7 +759,7 @@
       "move": 0,
       "peak": 29,
       "weeks": 7,
-      "viewsDelta": 7
+      "viewsDelta": 9
     },
     {
       "pos": 30,
@@ -831,7 +831,7 @@
       "move": 0,
       "peak": 32,
       "weeks": 7,
-      "viewsDelta": 2
+      "viewsDelta": 1
     },
     {
       "pos": 34,
@@ -841,7 +841,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2460,
+      "views": 2461,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -849,7 +849,7 @@
       "move": 0,
       "peak": 34,
       "weeks": 7,
-      "viewsDelta": 26
+      "viewsDelta": 25
     },
     {
       "pos": 35,
@@ -877,7 +877,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2233,
+      "views": 2234,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -885,7 +885,7 @@
       "move": 0,
       "peak": 36,
       "weeks": 7,
-      "viewsDelta": 21
+      "viewsDelta": 16
     },
     {
       "pos": 37,
@@ -1011,7 +1011,7 @@
       "move": 0,
       "peak": 43,
       "weeks": 7,
-      "viewsDelta": 6
+      "viewsDelta": 5
     },
     {
       "pos": 44,
@@ -1029,7 +1029,7 @@
       "move": 0,
       "peak": 44,
       "weeks": 7,
-      "viewsDelta": 4
+      "viewsDelta": 2
     },
     {
       "pos": 45,
@@ -1047,7 +1047,7 @@
       "move": 0,
       "peak": 45,
       "weeks": 7,
-      "viewsDelta": 5
+      "viewsDelta": 3
     },
     {
       "pos": 46,
@@ -1149,7 +1149,7 @@
       "artist": "BABY FLAMESTA x WUJA",
       "song": "GANG SHIT NO LAME SHIT",
       "title": "BABY FLAMESTA x WUJA - GANG SHIT NO LAME SHIT (OFFICIAL VIDEO)",
-      "views": 13796,
+      "views": 13801,
       "url": "https://www.youtube.com/watch?v=dXNQgu1agkg",
       "thumb": "https://i.ytimg.com/vi/dXNQgu1agkg/mqdefault.jpg",
       "publishedText": "26 kwi 2024",
@@ -1157,10 +1157,28 @@
       "move": 0,
       "peak": 1,
       "weeks": 6,
-      "viewsDelta": 45
+      "viewsDelta": 41
     },
     {
       "pos": 2,
+      "id": "x2LVQUvEeW4",
+      "isLatest": false,
+      "cancelled": true,
+      "artist": "G SMOOTH",
+      "song": "FADE (Shot by Nighty Visionz)",
+      "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
+      "views": 9610,
+      "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
+      "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
+      "publishedText": "10 sie 2024",
+      "prevPos": 4,
+      "move": 2,
+      "peak": 2,
+      "weeks": 3,
+      "viewsDelta": 39
+    },
+    {
+      "pos": 3,
       "id": "ZiwMRxTF6vw",
       "isLatest": false,
       "cancelled": false,
@@ -1175,71 +1193,35 @@
       "move": "new",
       "peak": 1,
       "weeks": 3,
-      "viewsDelta": 44
+      "viewsDelta": 37
     },
     {
-      "pos": 3,
+      "pos": 4,
       "id": "GcFByoqlJgY",
       "isLatest": false,
       "cancelled": false,
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 11226,
+      "views": 11229,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
       "prevPos": 3,
-      "move": 0,
+      "move": -1,
       "peak": 2,
       "weeks": 6,
-      "viewsDelta": 40
-    },
-    {
-      "pos": 4,
-      "id": "x2LVQUvEeW4",
-      "isLatest": false,
-      "cancelled": true,
-      "artist": "G SMOOTH",
-      "song": "FADE (Shot by Nighty Visionz)",
-      "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9604,
-      "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
-      "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
-      "publishedText": "10 sie 2024",
-      "prevPos": 4,
-      "move": 0,
-      "peak": 3,
-      "weeks": 3,
-      "viewsDelta": 38
+      "viewsDelta": 37
     },
     {
       "pos": 5,
-      "id": "IJXt-qAG-2Q",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "88Dushane",
-      "song": "Slowly Dying",
-      "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
-      "views": 10247,
-      "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
-      "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
-      "publishedText": "24 sty 2024",
-      "prevPos": 7,
-      "move": 2,
-      "peak": 4,
-      "weeks": 6,
-      "viewsDelta": 33
-    },
-    {
-      "pos": 6,
       "id": "MQXUotiTsWU",
       "isLatest": false,
       "cancelled": false,
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 764,
+      "views": 767,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -1247,6 +1229,24 @@
       "move": "new",
       "peak": 2,
       "weeks": 3,
+      "viewsDelta": 32
+    },
+    {
+      "pos": 6,
+      "id": "IJXt-qAG-2Q",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "88Dushane",
+      "song": "Slowly Dying",
+      "title": "88Dushane - Slowly Dying (Official Cinematic Video)",
+      "views": 10251,
+      "url": "https://www.youtube.com/watch?v=IJXt-qAG-2Q",
+      "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
+      "publishedText": "24 sty 2024",
+      "prevPos": 6,
+      "move": 0,
+      "peak": 4,
+      "weeks": 6,
       "viewsDelta": 30
     },
     {
@@ -1261,11 +1261,11 @@
       "url": "https://www.youtube.com/watch?v=Pun1oxeNjE8",
       "thumb": "https://i.ytimg.com/vi/Pun1oxeNjE8/mqdefault.jpg",
       "publishedText": "7 lut 2024",
-      "prevPos": 6,
-      "move": -1,
+      "prevPos": 7,
+      "move": 0,
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 29
+      "viewsDelta": 28
     },
     {
       "pos": 8,
@@ -1275,7 +1275,7 @@
       "artist": "Tiny Shuj",
       "song": "naucz mnie jak kochać",
       "title": "Tiny Shuj - naucz mnie jak kochać",
-      "views": 2460,
+      "views": 2461,
       "url": "https://www.youtube.com/watch?v=ouxZnv13bN8",
       "thumb": "https://i.ytimg.com/vi/ouxZnv13bN8/mqdefault.jpg",
       "publishedText": "12 wrz 2026",
@@ -1283,14 +1283,14 @@
       "move": "new",
       "peak": 1,
       "weeks": 5,
-      "viewsDelta": 26
+      "viewsDelta": 25
     }
   ],
   "artists": [
     {
       "pos": 1,
       "name": "88Dushane",
-      "views": 62179,
+      "views": 62189,
       "songs": 11,
       "bestSong": "Slowly Dying",
       "bestArtist": "88Dushane",
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 53949,
+      "views": 53955,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 42151,
+      "views": 42160,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1320,7 +1320,7 @@
     {
       "pos": 4,
       "name": "WUJA",
-      "views": 31239,
+      "views": 31245,
       "songs": 7,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1330,7 +1330,7 @@
     {
       "pos": 5,
       "name": "G SMOOTH",
-      "views": 16276,
+      "views": 16286,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 323942,
+    "views": 323991,
     "songs": 191
   },
   "latest": [
@@ -1405,21 +1405,21 @@
       "publishedAt": "2026-10-03T20:12:48Z",
       "publishedText": "3 paź 2026",
       "isNew": false,
-      "viewsDelta": 11
+      "viewsDelta": 9
     },
     {
       "id": "0klHc62i0sc",
       "artist": "Pablo Soto",
       "song": "3 A.M Freestyle",
       "title": "Pablo Soto - 3 A.M Freestyle",
-      "views": 459,
+      "views": 460,
       "url": "https://www.youtube.com/watch?v=0klHc62i0sc",
       "thumb": "https://i.ytimg.com/vi/0klHc62i0sc/mqdefault.jpg",
       "thumbLarge": "https://i.ytimg.com/vi/0klHc62i0sc/hqdefault.jpg",
       "publishedAt": "2026-10-01T19:00:09Z",
       "publishedText": "1 paź 2026",
       "isNew": false,
-      "viewsDelta": 12
+      "viewsDelta": 10
     },
     {
       "id": "wVJGtmgWihY",
@@ -1433,7 +1433,7 @@
       "publishedAt": "2026-09-30T16:30:10Z",
       "publishedText": "30 wrz 2026",
       "isNew": false,
-      "viewsDelta": 4
+      "viewsDelta": 2
     }
   ]
 }
