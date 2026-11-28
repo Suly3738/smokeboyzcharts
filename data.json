@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:53:16.636Z",
+  "generatedAt": "2026-11-28T10:12:58.951Z",
   "chartDate": "2026-11-28",
   "prevDate": "2026-11-21",
   "channel": {
@@ -155,7 +155,7 @@
       "artist": "TINY SHUJ SWANFACE",
       "song": "ciągle nam mało",
       "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 811,
+      "views": 815,
       "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
       "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
       "publishedText": "23 wrz 2026",
@@ -163,7 +163,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 6,
-      "viewsDelta": 29
+      "viewsDelta": 33
     },
     {
       "pos": 7,
@@ -301,7 +301,7 @@
       "artist": "TONY LUGO",
       "song": "ONE SHOT ONE KILL (WUJA DISS)",
       "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
-      "views": 11264,
+      "views": 11266,
       "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
       "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
       "publishedText": "29 sty 2024",
@@ -309,7 +309,7 @@
       "move": 0,
       "peak": 4,
       "weeks": 8,
-      "viewsDelta": 19
+      "viewsDelta": 21
     },
     {
       "pos": 5,
@@ -337,7 +337,7 @@
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9651,
+      "views": 9653,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
@@ -345,7 +345,7 @@
       "move": 0,
       "peak": 6,
       "weeks": 8,
-      "viewsDelta": 31
+      "viewsDelta": 33
     },
     {
       "pos": 7,
@@ -355,7 +355,7 @@
       "artist": "BABY FLAMESTA",
       "song": "CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
       "title": "BABY FLAMESTA - CRIMINALS & LOCS (FEAT. DG BLUFF) OFFICIAL VIDEO",
-      "views": 8530,
+      "views": 8531,
       "url": "https://www.youtube.com/watch?v=A7fYhekJU-I",
       "thumb": "https://i.ytimg.com/vi/A7fYhekJU-I/mqdefault.jpg",
       "publishedText": "23 mar 2024",
@@ -363,7 +363,7 @@
       "move": 0,
       "peak": 7,
       "weeks": 8,
-      "viewsDelta": 12
+      "viewsDelta": 13
     },
     {
       "pos": 8,
@@ -445,7 +445,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6941,
+      "views": 6942,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -453,7 +453,7 @@
       "move": 0,
       "peak": 12,
       "weeks": 8,
-      "viewsDelta": 21
+      "viewsDelta": 22
     },
     {
       "pos": 13,
@@ -877,7 +877,7 @@
       "artist": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy)",
       "song": "Te Quiero Mucho",
       "title": "BBBOYS (Belly Franco, Dex, Big T, Don & Rowdy) - Te Quiero Mucho (Official Music Video)",
-      "views": 2247,
+      "views": 2248,
       "url": "https://www.youtube.com/watch?v=Txsb4t6nBE4",
       "thumb": "https://i.ytimg.com/vi/Txsb4t6nBE4/mqdefault.jpg",
       "publishedText": "30 sty 2026",
@@ -885,7 +885,7 @@
       "move": 0,
       "peak": 36,
       "weeks": 8,
-      "viewsDelta": 9
+      "viewsDelta": 10
     },
     {
       "pos": 37,
@@ -1179,24 +1179,42 @@
     },
     {
       "pos": 3,
+      "id": "MQXUotiTsWU",
+      "isLatest": false,
+      "cancelled": false,
+      "artist": "TINY SHUJ SWANFACE",
+      "song": "ciągle nam mało",
+      "title": "TINY SHUJ SWANFACE - ciągle nam mało",
+      "views": 815,
+      "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
+      "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
+      "publishedText": "23 wrz 2026",
+      "prevPos": 3,
+      "move": 0,
+      "peak": 2,
+      "weeks": 4,
+      "viewsDelta": 33
+    },
+    {
+      "pos": 4,
       "id": "x2LVQUvEeW4",
       "isLatest": false,
       "cancelled": true,
       "artist": "G SMOOTH",
       "song": "FADE (Shot by Nighty Visionz)",
       "title": "G SMOOTH - FADE (Shot by Nighty Visionz)",
-      "views": 9651,
+      "views": 9653,
       "url": "https://www.youtube.com/watch?v=x2LVQUvEeW4",
       "thumb": "https://i.ytimg.com/vi/x2LVQUvEeW4/mqdefault.jpg",
       "publishedText": "10 sie 2024",
       "prevPos": 6,
-      "move": 3,
+      "move": 2,
       "peak": 2,
       "weeks": 4,
-      "viewsDelta": 31
+      "viewsDelta": 33
     },
     {
-      "pos": 4,
+      "pos": 5,
       "id": "IJXt-qAG-2Q",
       "isLatest": false,
       "cancelled": false,
@@ -1208,28 +1226,10 @@
       "thumb": "https://i.ytimg.com/vi/IJXt-qAG-2Q/mqdefault.jpg",
       "publishedText": "24 sty 2024",
       "prevPos": 5,
-      "move": 1,
+      "move": 0,
       "peak": 3,
       "weeks": 6,
       "viewsDelta": 31
-    },
-    {
-      "pos": 5,
-      "id": "MQXUotiTsWU",
-      "isLatest": false,
-      "cancelled": false,
-      "artist": "TINY SHUJ SWANFACE",
-      "song": "ciągle nam mało",
-      "title": "TINY SHUJ SWANFACE - ciągle nam mało",
-      "views": 811,
-      "url": "https://www.youtube.com/watch?v=MQXUotiTsWU",
-      "thumb": "https://i.ytimg.com/vi/MQXUotiTsWU/mqdefault.jpg",
-      "publishedText": "23 wrz 2026",
-      "prevPos": 3,
-      "move": -2,
-      "peak": 2,
-      "weeks": 4,
-      "viewsDelta": 29
     },
     {
       "pos": 6,
@@ -1257,7 +1257,7 @@
       "artist": "BABY FLAMESTA",
       "song": "HOOD LOYALTY",
       "title": "BABY FLAMESTA - HOOD LOYALTY",
-      "views": 6941,
+      "views": 6942,
       "url": "https://www.youtube.com/watch?v=6g0B1iUJbLY",
       "thumb": "https://i.ytimg.com/vi/6g0B1iUJbLY/mqdefault.jpg",
       "publishedText": "2 cze 2025",
@@ -1265,25 +1265,25 @@
       "move": "new",
       "peak": 6,
       "weeks": 3,
-      "viewsDelta": 21
+      "viewsDelta": 22
     },
     {
       "pos": 8,
-      "id": "RJmY2ZDkNOg",
+      "id": "GcFByoqlJgY",
       "isLatest": false,
       "cancelled": false,
-      "artist": "CXSHOUT",
-      "song": "LUSTRO",
-      "title": "CXSHOUT - LUSTRO",
-      "views": 1104,
-      "url": "https://www.youtube.com/watch?v=RJmY2ZDkNOg",
-      "thumb": "https://i.ytimg.com/vi/RJmY2ZDkNOg/mqdefault.jpg",
-      "publishedText": "29 lip 2024",
-      "prevPos": null,
-      "move": "new",
-      "peak": 8,
-      "weeks": 1,
-      "viewsDelta": 19
+      "artist": "TONY LUGO",
+      "song": "ONE SHOT ONE KILL (WUJA DISS)",
+      "title": "TONY LUGO - ONE SHOT ONE KILL (WUJA DISS)",
+      "views": 11266,
+      "url": "https://www.youtube.com/watch?v=GcFByoqlJgY",
+      "thumb": "https://i.ytimg.com/vi/GcFByoqlJgY/mqdefault.jpg",
+      "publishedText": "29 sty 2024",
+      "prevPos": 2,
+      "move": -6,
+      "peak": 2,
+      "weeks": 7,
+      "viewsDelta": 21
     }
   ],
   "artists": [
@@ -1300,7 +1300,7 @@
     {
       "pos": 2,
       "name": "TONY LUGO",
-      "views": 54115,
+      "views": 54117,
       "songs": 7,
       "bestSong": "MAINSTREAM (Aysha, Baby Flamesta, BibbyOG DISS)",
       "bestArtist": "TONY LUGO",
@@ -1310,7 +1310,7 @@
     {
       "pos": 3,
       "name": "BABY FLAMESTA",
-      "views": 42329,
+      "views": 42331,
       "songs": 8,
       "bestSong": "GANG SHIT NO LAME SHIT",
       "bestArtist": "BABY FLAMESTA x WUJA",
@@ -1330,7 +1330,7 @@
     {
       "pos": 5,
       "name": "G SMOOTH",
-      "views": 16341,
+      "views": 16343,
       "songs": 2,
       "bestSong": "FADE (Shot by Nighty Visionz)",
       "bestArtist": "G SMOOTH",
@@ -1389,7 +1389,7 @@
     }
   ],
   "totals": {
-    "views": 325043,
+    "views": 325056,
     "songs": 191
   },
   "latest": [
